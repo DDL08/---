@@ -1,0 +1,282 @@
+hackney
+=>=>n. 乘用马;出租马车;操贱役的人@vt. 出租;酷使;再三用之使变旧@a. 出租的;陈腐的
+habitat
+=>=>n. 栖息地;居留地;自生地;聚集处
+haberdashery
+=>=>n. 男子服饰经售店;杂货商店
+habann
+=>=>n. 哈巴恩管
+ha
+=>=>int. 嘿!;哈!;哈哈!
+habanera
+=>=>n. 哈巴内拉;此种舞蹈
+haberdasher
+=>=>n. 男子服饰经售商;杂货商人
+habitable
+=>=>a. 可居住的
+habilitate
+=>=>vt. 提供周转资金;予以穿着@vi. 取得资格
+habiliment
+=>=>n. 衣服;服装;制服;装饰
+habit
+=>=>n. 习惯;嗜好;习性@vt. 使穿衣
+habitant
+=>=>n. 居住者
+habitus
+=>=>n. 习惯;体质
+habituation
+=>=>n. 使习惯;习惯;熟习
+habitual
+=>=>a. 习惯的;惯常的;平常的
+habitation
+=>=>n. 居住;住所
+habituate
+=>=>vt. 使习惯于;使熟习于
+habitude
+=>=>n. 体质;性质;气质;习俗;习惯
+hackamore
+=>=>n. 驯马用的一种笼头
+hack
+=>=>n. 劈;砍;砍痕;出租车;干咳;饲草架;晒架;鹤嘴锄@vt. 劈;砍;出租;用旧@vi. 劈;砍;干咳;驾驶出租车@a. 出租的
+hackle
+=>=>vt. 梳理;乱砍@n. 锯齿形;针排;颈上的羽毛
+hackberry
+=>=>n. 朴树的一种;朴树果;朴树材@NUM
+hackman
+=>=>n. 马夫;司机
+halide
+=>=>n. 卤化物@a. 卤化物的
+hairiness
+=>=>n. 有毛;多毛的性质或状态
+haggish
+=>=>a. 老妖似的;女巫似的
+haemostasis
+=>=>n. 瘀血
+haddock
+=>=>n. 鳕的一种
+hacksaw
+=>=>n. 可锯金属的弓形锯;钢锯
+hackneyed
+=>=>a. 不新奇的;常见的;陈腐的
+had
+=>=>vbl. have 的过去式和过去分词@conj. 有
+hadorwould
+=>=>conj. 有;将@NUM
+hades
+=>=>n. 冥府;阎王;地狱
+haematic
+=>=>a. 血的@n. 作用于血的药物
+hag
+=>=>n. 女巫;丑老太婆;魔女;沼地;砍伐@vt. 砍;劈
+hafnium
+=>=>n. 铪
+haeremai
+=>=>int. 表示欢迎之辞
+haft
+=>=>n. 柄;把手@vt. 装上柄
+haggai
+=>=>n. 希伯来的先知
+hagfish
+=>=>n. 八目鳗类鱼
+haggard
+=>=>n. 野鹰@a. 憔悴的;形容枯槁的;野性的
+hailstorm
+=>=>n. 下得很大的冰雹
+hagiology
+=>=>n. 圣徒文学;圣徒传;圣徒录
+hagiographer
+=>=>n. 圣徒传作者
+haggle
+=>=>vi. 争论;杀价@vt. 乱砍;乱劈@n. 杀价;讨论;争论
+hagiography
+=>=>n. 圣徒传;圣徒言行录
+hail
+=>=>n. 冰雹;致敬;招呼@vt. 向...欢呼;致敬;招呼;使象下雹样落下@vi. 招呼;下雹@int. 万岁;欢迎
+hagridden
+=>=>a. 受恶梦惊扰的;困于恶梦的
+hailstone
+=>=>n. 冰雹
+haircut
+=>=>n. 理发;剪发的方式
+hairbreadth
+=>=>n. 间不容发的宽度
+hair
+=>=>n. 头发;毛发;些微
+hairbrush
+=>=>n. 发刷
+hairdresser
+=>=>n. 美容师;理发师
+hairdo
+=>=>n. 束发;发式;作头发
+hairdressing
+=>=>n. 美容
+hake
+=>=>n. 鳕鱼类
+hairspring
+=>=>n. 细弹簧;游丝
+hairpiece
+=>=>n. 假发;假眉毛
+hairlike
+=>=>a. 毛一般的;细微的
+hairless
+=>=>a. 无毛的
+hairnet
+=>=>n. 发网
+hairsplitter
+=>=>n. 拘泥于琐事的人;强词夺理的人
+hairpin
+=>=>n. 簪;束发夹;夹发针
+hairsplitting
+=>=>a. 做无益的细小区别的;吹毛求疵的@n. 拘泥于细节
+hairy
+=>=>a. 多毛的;毛状的;长毛的
+hairstyle
+=>=>n. 发型
+hairstreak
+=>=>n. 翅上有细纹的蝶
+hairtail
+=>=>n. 带鱼
+haitian
+=>=>a. 海地的@n. 海地人;海地语
+haiti
+=>=>n. 海地
+haka
+=>=>n. Maoli 族的战舞@NUM
+halfback
+=>=>n. 中卫
+halcyon
+=>=>n. 想象中的一种鸟;形同翠鸟;翠鸟@a. 宁静的;平稳的;翠鸟的
+halation
+=>=>n. 照相底片上显现的光轮状晕;晕光;白色模糊影像
+hal
+=>=>n. Henry 的昵称
+halberd
+=>=>n. 戟
+haleness
+=>=>n. 健壮
+hale
+=>=>a. 强壮的;健壮的@vt. 猛拉;拖曳
+half
+=>=>n. 一半;半时;不完全@a. 一半的;不完全的;半途的@ad. 一半地;部分地;几乎
+halfpennyworth
+=>=>n. 仅值半便士的东西;无价值之物
+halfhour
+=>=>n. 半小时;三十分钟@a. 半小时的;三十分钟的
+halfhearted
+=>=>a. 不认真的;无兴趣的;不热心的
+halfpenny
+=>=>n. 半便士铜币;半便士之值
+halfway
+=>=>a. 中途的;不彻底的;部分的@ad. 半路地;在中途;在半途
+halftone
+=>=>n. 半音;网板;中间色
+halibut
+=>=>n. 大比目鱼
+hammer
+=>=>n. 锤;铁锤;钉锤@vt. 锤打;敲打;钉@vi. 连续锤打
+halo
+=>=>n. 晕轮;光圈;荣光@vt. 使有晕轮;围以光环@vi. 成晕轮
+hallow
+=>=>vt. 使...神圣;视为神圣@n. 圣徒
+halley
+=>=>n. 哈雷
+halitosis
+=>=>n. 呼出的恶臭;令人不快的口臭
+halite
+=>=>n. 岩盐
+hall
+=>=>n. 门厅;走廊;会堂
+hallo
+=>=>int. 喂;哈罗
+hallmark
+=>=>n. 纯度检验证明;品质证明@vt. 加盖纯度检验证明
+halloo
+=>=>int. 一种喊声@n. 守猎时呼啸猎犬的喊声@vt.vi. 高呼;喊叫着追赶;高声招呼喊叫
+hallucination
+=>=>n. 幻觉;幻想
+halloween
+=>=>n. 万圣节前夕
+hallowed
+=>=>a. 神圣化的;神圣的
+hallucinate
+=>=>vt. 使产生幻觉
+hallway
+=>=>n. 走廊
+hallucinogen
+=>=>n. 迷幻剂
+halma
+=>=>n. 一种跳棋
+halve
+=>=>vt. 二等分;分享;减半
+halophile
+=>=>n. 好盐菌
+halogens
+=>=>n. 卤素
+halogen
+=>=>n. 卤素
+haloid
+=>=>a. 卤素的@n. 卤素盐;卤素衍生物
+halter
+=>=>n. 缰绳;笼头
+halt
+=>=>n. 停止;立定;休息@vt. 使停止;使立定@vi. 立定;停止;蹒跚;踌躇;有缺点@n. 停止
+halting
+=>=>a. 跛的;蹒跚的;犹豫的
+hamal
+=>=>n. 搬运工;男仆
+ham
+=>=>n. 火腿;大腿;笨拙的演员@a. 过火的;做作的@vt.vi. 演得过火
+halyard
+=>=>n. 升降索
+hamadryad
+=>=>n. 树神;印度产毒蛇之一种
+hamite
+=>=>n. 诺亚次子 Ham 的后裔;哈姆族人
+hamburger
+=>=>n. 肉饼;汉堡
+hamlet
+=>=>n. 小村;部落@n. 哈姆雷特
+handcar
+=>=>n. 手摇车
+hamstring
+=>=>n. 腿筋;腿窝@vt. 切断腿筋使成跛腿;使残废
+hammock
+=>=>n. 吊床;小丘
+hammerhead
+=>=>n. 锤头;笨人
+hammerblow
+=>=>n. 锤打
+hammertoe
+=>=>n. 槌状脚趾
+hamshackle
+=>=>vt. 将头和前足绑在一起;束缚
+hamper
+=>=>n. 食盒;食篮;阻碍物@vt.阻碍;使困累;妨碍
+hamster
+=>=>n. 东欧或亚洲产的大颊的鼠类
+handball
+=>=>n. 手球;那种球;手球
+hand
+=>=>n. 手;掌握;协助;指针;人手;手艺;手迹;支配;插手@vt. 支持;搀扶;交给
+han
+=>=>n. 汉
+handbag
+=>=>n. 手提包
+handbill
+=>=>n. 传单;招贴
+handbell
+=>=>n. 手摇铃
+handbreadth
+=>=>n. 一手宽
+handful
+=>=>n. 少数;一把;棘手之事
+handed
+=>=>a. 有手的
+handclasp
+=>=>n. 握手
+handcart
+=>=>n. 手车;手推车
+handcuffs
+=>=>n. 手铐
+handfree
+=>=>n. 电话机上的免提键

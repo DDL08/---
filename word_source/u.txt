@@ -1,0 +1,268 @@
+ultrafax
+=>=>n. 电视传真电报
+ukase
+=>=>n. 敕令;法令;布告
+udder
+=>=>n. 乳房
+ubiety
+=>=>n. 在一定的场所;所在;位置
+u
+=>=>n. 字母u
+ubiquitous
+=>=>a. 到处存在的;遍在的
+ubiquity
+=>=>n. 到处存在;遍在;耶稣的遍在
+uglify
+=>=>vt. 使丑;弄成难看;糟蹋;丑化
+ufologist
+=>=>n. 不明飞行物研究家
+ufo
+=>=>n. 不明飞行物
+ugliest
+=>=>adj. 最丑的
+ugliness
+=>=>n. 丑陋
+uglily
+=>=>ad. 丑;丑陋地;难看地
+ugly
+=>=>a. 丑陋的;邪恶的;险恶的;不祥的@n. 丑陋的东西
+ulnar
+=>=>a. 尺骨的
+ulceration
+=>=>n. 溃疡
+ulcer
+=>=>n. 溃疡;腐烂物
+ukulele
+=>=>n. 夏威夷的四弦琴
+ulcerate
+=>=>vt. 使溃疡;使腐败@vi. 溃烂;腐败
+ullage
+=>=>n. 缺量;不足量;损耗
+ulcerous
+=>=>a. 溃疡性的;患溃疡的
+ulna
+=>=>n. 尺骨
+ultimatum
+=>=>n. 最后的话;最后通牒;基本原理
+ultima
+=>=>a. 最后的;最终的@n. 最后一个音节
+ulterior
+=>=>a. 在那边的;将来的;隐蔽的
+ultimate
+=>=>n. 终极;根本;顶点;基本原理@a. 终极的;根本的;极限的;最远的;最后的;最大的
+ultracentrifuge
+=>=>n. 用超高速离心器
+ultra
+=>=>a. 过度的;过激的;极端的@n. 过激论者;急进论者
+ultrafashionable
+=>=>a. 极端时髦的
+unallowed
+=>=>a. 不允许的
+umpire
+=>=>n. 裁判员;仲裁人;决定性的事物@vt. 仲裁;裁判@vi. 当裁判
+umbilical
+=>=>a. 脐带的;脐的;脐状的;母系的
+ultraviolet
+=>=>a. 紫外线的
+ultramodern
+=>=>a. 超现代的;最新的;极时髦的
+ultraist
+=>=>n. 过激论者;极端主义者
+ultraism
+=>=>n. 激进论;极端主义
+ultramicrometer
+=>=>n. 超微计
+ultranationalism
+=>=>n. 超国家主义
+ultramontanism
+=>=>n. 教皇绝对权力主义
+ultrasonic
+=>=>n. 超声波@a. 超音速的
+uma
+=>=>n. 上端内存区
+ululate
+=>=>vi. 啼;叫;鸣;悲泣
+ululant
+=>=>a. 吠的;呜呜叫的
+ululation
+=>=>n. 吠声;啼声;泣声
+umbelliferous
+=>=>a. 有伞状花的;伞状花科的
+umbel
+=>=>n. 伞状花序
+umber
+=>=>n. 棕土;焦茶色@a. 棕色的;棕土的@vt. 涂红棕色于
+umbrageous
+=>=>a. 成荫的;阴翳的;多荫的
+umbra
+=>=>n. 影;本影;暗影;蚀时的地球
+umbilicus
+=>=>n. 脐;中心
+umbilicate
+=>=>a. 有肚脐的;脐状的
+umbles
+=>=>n. 鹿的内脏
+umbrage
+=>=>n. 不快;愤怒;阴影;树荫;怀疑
+umbrella
+=>=>n. 伞;雨伞;保护伞@a. 伞的;机构庞大的@vt. 用伞遮盖
+umbral
+=>=>a. 有荫影的;阴暗的;本影的
+umlaut
+=>=>n. 元音变音@vt. 使变音
+umbriferous
+=>=>a. 成荫的;投影的
+ump
+=>=>n. 裁判员@vi. 当裁判
+unaccustomed
+=>=>a. 不习惯的;不惯的;异乎惯例的;奇怪的
+unabroken
+=>=>a. 无破损的;完整的
+unabated
+=>=>a. 不衰退的;不减弱的
+un
+=>=>pron. 家伙;东西
+umpteen
+=>=>a. 无数的
+unabashed
+=>=>a. 不脸红的;不害羞的;脸皮厚的
+unable
+=>=>a. 不能;不会
+unabbreviated
+=>=>a. 未经缩写的;未经简略的
+unabridged
+=>=>a. 未经删节的;完整的
+unaccommodating
+=>=>a. 不随和的
+unacceptable
+=>=>a. 无法接受的;不受欢迎的
+unaccented
+=>=>a. 无重音的;无抑扬的;没有重音的
+unaccommodated
+=>=>a. 不适应的;不适合的;无必需品的
+unaccountable
+=>=>a. 无法解释的;无责任的
+unaccompanied
+=>=>a. 无伴侣的;不伴随...的;无伴奏的
+unaccounted
+=>=>a. 未说明的;未解释的
+unadulterated
+=>=>a. 无搀杂的;道地的;纯粹的;真正的
+unadaptable
+=>=>a. 不能适应的;不能改编的
+unacquainted
+=>=>a. 不知道的;不认识的;陌生的
+unacknowledged
+=>=>a. 不被承认的;未公开承认的;未答复的
+unactuated
+=>=>a. 未开动的;未经激励的
+unadmitted
+=>=>a. 不让进入的;未被承认的
+unadapted
+=>=>a. 不适应的;未经改编的
+unadopted
+=>=>a. 未被采纳的;非公路的;私人所有道路的
+unaffected
+=>=>a. 不矫揉造作的;自然的;不装饰的;未受影响的;未被感动的
+unadvised
+=>=>a. 欠思虑的;轻率的;未受劝告的
+unadvisable
+=>=>a. 不妥当的;不明智的;不受劝告的
+unadvisedly
+=>=>ad. 鲁莽地;不顾前后地;欠思虑的
+unaided
+=>=>a. 未受协助的
+unafraid
+=>=>a. 不怕的
+unaligned
+=>=>a. 不结盟的
+unassuming
+=>=>a. 谦逊的;不装腔作势的
+unappreciated
+=>=>a. 未被欣赏的
+unanimity
+=>=>n. 无异议;同意;一致
+unambiguous
+=>=>a. 不含糊的;明确的
+unalterable
+=>=>a. 不能改变的;不变的;坚定不移的
+unalloyed
+=>=>a. 未搀杂的;纯粹的;真正的;非合金的
+unaltered
+=>=>a. 未被改变的;不变的;照旧的;依然如此的
+unamiable
+=>=>a. 不和蔼的;不友好的
+unambitious
+=>=>a. 无名利心的;无野心的;不显眼的;谦虚的
+unaneled
+=>=>a. 未受临终涂油礼的
+unanswered
+=>=>a. 未答复的;无反应的
+unannounced
+=>=>a. 未经宣布的
+unanimous
+=>=>a. 意见一致的;无异议的
+unanswerable
+=>=>a. 无法回答的;没有责任的
+unappealing
+=>=>a. 无吸引力的
+unappealable
+=>=>a. 不可上诉的
+unappeasable
+=>=>a. 无法平息的;不能满足的
+unarmoured
+=>=>a. 非装甲的
+unapproved
+=>=>a. 未经同意的;未经批准的
+unapprehensive
+=>=>a. 理解力差的;不怀疑的
+unappreciative
+=>=>adj. 不识抬举
+unapproachable
+=>=>a. 不易接近的;不可亲的;无与伦比的
+unarguable
+=>=>a. 无可争辩的
+unapt
+=>=>a. 不恰当的;不至于的;笨拙的
+unarm
+=>=>vt. 缴械@vi. 放下武器
+unasked
+=>=>a. 未受请求的;未受请托的;主动提出的
+unartistic
+=>=>a. 非艺术的;与艺术无关的
+unartificial
+=>=>a. 非人工的;自然的
+unashamed
+=>=>a. 不羞耻的;不知耻的;厚脸无耻的;问心无愧的
+unassertive
+=>=>a. 不武断的;谦虚的;害羞的
+unassailable
+=>=>a. 攻不破的;不容置疑的;无懈可击的
+unassisted
+=>=>a. 无助的;独力的
+unavailing
+=>=>a. 无益的;无用的;无效的;徒劳的
+unattended
+=>=>a. 无随员的;无侍从的;无伴的;未被注意的;无人出席的
+unattached
+=>=>a. 无关系的;无隶属的;独立的;未婚的;未被逮捕的;未任命的;不连接的
+unassured
+=>=>a. 未得保证的;无把握的;不安全的;未保险的
+unattainable
+=>=>a. 难到达的;难得到的
+unauthorized
+=>=>a. 未经认可的
+unattractive
+=>=>a. 无魅力的;乏味的;不美的
+unavailable
+=>=>a. 得不到的;不近便的;不能利用的;无用的
+unawares
+=>=>ad. 没想到;不料;不知不觉地
+unawakened
+=>=>a. 未醒的;潜伏的
+unavoidable
+=>=>a. 不可避免的;不得已的;不能作废的
+unaware
+=>=>a. 不知道的
+unbacked
+=>=>a. 无靠背的;未驯服的;无助的;无支持的

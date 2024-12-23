@@ -1,0 +1,448 @@
+fan
+=>=>n. 风扇;迷;狂热者;爱好者@vt. 煽动;刺激;扇;吹拂@vi. 飘动;成扇形散开
+facetious
+=>=>a. 滑稽的;爱开玩笑的
+fabled
+=>=>a. 虚构的
+fabian
+=>=>a. 费边式的;拖延时间的;@n. 费边主义
+fab
+=>=>a. 惊人的;难以置信的
+f
+=>=>n. 字母f
+fabaceous
+=>=>a. 豆的
+fable
+=>=>n. 寓言;神话;谎言@vi. 虚构;作寓言
+face
+=>=>n. 脸;面容;正面;外观@vt. 面对;朝;承认;抹盖@vi. 朝;向
+fabricator
+=>=>n. 制作者;假造者;杜撰者
+fabricate
+=>=>vt. 制造;建造;装配;伪造
+fabric
+=>=>n. 织物;布;建筑物;结构;构造
+fabrication
+=>=>n. 制造;建造;虚构的谎言
+fabulous
+=>=>a. 传说的;无根据的;难以置信的
+fabulist
+=>=>n. 寓言家;说谎者
+facade
+=>=>n. 建筑物的正面;外观;表面
+facet
+=>=>n. 小平面;方面;刻面
+faceless
+=>=>a. 无面的;匿名的;无名的
+faced
+=>=>pp. 面对
+facer
+=>=>n. 面部所受的打击;意外的打击
+faceted
+=>=>a. 有小面的
+fairily
+=>=>ad. 仙女一样地;优雅地
+fade
+=>=>vi. 褪色;消失;凋谢@vt. 使褪色@n. 淡入;淡出@a. 平淡的
+factious
+=>=>a. 好搞派系的;好捣乱的
+facilities
+=>=>n. 设备
+facial
+=>=>n. 美颜术;脸部按摩术@a. 脸的;脸部用的
+facetiously
+=>=>ad. 滑稽地;爱开玩笑地
+facile
+=>=>a. 温和的;容易的;灵巧的
+facies
+=>=>n. 面容;外观
+facilitate
+=>=>vt. 帮助;使容易;促进
+fact
+=>=>n. 事实;真相;行为
+facing
+=>=>n. 贴边;饰面
+facility
+=>=>n. 设备;容易;灵巧
+facsimile
+=>=>n. 复写;传真@vt. 传真;临摹
+factional
+=>=>a. 派系的;小派别的
+faction
+=>=>n. 小派系;内讧
+factionalism
+=>=>n. 党派主义;党派之争
+factual
+=>=>a. 事实的;实际的@NUM
+factorge
+=>=>n. 手续费
+factitive
+=>=>a. 作为的;使役的
+factitious
+=>=>a. 人为的;不自然的;人工的
+factor
+=>=>n. 因素;因数;代理人
+factory
+=>=>n. 工厂;代理店
+factorial
+=>=>a. 代理店的;阶乘的@n. 阶乘
+factotum
+=>=>n. 杂役;打杂的人
+faculty
+=>=>n. 才能;能力;全体教员;(大学的)系
+factum
+=>=>n. 自己的行为;呈文
+factualism
+=>=>n. 尊重事实
+facula
+=>=>n. 光斑
+faddish
+=>=>a. 趋于时尚的;风行的;流行的
+fad
+=>=>n. 时尚;一时流行的狂热
+faddist
+=>=>n. 趋于时尚者;好新奇的人
+faille
+=>=>n. 罗缎
+faggot
+=>=>n. 柴把;束薪@vt. 捆;束
+fader
+=>=>n. 化音器
+fadeless
+=>=>a. 不褪色的;不凋落的;不衰弱的
+faded
+=>=>a. 已褪色的;已凋谢的
+fadeout
+=>=>n. 渐隐;渐没
+faery
+=>=>n. 仙子;仙境
+fading
+=>=>n. 衰退;衰落
+fag
+=>=>n. 吃力的工作;苦工@vi. 努力的工作@vt. 使劳累
+fail
+=>=>vi. 失败;不及格;忘记@vt. 辜负;不及格@n. 不及格
+fahrenheit
+=>=>n. 华氏温度计
+fagot
+=>=>n. 柴把;束薪@vt. 捆;束
+faience
+=>=>n. 精巧彩色陶器
+failing
+=>=>n. 失败;缺点;过失@prep. 如果没有...@a. 失败的
+fainting
+=>=>n. 昏晕;不省人事
+fainted
+=>=>adj. 昏厥
+fain
+=>=>a. 乐意;不得不;只得...@ad. 欣然;乐意@vt. 不要
+failure
+=>=>n. 失败;失败者;不足;缺乏;破产
+faint
+=>=>n. 昏厥;昏倒@a. 微弱的;无力的;模糊的@vi. 昏倒;变得微弱
+fainthearted
+=>=>a. 懦弱的;无精神的;胆小的
+fair
+=>=>n. 展览会;市集;美好的事物@a. 公平的;晴朗的;美丽的@ad. 公平地;清楚地@vi. 转晴
+faintness
+=>=>n. 微弱;衰弱;模糊
+faintly
+=>=>ad. 微弱地;模糊地;朦胧地
+faints
+=>=>n.pl. 劣质酒精
+fairground
+=>=>n. 举行赛会的场所;露天市场
+falloff
+=>=>n. 下降;分开;散开
+fakir
+=>=>n. 托钵僧
+fairyland
+=>=>n. 仙境;乐园
+fairly
+=>=>ad. 公平地;相当地;清楚地
+fairish
+=>=>a. 还可以的;相当的
+fairway
+=>=>n. 航路
+fairness
+=>=>n. 晴朗;光明正大;美丽
+fairy
+=>=>n. 仙女;精灵@a. 仙女的
+faithfulness
+=>=>n. 忠诚;诚实;正确
+faithful
+=>=>a. 忠实的;详确的;可靠的@n. 信徒
+faith
+=>=>n. 信心;信任;忠实;保证
+faithfully
+=>=>ad. 忠实;诚心诚意;深信着
+fake
+=>=>n. 假货;欺蹒一卷绳索@a. 假的@vt. 假造;仿造卷绳索@vi. 伪装
+faithless
+=>=>a. 无信的;不忠实的
+faker
+=>=>n. 骗子;冒牌货;摊贩
+fallacious
+=>=>a. 使人误解的;谬误的;不合理的
+falconet
+=>=>n. 小鹰;旧式小炮
+falcon
+=>=>n. 猎鹰
+falchion
+=>=>n. 刀;剑
+falconer
+=>=>n. 以鹰狩猎者;放鹰者;养鹰者
+falcons
+=>=>n. 婴犬
+falconry
+=>=>n. 放鹰捕猎;养鹰术
+fall
+=>=>n. 秋天;落下;瀑布;采伐量;下降;落差;降低;堕落@vi. 倒下;落下;来临;失守;阵亡;下跌;减弱;倾斜;退落;陷落;垮台;轮到@;变成;降低@a. 秋天的
+faller
+=>=>n. 砍伐树木的人
+fallback
+=>=>n. 可依靠的东西;退却
+fallacy
+=>=>n. 错误的观念或信念;谬见;谬论
+fallen
+=>=>a. 堕落的;落下来的;陷落的@vbl. fall 的过去分词
+fallible
+=>=>a. 易错的;可能犯错的
+fallibility
+=>=>n. 易错;易误;不可靠
+falling
+=>=>n. 落下;坠落;下降@a. 落下的
+famale
+=>=>n. 凹的
+falsework
+=>=>n. 脚手架@NUM
+falsehood
+=>=>n. 谎言;虚假
+fallow
+=>=>n. 休耕地@a. 休耕的;淡棕色的
+fallout
+=>=>n. 原子尘的降下;辐射性微尘;原子尘;附带结果
+false
+=>=>a. 错误的;虚伪的;假的;不老实的@ad. 欺诈地
+falseness
+=>=>n. 虚伪;不正确;不忠实
+falsely
+=>=>ad. 虚伪地;错误地;不实地
+falsetto
+=>=>n. 假音;假声歌手
+falsity
+=>=>n. 虚伪;错误
+falsifier
+=>=>n. 伪造者;撒谎的人;伪证的人
+falsification
+=>=>n. 变造;伪造;歪曲
+falsify
+=>=>vt. 伪造;歪曲@vi. 说谎
+falter
+=>=>vt. 支吾地说;迟疑@vi. 支吾;蹒跚地走@n. 颤抖;支吾;踌躇
+faltboat
+=>=>n. 一种可折叠的小艇
+faltering
+=>=>a. 犹豫的;蹒跚的;支吾的
+familiarize
+=>=>vt. 使熟悉;使熟知;使通俗化
+familial
+=>=>a. 家族的;家庭的
+famed
+=>=>a. 著名的;闻名的
+fame
+=>=>n. 名望;传说
+familarity
+=>=>n. 亲密;精通;亲密的行为
+familiarity
+=>=>n. 亲密;熟悉;精通@NUM
+familiar
+=>=>a. 熟悉的;常见的;亲密的@n. 熟友;常客
+familiarization
+=>=>n. 亲密;精通;熟悉
+famish
+=>=>vt. 使挨饿@vi. 饥饿;挨饿
+family
+=>=>n. 家庭;家人;族@a. 家庭的
+families
+=>=>n. 家族
+famine
+=>=>n. 饥荒;缺乏;饥馑
+famous
+=>=>a. 出名的;极好的
+famished
+=>=>adj. 饿死了
+famulus
+=>=>n. 助手
+farthing
+=>=>n. 1/4便士;英国最小的钱币
+farad
+=>=>n. 法拉
+fanion
+=>=>n. 小旗
+fancy
+=>=>n. 想象力;幻想;喜好@a. 想象的;精美的;新奇的;奇特的;高价的;特级的@vt. 想象;设想;相信;喜爱@vi. 想象;幻想@NUM
+fanaticism
+=>=>n. 狂热;盲信
+fanatical
+=>=>a. 狂热的;盲信的
+fanatic
+=>=>n. 狂热;狂热者;盲信@a. 狂热的;盲信的
+fanatically
+=>=>ad. 狂热地;盲信地
+fancier
+=>=>n. 爱好者
+fancied
+=>=>a. 空想的;虚构的
+fanciful
+=>=>a. 奇怪的;稀奇的;想像的
+fanfare
+=>=>n. 喇叭或号角嘹亮的吹奏声;吹牛
+fandango
+=>=>n. 胡闹;一种西班牙舞
+fancywork
+=>=>n. 刺绣;钩针织品
+fane
+=>=>n. 寺院;神庙
+fang
+=>=>n. 尖牙;犬牙
+fanfold
+=>=>n. 复写簿
+fanged
+=>=>a. 有尖牙的;有毒牙的;有牙根的
+fantastic
+=>=>a. 奇妙的;稀奇的;空想的
+fanshaped
+=>=>adj. 扇形
+fanner
+=>=>n. 摇扇人;电风扇;通风机
+fanlight
+=>=>n. 扇形窗
+fanny
+=>=>n. Frances 的爱称;女子救护队队员
+fantasia
+=>=>n. 幻想曲
+fantabulous
+=>=>a. 极出色的
+fantast
+=>=>n. 幻想家;梦想家
+fantod
+=>=>n. 烦燥
+fantasticato
+=>=>vt. 空想;使变得怪谬
+fantasticality
+=>=>n. 空想性质;变化无常;奇异
+fantasy
+=>=>n. 幻想;白日梦
+faq
+=>=>最常问的问题
+fanwise
+=>=>ad. 成扇地;如扇形地@NUM
+far
+=>=>a. 远的;久远的;遥远的@ad. 甚远地;很;很晚地
+farmland
+=>=>n. 农地
+farfamed
+=>=>a. 驰名的;威名远播的
+farcie
+=>=>a. 塞有馅的
+faraway
+=>=>a. 遥远的;恍惚的;出神的
+faraday
+=>=>n. 法拉第
+farce
+=>=>n. 闹剧;滑稽剧;胡闹
+fare
+=>=>n. 费用;旅客;食物@vi. 进展;进步;经营;过活
+farcy
+=>=>n. 皮疸病
+farewell
+=>=>n. 辞别;再见;再会@int. 再会
+farm
+=>=>n. 农场;农田@vt. 耕种@vi. 种田
+farina
+=>=>n. 谷粉;粉末;淀粉
+farfetched
+=>=>a. 牵强的;不自然的;乱七八糟的@NUM
+farinaceous
+=>=>a. 谷粉制的;粉状的;含淀粉的
+farmhouse
+=>=>n. 农舍;农家
+farmer
+=>=>n. 农夫;百姓
+farming
+=>=>n. 耕作
+farrow
+=>=>n. 一窝小猪;猪的一胎
+faroff
+=>=>adj. 久隔的
+farmyard
+=>=>n. 农家庭院
+farmstead
+=>=>n. 农场及其建筑物
+faro
+=>=>n. 一种纸牌游戏
+farrier
+=>=>n. 蹄铁匠;马医
+farrago
+=>=>n. 混杂;混杂物
+farriery
+=>=>n. 蹄铁术;蹄铁场;马掌铺
+fart
+=>=>n. 屁@vi. 放屁
+farsighted
+=>=>a. 能看到远处的;有先见之明的;远视的
+farseeing
+=>=>a. 目光远大的;有远见的
+farsightedness
+=>=>n. 远视眼
+farthermost
+=>=>a. 最远的
+farther
+=>=>a. 更远的;进一步的@ad. 更远的;此外;far 的比较级
+farthest
+=>=>a. 最远的;最久的@ad. 最远;far 的最高级
+fast
+=>=>a. 快速的;耐久的;紧的@ad. 很快地;紧紧地;彻底地@n. 绝食;斋戒@vi. 绝食;斋戒
+fascination
+=>=>n. 魔力;入迷;魅力
+fasciated
+=>=>a. 用带子束住的
+fas
+=>=>n. 船边交货价
+farthingale
+=>=>n. 鲸骨圆环;用鲸骨圆环扩大的裙子
+fascia
+=>=>n. 带;招牌
+fascinate
+=>=>vt. 令人入神;使着迷@vi. 入迷
+fascicular
+=>=>a. 丛生的;群生的
+fascinating
+=>=>a. 迷人的;吸引人的;使人神魂颠倒的
+fashion
+=>=>n. 流行;风尚;时样@vt. 形成;造;作
+fascist
+=>=>n. 法西斯党员;法西斯主义者
+fascism
+=>=>n. 法西斯主义;极端的国家主义
+fash
+=>=>vt. 使苦恼;使生气@n. 烦恼;麻烦
+fashionably
+=>=>ad. 时髦地;按照流行地
+fashionable
+=>=>a. 时髦的;上流社会的;流行的
+fashionmonger
+=>=>n. 创流行的人;赶时髦的人
+fastidiously
+=>=>ad. 非常讲究地;一丝不苟地
+faster
+=>=>v. 加快
+fastener
+=>=>n. 使系牢之物
+fasten
+=>=>vt. 拴紧;使固定;系;集中于;强加于@vi. 扣紧
+fastening
+=>=>n. 系结物
+fastidious
+=>=>a. 难取悦的;挑剔的;苛求的

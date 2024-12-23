@@ -1,0 +1,258 @@
+radiator
+=>=>n. 暖气炉;冷却器;辐射体
+racemose
+=>=>a. 总状花序的;总状排列的;葡萄状的
+rabidity
+=>=>n. 猛烈;热烈;急进;狂怒
+rabbit
+=>=>n. 兔子@vi. 猎兔@vt. 该死
+rabbi
+=>=>n. 犹太的法学博士;法师;先生
+rabbet
+=>=>n. 槽口;榫头;槽口接缝处@vt. 开槽口接合;嵌接@vi. 槽口接合
+rabbinism
+=>=>n. 犹太的法学博士的教导;犹太的法学博士的语风
+rabic
+=>=>a. 狂犬病的
+rabble
+=>=>n. 乌合之众;起哄的群众;下层社会;拨火棍@vt. 聚众闹事;用拨火棍搅动
+rabid
+=>=>a. 猛烈的;热烈的;急进的;狂怒的;固执的;疯狂的
+raceabout
+=>=>n. 竞赛用游艇
+raccoon
+=>=>n. 浣熊;其毛皮
+rabies
+=>=>n. 狂犬病;恐水病
+race
+=>=>n. 种族;人种;赛跑;比赛;急流;姜根@vi. 赛跑;竞赛;疾走@vt. 与...赛跑;使疾走;使空转
+racehorse
+=>=>n. 赛马
+raceball
+=>=>n. 赛马时举行的跳舞会
+raceme
+=>=>n. 总状花序
+rackety
+=>=>a. 喧扰的;喧闹的;喜欢吵闹的
+racially
+=>=>ad. 按人种;人种上
+rachitic
+=>=>a. 佝偻病的
+racetrack
+=>=>n. 跑道
+racer
+=>=>n. 比赛者;一种黑蛇
+raceway
+=>=>n. 水沟;屋内配管
+racial
+=>=>a. 人种的;种族的
+rachitis
+=>=>n. 佝偻病;脊柱炎
+racialism
+=>=>n. 种族主义;人种偏见
+racism
+=>=>n. 种族主义;人种偏见
+raciness
+=>=>n. 痛快;爽快;风味好
+racily
+=>=>ad. 保持原味地;津津有味地;爽快地;痛快地;生动地
+racing
+=>=>n. 赛马的嗜好;赛车的嗜好;赛马;赛车;空转
+racket
+=>=>n. 球拍;喧闹;杂乱无章@vi. 喧闹@vt. 用球拍打
+racist
+=>=>n. 种族主义者
+racketeer
+=>=>n. 敲诈者;获取不正当钱财的人@vt.vi. 诈骗钱财
+radial
+=>=>a. 光线的;光线状的;放射状的;半径的;径向的@n. 光线;射线
+radar
+=>=>n. 雷达;电波探测器
+racquet
+=>=>n. 球拍;拍球戏之一种;球拍型雪鞋
+racoon
+=>=>n. 浣熊
+racy
+=>=>a. 保持原味的;活泼的;生动的;适于赛跑的
+raddle
+=>=>n. 红赭石@vt.涂赭色;涂胭脂色;把... 交织;编
+radarscope
+=>=>n. 电波映像镜;雷达示波器
+raddled
+=>=>a. 浓妆的;昏乱的;坏掉的;衰弱的
+radiant
+=>=>a. 发光的;明亮的;辐射的;容光焕发的
+radian
+=>=>n. 弧度
+radialized
+=>=>a. 辐射状的;放射的
+radiance
+=>=>n. 光辉;闪烁;容光焕发
+radiation
+=>=>n. 放射线
+radiate
+=>=>vt. 放射;散发;辐射;传播;广播@vi. 发光;辐射;流露@a. 有射线的;辐射状的
+radiative
+=>=>a. 发光的;放热的;放射的
+ragtime
+=>=>n. 拉格泰姆旋律;其拍子@a. 滑稽的
+radiosensitive
+=>=>a. 对放射线敏感的
+radiogenic
+=>=>a. 由放射能产生的;适于无线电广播的
+radio
+=>=>n. 无线电;收音机;无线电报;无线电广播;无线电台@vt.vi. 用无线电发送
+radically
+=>=>ad. 根本地;完全地
+radicalism
+=>=>n. 激进主义
+radical
+=>=>n. 激进分子;语根;基础@a. 激进的;根本的;基本的;根的
+radicalize
+=>=>vt. 使激进
+radicate
+=>=>vt. 使生根;确立
+radicand
+=>=>n. 被开方数
+radii
+=>=>n.pl. 半径
+radiobroadcast
+=>=>vt. 无线电广播@n. 无线电广播
+radioactivity
+=>=>n. 放射能
+radioactive
+=>=>a. 放射性的;有放射能的
+radiobiology
+=>=>n. 放射性生物学
+radiochemistry
+=>=>n. 放射能化学
+radiocarbon
+=>=>n. 放射性炭素;炭素的放射性同位元素
+radioelement
+=>=>n. 放射性元素
+radiologist
+=>=>n. 放射线学者
+radiographic
+=>=>a. X 光线照相术的
+radiograph
+=>=>n. X 光照片;放射线照片@vt. 拍 X 光线照片
+radiogramophone
+=>=>n. 收音电唱机
+radiographer
+=>=>n. 放射线技师
+radioisotope
+=>=>n. 放射性同位元素
+radiography
+=>=>n. X 光线照相术;放射线照相术
+radiological
+=>=>a. 放射线学的
+radiometry
+=>=>n. 辐射线测定
+radiometallography
+=>=>n. 放射金属结构学
+radiology
+=>=>n. X 光线学;放射线学;X 光线科
+radiometer
+=>=>n. 辐射计;放射计
+radiophone
+=>=>n. 无线电话;光线电话机
+radiopaque
+=>=>a. 辐射透不过的
+radioscopy
+=>=>n. 放射线透视;X 光透视
+raffle
+=>=>n. 抽彩售货;废物@vt. 抽彩售货@vi. 抽彩
+radish
+=>=>n. 小萝卜
+radiotelephony
+=>=>n. 无线电话
+radiotelegraphy
+=>=>n. 无线电报
+radiotelegraphic
+=>=>a. 无线电报的;用无线电报的
+radiotelephone
+=>=>n. 无线电话@vt.vi. 打无线电话
+radiotherapy
+=>=>n. 放射线疗法
+radiotherapist
+=>=>n. 放射线治疗医师
+radiovision
+=>=>n. 无线电视
+radome
+=>=>n. 天线罩
+radius
+=>=>n. 半径;范围;辐射光线
+radium
+=>=>n. 镭
+radix
+=>=>n. 基;根;基数;根源
+raffia
+=>=>n. 酒榔;其叶的纤维
+radon
+=>=>n. 氡
+raffish
+=>=>a. 名誉不好的;无赖的;卑鄙的;艳俗的
+ragged
+=>=>a. 衣衫褴褛的;参差的;不协调的;粗糙的;刺耳的
+rag
+=>=>n. 碎布;抹布;碎片;碎屑;少量;破旧衣服;石板瓦@vt. 揶揄;戏弄;欺负@vi. 喧闹
+rafter
+=>=>n. 椽;椽架屋顶;筏夫@vt. 装椽于
+raft
+=>=>n. 筏;救生艇;大量@vi. 乘筏@vt. 筏运;制成筏
+raftsman
+=>=>n. 撑筏者
+ragbag
+=>=>n. 装破布袋
+ragamuffin
+=>=>n. 衣裳褴褛的人;无赖;寒酸样子的孩子
+rage
+=>=>n. 愤怒;情绪激动;狂暴@vi. 大怒;狂吹;风行
+raglan
+=>=>n. 套袖大衣
+ragi
+=>=>n. 鸭脚稗
+ragger
+=>=>n. 恶作剧者;新闻记者
+raging
+=>=>a. 愤怒的;狂暴的;猛烈的;使极痛的
+ragout
+=>=>n. 蔬菜炖肉片
+ragman
+=>=>n. 收买破烂的人
+ragtag
+=>=>n. 社会的垃圾;下层社会;无赖
+rained
+=>=>v. 下雨;vbl. 下雨
+raillery
+=>=>n. 开玩笑;逗趣
+rail
+=>=>n. 横杆;围栏;栏杆;铁轨;扶手;秧鸡@vt. 以横木围栏;铺铁轨@vi. 责骂;抱怨
+raid
+=>=>n. 袭击;突袭;搜捕@vt.vi. 奇袭;搜捕
+ragwort
+=>=>n. 刘寄奴属植物
+raider
+=>=>n. 奇袭者;侵入者;特别攻击队
+railer
+=>=>n. 斥责者;骂人者
+railcar
+=>=>n. 气动车
+railing
+=>=>n. 扶手;栏干;抱怨
+rain
+=>=>n.雨;雨水;下雨;雨天@vi. 下雨@vt. 使大量落下;大量地给
+railway
+=>=>n. 铁路;轨道@vi. 乘火车旅行
+railroad
+=>=>n. 铁路;铁路公司@vt. 铺设铁路;用铁路运输@vi. 在铁路工作
+raiment
+=>=>n. 衣服
+raincoat
+=>=>n. 雨衣
+rainbow
+=>=>n. 彩虹@a. 五彩缤纷的
+raindrop
+=>=>n. 雨滴;雨点
+rainfall
+=>=>n. 降雨;降雨量

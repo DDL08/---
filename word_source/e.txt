@@ -1,0 +1,432 @@
+eclogue
+=>=>n. 牧歌;田园诗
+earflap
+=>=>n. 御寒用之耳罩
+eaglet
+=>=>n. 小鹰
+each
+=>=>a. 每个;每;每一@ad. 每个@pron. 每个;个人;个自
+e
+=>=>n. 字母e
+eagerness
+=>=>nis:n. 网络信息服务(Network Information Services)@n. 热心
+eager
+=>=>a. 热心的;渴望的;热望的
+eagle
+=>=>n. 鹰;鹰状标饰
+eardrum
+=>=>n. 中耳;鼓膜
+earache
+=>=>n. 耳朵痛
+ear
+=>=>n. 耳朵;倾听;听觉;麦穗@vi. 抽穗@NUM
+eardrop
+=>=>n. 耳环;耳坠
+eared
+=>=>a. 有耳的;有把的;有穗的
+easiness
+=>=>n. 容易;轻松;安适
+earsplitting
+=>=>a. 震耳欲聋的
+earned
+=>=>a. 挣得的
+earlier
+=>=>a. 早的;初期的;ad. 早地;初期的
+earing
+=>=>n. 耳索
+earful
+=>=>n. 令人吃惊的回答;听腻了的消息;怨言
+earldom
+=>=>n. 伯爵的身分
+earl
+=>=>n. 伯爵
+earless
+=>=>a. 无耳的;听觉不佳的;无穗的
+early
+=>=>a. 早的;早熟的@ad. 很早;初
+earliness
+=>=>n. 早熟
+earliest
+=>=>a. 早的;初期的
+earlobe
+=>=>n. 耳垂
+earmuff
+=>=>n. 御寒耳罩
+earmark
+=>=>n. 耳上记号;特征;记号;标记@vt. 在耳朵做记号;弄上记号;充作
+earn
+=>=>vt. 赚得;获得;博得
+earphone
+=>=>n. 耳机;听筒
+earnings
+=>=>n. 所得;收入
+earnest
+=>=>n. 定金;诚挚;认真@a. 认真的;热心的;重要的@NUM
+earner
+=>=>n. 工资所得者
+earning
+=>=>n. 所赚的钱;所得;收入
+earom
+=>=>n. 电可改只读存储器
+earrings
+=>=>n. 耳环
+earplug
+=>=>n. 耳栓
+earpick
+=>=>n. 耳挖
+earring
+=>=>n. 耳环;耳饰
+earshot
+=>=>n. 听力所及之范围;声音所及的距离
+earthward
+=>=>a. 向地的
+earthling
+=>=>n. 世人;俗人;俗物
+earthing
+=>=>n. 接地
+earthcrust
+=>=>n. 地壳
+earth
+=>=>n. 地球;泥土;世界;尘世@vt. 埋入土中;赶入洞内@vi. 躲入洞内
+earthen
+=>=>a. 土制的;陶制的
+earthliness
+=>=>n. 尘世;俗世;通俗
+earthmover
+=>=>n. 重型推土机
+earthly
+=>=>a. 地球的;俗世的;可能的
+earthquakes
+=>=>n. 地震
+earthquake
+=>=>n. 地震
+earthshaking
+=>=>a. 震撼全球的;极为重大的
+easeful
+=>=>a. 舒适的;安逸的;舒适的
+earwig
+=>=>n. 偷听者@vt. 暗中骚扰
+earthy
+=>=>a. 土的;土质的;土味的
+earthworm
+=>=>n. 蚯蚓@NUM
+earwax
+=>=>n. 耳垢
+ease
+=>=>n. 安乐;安逸;悠闲@vt. 使安乐;使安心;减轻;放松@vi. 减轻;放松;灵活地移动
+earworm
+=>=>n. 一种有害幼虫
+eased
+=>=>adj. 放松的@NUM
+easement
+=>=>n. 缓和;减轻;方便附属建筑物
+easel
+=>=>n. 画架;黑板架
+easiest
+=>=>a. 容易的;轻松的
+easier
+=>=>adj. 更易
+easily
+=>=>ad. 容易地;轻易地;流利地
+ebcdic
+=>=>n. 扩充的二十进制交换码
+eat
+=>=>vt.vi. 吃;腐蚀
+easting
+=>=>n. 东行航程;朝东方
+easterly
+=>=>a. 东的;向东的;从东的@ad. 向东
+eastbound
+=>=>a. 往东的;向东旅行的
+east
+=>=>n. 东方;东@a. 东方的;向东的@ad. 向东方;朝东方
+easter
+=>=>n. 复活节
+eastern
+=>=>n. 东方人;东正教徒@a. 东方的;向东的;自东的
+eastwardly
+=>=>ad. 向东;从东方@a. 向东的;从东方的
+eastward
+=>=>n. 东方@a. 东方的;向东方的@ad. 东方地
+easy
+=>=>a. 容易的;缓缓的;舒适的;从容的;宽容的;流畅的;随便的;自然而然@的;疲软的;供筟的;疲软的;供筟n. 短暂的休息
+eastwards
+=>=>ad. 东方地;向东方地
+easygoing
+=>=>a. 逍遥自在的;悠闲的;懒散的
+eave
+=>=>n. 屋檐
+eatery
+=>=>n. 简便饮食店
+eaten
+=>=>vbl. 吃;eat的过去分词
+eatable
+=>=>a. 可以吃的@n. 食物
+eater
+=>=>n. 吃的人;常食者;侵蚀物
+eating
+=>=>n. 吃;食物@a. 侵蚀的;腐蚀性的
+eavesdropping
+=>=>n. 偷听
+eavesdrop
+=>=>vt.vi. 偷听@n. 屋檐水
+eaves
+=>=>n.pl. 屋檐
+eavesdropper
+=>=>n. 偷听者
+ebb
+=>=>n. 退潮;衰退@vi. 潮退;衰退
+ecdysis
+=>=>n. 蜕皮;蜕化
+eccentric
+=>=>n. 怪人;偏心圆@a. 古怪的;反常的;不同圆心的;
+ebullient
+=>=>a. 沸腾的;热情的;热情洋溢的
+ebony
+=>=>n. 黑檀树;乌木@a. 乌木制的;黑檀的
+ebonite
+=>=>n. 硬化橡皮;硬橡皮
+ebullience
+=>=>n. 沸腾;热情;热情洋溢
+ebullition
+=>=>n. 沸腾;精神饱满
+ecclesiastes
+=>=>n. 传道书
+eccentricity
+=>=>n. 古怪;古怪的行为;怪癖
+eccentrically
+=>=>ad. 离开中心;反常地
+ecclesia
+=>=>n. 古代雅典的人民会议;教会
+ecclesiastical
+=>=>a. 教会的;神职的;牧师的
+ecclesiastic
+=>=>n. 神职者;牧师;教会@a. 神职者的;牧师的;教会的
+ecdysiast
+=>=>n. 脱衣舞女
+echolocation
+=>=>n. 回声定位
+echinus
+=>=>n. 刺海胆
+echidna
+=>=>n. 针鼹鼠
+echelon
+=>=>n. 梯形;梯阵;梯次编队@vt. 排成梯队@vi. 形成梯队
+echinoderm
+=>=>n. 棘皮动物类的动物
+echoic
+=>=>a. 拟声的
+echo
+=>=>n. 回声;回音;回波@vi. 发回声;随声附和@vt. 摹仿;重复;反射@n. 回显@n. DOS命令:禁止(或允许)批处理命令行显示屏幕上
+echoism
+=>=>n. 拟声;形声
+eclectically
+=>=>ad. 折衷地
+eclampsia
+=>=>n. 惊厥
+eciliter
+=>=>n. 公合
+eclectic
+=>=>n. 折衷主义者;折衷派的人@a. 选择的;折衷的
+eclipse
+=>=>n. 日蚀;月蚀;衰落@vt. 引起日蚀;引起月蚀;使黯然失色
+eclecticism
+=>=>n. 折衷派;折衷主义;折衷说
+ecliptic
+=>=>n. 黄道@a. 黄道的;蚀的
+educationally
+=>=>ad. 教育的;教育上的;有关教育的
+edge
+=>=>n. 边缘;尖锐;刀刃;优势@vt. 使锐利;挤进;镶边;开刃@vi. 缓缓移动
+ecru
+=>=>a. 本色的@n. 淡褐色
+economical
+=>=>a. 节俭的;经济的;合算的
+ecologist
+=>=>n. 生态学者
+ecma
+=>=>n. 欧洲计算机制造商协会
+ecm
+=>=>n. 电子反测量
+ecological
+=>=>a. 生态学的;社会生态学的@n. 生态学;社会生态学
+econometrics
+=>=>n. 经济计量学
+ecology
+=>=>n. 生态学;社会生态学
+economic
+=>=>a. 经济上的;实用的;节省的
+economize
+=>=>vt.vi. 节约;节省;有效地利用
+economist
+=>=>n. 经济学者;经济家
+economics
+=>=>n. 经济学
+economization
+=>=>n. 节约;经济化
+economy
+=>=>n. 经济;理财;节约
+economizer
+=>=>n. 节约者;经济家;节约装置
+ecosystem
+=>=>n. 生态系统
+edaphic
+=>=>a. 土壤的
+ectomorph
+=>=>n. 瘦长而肌肉不发达的人
+ecstatic
+=>=>n. 狂喜的人@a. 狂喜的
+ecstasy
+=>=>n. 狂喜;心醉神迷;忘形
+ecstatically
+=>=>ad. 心醉神迷地;入神地
+ecuador
+=>=>n. 厄瓜多尔
+ectype
+=>=>n. 复制品;副本
+eczema
+=>=>n. 湿疹
+eden
+=>=>n. 伊甸园;乐园
+eddy
+=>=>n. 逆流;漩涡@vt.vi. (使)起漩涡
+edda
+=>=>n. 冰洲诗集
+edelweiss
+=>=>n. 火绒草@NUM
+edentate
+=>=>a. 无齿的;贫齿类的@n. 贫齿类动物
+edison
+=>=>n. 爱迪生
+edibility
+=>=>n. 适食性;可食性
+edgeways
+=>=>ad. 以刃向外;从旁边
+edged
+=>=>pp. 慢慢移动
+edging
+=>=>n. 边缘;边饰
+edgily
+=>=>ad. 刀口锐利;尖利;轮廓过分鲜明
+edgy
+=>=>a. 刀口锐利的;尖利的;急躁的
+edifice
+=>=>n. 大厦;大建筑物
+edict
+=>=>n. 布告;法令
+edible
+=>=>n. 食品;食物@a. 可食用的
+edification
+=>=>n. 启迪;熏陶
+edifying
+=>=>a. 有教训意味的;有益的;教训性的
+edify
+=>=>vt. 启迪;熏陶;教诲
+edinburgh
+=>=>n. 爱丁堡
+editress
+=>=>n. 女编辑
+edition
+=>=>n. 版本;版;翻版
+edit out
+=>=>v. 编辑中删除
+edit
+=>=>vt. 编辑;编校;修订;剪辑
+editing
+=>=>a. 编辑的
+editorial
+=>=>n. 社论;评论@a. 编辑的;主笔的;社论的
+editor
+=>=>n. 编者;编辑;主笔@v. 编辑器
+editorialize
+=>=>v. 发表社论;插入编者意见
+educate
+=>=>vt. 教育;教化;训练
+educability
+=>=>n. 可教育性;可陶冶性
+edps
+=>=>n. 电子数据处理系统
+educable
+=>=>a. 可教育的
+education
+=>=>n. 教育;训练;教育学
+educated
+=>=>a. 受过教育的;有教养的
+educational
+=>=>a. 教育的;教育性的
+efficacious
+=>=>a. 有效的;灵验的
+efface
+=>=>vt. 抹去;消除;忘却
+eelgrass
+=>=>n. 鳗草
+educt
+=>=>n. 抽出物;游离物;推论
+educator
+=>=>n. 教育家
+educative
+=>=>a. 教育的;教育上的;教育性的
+educe
+=>=>vt. 引出;唤起;使显出@NUM
+edward
+=>=>n. 爱德华
+eduction
+=>=>n. 引出;取出;排出
+eel
+=>=>n. 鳗鱼;鳝鱼
+eerie
+=>=>a. 怪诞的;可怕的;奇异的;不安的
+eelworm
+=>=>n. 线虫类
+eelpout
+=>=>n. 粘鱼类
+eely
+=>=>a. 似鳗的;易滑脱的;滑头滑脑的
+eery
+=>=>a. 怪诞的;可怕的;奇异的;不安的
+eeriness
+=>=>n. 怪诞;阴森;胆怯
+effable
+=>=>a. 可表达的
+effectuation
+=>=>n. 招致;实行;完成
+effectiveness
+=>=>n. 效力
+effective
+=>=>a. 有效的;有力的;实际的@n. 有生力量
+effect
+=>=>n. 结果;影响;效果;印象@vt. 招致;引起;完成@v. 效果
+effectively
+=>=>ad. 有效地;有力地;实际上
+effectual
+=>=>a. 有效果的;会应验的;有效的
+effector
+=>=>n. 操纵装置;效应器;格式控制字符@NUM
+effectuate
+=>=>vt. 招致;实行;完成
+effervesce
+=>=>vi. 冒泡;沸腾;兴奋
+effeminate
+=>=>a. 柔弱的;女人气的
+effeminacy
+=>=>n. 柔弱;女人气
+efferent
+=>=>a. 传出的@n. 输出管
+effervescent
+=>=>a. 冒泡的;兴奋的;沸腾的
+effervescence
+=>=>n. 冒泡;沸腾;活泼
+effete
+=>=>a. 筋疲力尽的;疲惫的;衰微的
+effloresce
+=>=>vi. 开花;风化
+effigies
+=>=>n. 肖橡;雕像
+efficiency
+=>=>n. 效率;效能;有效
+efficacy
+=>=>n. 功效;效力
+efficient
+=>=>a. 有效率的;能干的
+effigy
+=>=>n. 肖像;雕像

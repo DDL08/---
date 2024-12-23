@@ -1,0 +1,258 @@
+taciton
+=>=>n. 闸流管（新式）
+tabby
+=>=>n. 平纹;斑猫@vt. 使起波纹@a. 平纹组织的;起波纹的
+tabard
+=>=>n. 纹章战袍;传令所穿衣服;一种粗大衣
+ta
+=>=>n. 终端介面
+t
+=>=>n. 字母t
+tab
+=>=>n. 制表[键];标号;调整片;小报;短小突出部;监督;记录;帐单@n. 标签;制表符;TAB键@n. 制表[键]@;标号;卡片设备
+tabasco
+=>=>n. 塔巴斯哥辣酱油
+taboret
+=>=>n. 小凳子;绣框
+tablespoon
+=>=>n. 大汤匙
+table
+=>=>n. 桌子;餐桌;工作台;石板;铭文;表格;表;高原;平地层@vt. 搁置;嵌合;制表@n. 表格;模拟运算表
+tabernacle
+=>=>n. 临时房屋;帐篷;身体;礼拜堂;神龛;壁龛@vt. 使住于临时房屋@vi. 给于住宿;暂居
+tabefaction
+=>=>n. 衰弱
+tabid
+=>=>a. 衰弱的;憔瘦的
+tablecloth
+=>=>n. 桌巾
+tableau
+=>=>n. 生动的场面;戏剧性局面
+tableland
+=>=>n. 高原
+tabloid
+=>=>n. 小报;小型画报;药片;文摘;@a. 轰动性的;扼要的;缩略的;小报式的
+tabletop
+=>=>n. 桌面
+tablet
+=>=>n. 平板;门牌;笔记簿;碑;匾
+tableware
+=>=>n. 餐具
+taboos
+=>=>n. 禁忌
+taboo
+=>=>n. 禁忌;禁止接近;禁止使用@a. 禁忌的;忌讳的@vt. 禁忌;禁制;禁止
+tabor
+=>=>n. 小鼓@vi. 敲小鼓
+tabulation
+=>=>n. 作表;表格
+tabular
+=>=>a. 制成表的;扁平的;表格式的;平坦的
+tabouret
+=>=>n. 小凳子;绣框
+tabour
+=>=>n. 小鼓@vi. 敲小鼓
+tabs
+=>=>n. 跳格设定;制表符
+tabulate
+=>=>vt. 作成表;作成一览表;使成平面@a. 平板状的;平面的
+tache
+=>=>n. 痔;斑点
+tabulator
+=>=>n. 作表的人;定位装置
+tachycardia
+=>=>n. 心动过速
+tachometer
+=>=>n. 转速计;流速计
+tacit
+=>=>a. 沉默寡言的;心照不宣的;缄默的
+talisman
+=>=>n. 护身符;辟邪物;法宝
+tail
+=>=>n. 尾部;后部;辫子;排的长队;随员;特务;燕尾服;踪迹;限定继承权@a. 在后面的;从后面而来的;限定继承的@vt. 为...装尾;附于其后;尾随;使架住;使搭牢;跟踪;监视@vi. 成为散乱的行列;跟踪;嵌入;船尾搁浅@a. 尾部的;后部的;后面来的
+tactile
+=>=>a. 触觉的;有触觉的;能触知的
+tacky
+=>=>a. 发粘的;胶粘的;寒酸的;俗气的
+tack
+=>=>n. 大头钉;粗缝;行动方针;食物@vt. 以大头针钉住;附加;跟随
+taciturnity
+=>=>n. 沉默寡言;无言;不太说话
+taciturn
+=>=>a. 沉默寡言的;不太说话的;无言的
+tacitus
+=>=>n. 泰西塔斯
+tackle
+=>=>n. 工具;复滑车;滑车;装备;扭倒@vt. 固定;处理;抓住@vi. 扭倒
+tacker
+=>=>n. 敲平头顶的人;敲平头钉器
+tackling
+=>=>n. 扭住;抱住;卷起
+tactic
+=>=>n. 战略;策略@a. 顺序的;排列的
+tact
+=>=>n. 机智;手法;老练
+taconite
+=>=>n. 角岩
+tactful
+=>=>a. 机智的;老练的;委婉的
+tactician
+=>=>n. 战术家;策士
+tactical
+=>=>a. 战术的;用兵上的;策略的;机灵的
+tactics
+=>=>n. 用兵学;战术;兵法
+taffy
+=>=>n. Wales人;太妃糖;阿谀
+tadpole
+=>=>n. 蝌蚪
+tactless
+=>=>a. 无机智的;不机敏的;不得体的
+tactility
+=>=>n. 触知性;触感
+tactual
+=>=>a. 触觉的;触觉器官的;凭触觉的
+taenia
+=>=>n. 装饰头部的带;带;绳
+tael
+=>=>n. 两
+taffrail
+=>=>n. 船尾上部;船尾栏杆
+tagger
+=>=>n. 垂下物;尾随者;薄铁片;附加物
+tagalong
+=>=>n. 追随学样者
+tag
+=>=>n. 标签;附属物;名称;碎片;结束语;口头禅;陈词滥调;附加语;浑名;残片@;标记;标记@vt. 附以签条;尾随;添饰;起浑名;连接@vi. 紧紧跟随@n. 标记@n. 标记;标记符
+tagboard
+=>=>n. 标签纸
+taichung
+=>=>pla. 台中
+tahiti
+=>=>n. 大溪地岛
+taiga
+=>=>n. 针叶树林地带
+taken
+=>=>vbl. take的过去分词
+tailspin
+=>=>n. 旋尾降落
+tailing
+=>=>n. 装尾巴;嵌入墙中砖石突出部;屑
+tailcoat
+=>=>n. 燕尾服
+tailboard
+=>=>n. 可取下的尾板
+tailgate
+=>=>n. 后挡板
+tailor
+=>=>n. 裁缝师;成衣匠@vt. 缝制;制作;定制@vi. 做裁缝
+taillight
+=>=>n. 尾灯
+tailpiece
+=>=>n. 末片;附属物;补白图片
+taiwan
+=>=>n. 台湾
+taint
+=>=>n. 污点;耻辱;感染@vt. 污染;使腐败;沾染;腐蚀
+tainan
+=>=>pla. 台南
+taipei
+=>=>n. 台北
+take
+=>=>vt. 拿;取;抓;带领;获得;就座;接受;吃;喝;吸收;采取;乘;需要;花费;产生;对@待@vi. 拿;取;起作用;变得@n. 拿;取;收成
+taiwanese
+=>=>a. 台湾的;台湾人的@n. 台湾人
+takedown
+=>=>n. 拆抑
+tale
+=>=>n. 谎言;谣言;蜚语;故事;传说;叙述
+taking
+=>=>n. 取得;捕获;售得金额@a. 迷人的;可爱的;会传染的
+takeout
+=>=>n. 外带
+takeoff
+=>=>n. 起飞
+takeover
+=>=>adj. 取代
+talc
+=>=>n. 滑石;云母@vt. 用滑石粉擦;用滑石粉处理
+talbot
+=>=>n. 猎狗的一种
+talcum
+=>=>n. 滑石
+talentless
+=>=>a. 无能的
+talebearing
+=>=>n. 说小话;散布谣言
+talebearer
+=>=>n. 说小话的人;搬弄是非者;散播谣言者
+talent
+=>=>n. 才能;有才干的人;天才;天资
+talesman
+=>=>n. 候补陪审员
+tales
+=>=>n. 候补陪审员召集令
+taletelling
+=>=>n. 讲故事;搬弄是非
+tamer
+=>=>n. 驯服手
+talmudist
+=>=>n. 犹太法典编著者
+tallboy
+=>=>n. 高脚橱;双层衣橱
+talkie
+=>=>n. 有声电影
+talkative
+=>=>a. 喜欢说话的;饶舌的;多嘴的
+talk
+=>=>n. 谈话;交谈;会谈;讲话;演讲;空谈;谣言;方言;语言@vi. 讲话;演讲;说话;谈话;通话;闲聊;说闲话@vt.讲;说;讨论;谈论
+talker
+=>=>n. 说话的人;健谈者;饶舌者;空谈者
+talky
+=>=>a. 多嘴的;多对话的
+talking
+=>=>a. 说话的;多嘴的;富有表情的@n. 讲话;谈论
+tall
+=>=>a. 高的;长的;夸大的@ad. 夸大地
+tallow
+=>=>n. 牛脂;动物脂@vt. 涂牛脂于
+tallish
+=>=>a. 稍高的;身材较高的
+tallest
+=>=>adj. 最高
+tallness
+=>=>n. 高;高度
+talmud
+=>=>n. 犹太法典
+tally
+=>=>n. 符木;记账;得分;比分;计数器;标签;符合;对应物@vt. 点数;计算;记录;加标签于;使符合@vi. 符合;吻合;记分
+talmudic
+=>=>a. 犹太法典的
+tamarisk
+=>=>n. 撑柳
+tamable
+=>=>a. 可驯服的
+talons
+=>=>n. 钩爪
+talon
+=>=>n. 爪;如爪的手;魔爪;鸽胸雕花
+talus
+=>=>n. 距骨;踝;斜面
+tamarack
+=>=>n. 落叶松之一种
+tamale
+=>=>n. 墨西哥烹调之一种
+tamarind
+=>=>n. 罗望子;其果实
+tame
+=>=>a. 驯服的;柔顺的;被开垦的;顺从的;乏味的;平淡的@vt. 驯养;驯服;制服;使变得平淡@vi. 变得驯服
+tambourin
+=>=>n. 法国南部所用的一种鼓;用此种鼓的舞蹈
+tambour
+=>=>n. 鼓;绷圈@vt. 在绷圈上刺绣@vi. 用绷圈刺绣
+tambourine
+=>=>n. 小手鼓
+tameness
+=>=>n. 驯熟;温顺;无气力
+tamely
+=>=>ad. 驯熟地;温顺地;没有骨气地

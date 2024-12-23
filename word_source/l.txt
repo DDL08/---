@@ -1,0 +1,260 @@
+laity
+=>=>n. 俗人;外行
+lace
+=>=>n. 饰带;花边;缎带;鞋带@vt. 结带子;饰以花边@vi. 缚带子
+labium
+=>=>n. 唇;阴唇;下唇
+labelled
+=>=>v. 贴上标签;vbl. 贴上标签
+laager
+=>=>n. 车阵@vt. 布车阵@vi. 宿营于车阵中
+l
+=>=>n. 字母l
+labefaction
+=>=>n. 动摇;衰弱;衰微
+lab
+=>=>n. 实验室;研究室;
+label
+=>=>n. 标签;签条;商标@vt. 贴标签于;指...为;分类@n. 标志@v. 标注@n. DOS命令:加上或修改磁盘的标签
+labiate
+=>=>a. 唇形的@n. 唇形科植物
+labial
+=>=>a. 唇的;嘴唇的;唇音的@n. 唇音;风琴管
+labellum
+=>=>n. 唇瓣
+labialize
+=>=>vt. 使唇音化;用唇发音
+labile
+=>=>a. 不安定的;易发生变化的
+laborite
+=>=>n. 工党党员
+laboratory
+=>=>n. 实验室;研究室;化工厂
+labor
+=>=>n. 劳动;努力;工作;劳工;分娩@vi. 劳动;努力;苦干@vt. 详细分析;麻烦
+laborering
+=>=>adj. 劳动的
+laborer
+=>=>n. 劳动者;劳工
+laborious
+=>=>a. 艰苦的;费劲的;勤劳的
+laburnum
+=>=>n. 金链花
+labour
+=>=>n. 劳动;努力;工作;劳工;工人;分娩@vi. 劳动;努力;苦干@vt. 详细分析;麻烦
+laborsaving
+=>=>a. 节省劳力的;省力气的
+labret
+=>=>n. 唇饰
+lac
+=>=>n. 紫胶;十万;十万卢比;许多
+labyrinth
+=>=>n. 迷宫;难解的事物;迷路
+laccolith
+=>=>n. 岩盘
+lactose
+=>=>n. 乳糖
+lackey
+=>=>n. 仆人;侍从;马屁精@vt. 服侍;侍候;奉承
+lachrymation
+=>=>n. 流泪
+laceration
+=>=>n. 划破;割破;裂伤撕碎
+lacerable
+=>=>a. 撕得碎的
+lacedaemonian
+=>=>a. 古代斯巴达的@n. 古代斯巴达的别称
+lacerate
+=>=>vt. 划破;割破;使痛心;撕碎@a. 撕碎的;受折磨的
+laches
+=>=>n. 懈怠;疏忽
+lacewing
+=>=>n. 草蜻蛉
+lachrymal
+=>=>a. 泪的;流泪的;啜泣的;泪腺的@n. 泪壶;泪腺
+lacily
+=>=>ad. 有穗边地
+lachrymatory
+=>=>n. 泪壶@a. 泪的;催泪的
+lachrymator
+=>=>n. 催泪瓦斯
+lachrymose
+=>=>a. 爱哭的;悲哀的
+lackadaisical
+=>=>a. 懒洋洋的;愁闷的;感伤的
+lack
+=>=>n. 缺乏;无;不足@vt. 缺乏;短少;不足;需要@vi. 缺乏
+lackaday
+=>=>int. 悲哉!;哀哉!
+lactate
+=>=>vi. 分泌乳汁;授乳@n. 乳酸盐
+laconically
+=>=>ad. 简洁地
+lacklustre
+=>=>a. 无光泽的;无生气的@n. 无光泽;无生气
+lacking
+=>=>a. 缺乏的;不足的
+laconic
+=>=>a. 简洁的;简明的
+lacquerer
+=>=>n. 漆匠
+lacquer
+=>=>n. 瓷漆;漆;漆器@vt. 涂漆
+lacrosse
+=>=>n. 长曲棍球
+lactic
+=>=>a. 乳的;乳汁的;由乳汁取得的
+lacteal
+=>=>a. 乳的;乳状的;输入乳糜的@n. 乳糜管
+lactation
+=>=>n. 分泌乳汁;授乳;哺乳
+lacteous
+=>=>a. 乳的;乳状的
+lactobacillus
+=>=>n. 乳酸菌
+lactiferous
+=>=>a. 输送乳汁的;生乳液的
+lactometer
+=>=>n. 检乳器
+ladylove
+=>=>n. 情人;情妇
+lading
+=>=>n. 装载;装船;船货
+ladder
+=>=>n. 梯;进身的阶梯@vi. 袜子抽丝;装设梯子
+lacy
+=>=>a. 丝带的;花边的;花边状的
+lacuna
+=>=>n. 空白;空隙;阙文
+lad
+=>=>n. 青年;少年;老友
+lade
+=>=>vt. 装;装载;使载@vi. 装货
+laddic
+=>=>n. 多孔磁心
+laden
+=>=>a. 充满的;负载的;苦恼的@vbl. lade的过去分词
+ladybug
+=>=>n. 瓢虫
+ladleful
+=>=>n. 满杓
+ladle
+=>=>n. 杓子;长柄杓@vt. 以杓舀取;以杓掬;不分对象予以赠送
+lady
+=>=>n. 淑女;女士;贵妇
+ladyhood
+=>=>n. 贵妇之身分或风度
+ladyfinger
+=>=>n. 松脆饼
+ladylike
+=>=>a. 娴淑的;如淑女的;高雅的
+lagos
+=>=>n. 尼日利亚的首都
+laggard
+=>=>n. 迟钝者;落后者@a. 迟钝的;落后的
+lag
+=>=>n. 落后;囚犯;迟延;桶板;防护套@a. 最后的@vi. 落后;蹒跚;缓缓而行;滞后@vt. 落后于;押往监狱;加上外套
+ladyship
+=>=>n. 夫人的身分;夫人;小姐
+lager
+=>=>n. 酿造后再贮藏熟成的啤酒
+lagniappe
+=>=>n. 免费赠品
+lagging
+=>=>n. 迟钝;落后;防护套@a. 迟钝的;落后的
+lagomorph
+=>=>n. 兔类动物
+laid
+=>=>vbl. lay的过去式和过去分词
+laic
+=>=>n. 凡人;俗人;外行@a. 凡人的;俗人的;外行的
+lah
+=>=>n. 长音阶的第 6 音
+laicism
+=>=>n. 政权归还俗人主义
+lair
+=>=>n. 兽穴;兽窝;泥潭@vi. 进入兽穴;在泥中打滚@vt. 放于穴中;使陷入泥潭
+lain
+=>=>vbl. lie的过去分词
+laird
+=>=>n. 地主;领主
+laminography
+=>=>n. 见sectional rediography
+lambskin
+=>=>n. 小羊皮;羊皮纸
+lamaism
+=>=>n. 喇嘛教
+laky
+=>=>a. 深红色颜料的;深红色的;湖泊的
+lakelet
+=>=>n. 小湖
+lake
+=>=>n. 湖;池;色淀@vt.vi. (使)血球溶解
+lakh
+=>=>n. 十万;十万卢比;多数
+lam
+=>=>vt.vi. 打;鞭笞;逃脱@n. 逃亡
+lallation
+=>=>n. 将 r 音发成 l 音
+lama
+=>=>n. 喇嘛
+lambda
+=>=>n. 希腊字母的第 11个字
+lamb
+=>=>n. 小羊;羔羊@vi.vt. 生小羊
+lamasery
+=>=>n. 喇嘛庙
+lambaste
+=>=>vt. 痛打;严责
+lambent
+=>=>a. 轻轻摇曳的;柔和而光亮的;轻妙的
+lambency
+=>=>n. 柔光;轻妙
+lambert
+=>=>n. 朗伯
+lamentable
+=>=>a. 可悲的;哀伤的;可怜的
+lamellate
+=>=>a. 有薄层的;薄片形的
+lamebrain
+=>=>n. 笨蛋;呆子
+lame
+=>=>a. 跛足的;僵痛的;不完全的;金属薄片;不知内情的人@vi. 变跛;瘸行@vt. 使成残废;使无用
+lamella
+=>=>n. 薄板;薄层;薄片
+lameness
+=>=>n. 跛;瘸;残废
+lamely
+=>=>ad. 一瘸一拐地;不完全地
+lament
+=>=>n. 悲叹;悔恨;恸哭;挽歌;悼词@vt. 哀悼@vi. 悔恨;悲叹
+laminate
+=>=>vt. 制成薄板;制成箔@vi. 分成薄片@a. 薄板状的@n. 积层塑胶板;薄片制品
+lamia
+=>=>n. 女怪;妖妇
+lamentation
+=>=>n. 悲叹;哀悼
+lamina
+=>=>n. 薄板;薄片;薄层;叶片
+lamination
+=>=>n. 制成薄板;积层;薄板
+laminated
+=>=>n. 叠片
+laminator
+=>=>n. 制板机
+lan
+=>=>n. 局部区域网络;局域网;本地网
+lamplighter
+=>=>n. 点燃街灯的灯夫;点灯用具
+lampblack
+=>=>n. 油烟;煤烟;灰尘
+lamp
+=>=>n. 灯@vt. 照亮
+lamplight
+=>=>n. 灯火
+lamppost
+=>=>n. 街灯柱
+lampoon
+=>=>n. 讽刺文@vt. 讽刺
+lamprey
+=>=>n. 八日鳗

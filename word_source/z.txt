@@ -1,0 +1,214 @@
+zaimuth
+=>=>n. 方位
+zabra
+=>=>n. 斑马
+zabaglione
+=>=>n. 意大利菜肴
+zaftig
+=>=>a. 身体丰满的
+zonary
+=>=>a. 象带子的;带状的
+zig
+=>=>n. 之字形的转折;急转@vi. 转弯
+zee
+=>=>n. Z字母
+zealot
+=>=>n. 热心者;狂热者;犹太教的狂热信徒
+zap
+=>=>vt.vi. 快速的动或杀死@n. 活力;意志;杀死@int. 咝!
+zamindar
+=>=>n. 印度地主;mogul帝国的收税吏
+zambo
+=>=>n. 拉丁美州的印地安人与黑人之混血种
+zany
+=>=>n. 小丑;笨人;丑角的配角@a. 滑稽的;愚蠢的
+zazen
+=>=>n. 禅宗之打坐
+zapateado
+=>=>n. 西班牙舞蹈的一种
+zeal
+=>=>n. 热心;热衷;热诚
+zebrass
+=>=>n. 雄斑马和雌驴交配成的杂种
+zealous
+=>=>a. 热衷的;热诚的;热心的;热情的
+zealotry
+=>=>n. 热狂;狂热的行为;狂言
+zebra
+=>=>n. 斑马
+zebu
+=>=>n. 瘤牛
+zebrawood
+=>=>n. 热带美洲产树木之一;其木材
+zed
+=>=>n. Z字母
+zephyr
+=>=>n. 西风;和风;徐风
+zenana
+=>=>n. 闺房;女用薄衣料
+zemstvo
+=>=>n. 地方自治组织;郡县议会
+zein
+=>=>n. 玉蜀黍蛋白
+zen
+=>=>n. 禅
+zenithal
+=>=>a. 天顶的;绝顶的
+zenith
+=>=>n. 顶点;顶峰;天顶
+zeolite
+=>=>n. 沸石
+zestful
+=>=>a. 有风味的;有风趣的;有热情的
+zeroth
+=>=>a. 第 0 个
+zero
+=>=>n. 零;零点;零度;无;乌有;最低点@a. 零的@vt. 调零;对准
+zest
+=>=>n. 风味;强烈的风味;热情;热心@vt. 给...调味
+zibelline
+=>=>n. 黑貂皮@a. 黑貂的
+zeugma
+=>=>n. 轭式修饰法
+zibet
+=>=>n. 香猫
+zipped
+=>=>pp. 拉上
+zincite
+=>=>n. 红锌矿
+zillionaire
+=>=>n. 大富翁
+zilch
+=>=>n. 无;零;无价之物
+zigzag
+=>=>n. 曲折;Z字形@a. 曲折的;锯齿形的@ad. 曲折地;成锯齿形地@vt. 使成之字形;使曲折@vi. 成之字形;弯曲地走路
+zillion
+=>=>n. 庞大的数字
+zincic
+=>=>a. 锌的;从锌得来的;含锌的
+zinc
+=>=>n. 锌@vt. 涂锌于
+zinciferous
+=>=>a. 含锌的
+zing
+=>=>n. 子弹声;活力@vi. 发尖啸声@vt. 对...挑剔
+zincous
+=>=>a. 锌的;含锌的;阳极的
+zincoid
+=>=>a. 锌的;似锌的
+zine
+=>=>n. 锌
+zinnia
+=>=>n. 百日草属植物
+zinky
+=>=>a. 锌制的;含锌的
+zip
+=>=>n. 拉练;活力;飞射声@vt. 使增加活力;拉(拉链)@vi. 嘘嘘地响;拉拉链
+zitherist
+=>=>n. 演奏筝者
+zircon
+=>=>n. 锆石
+zippier
+=>=>adj. 更有活力的
+zipper
+=>=>n. 拉练
+zippy
+=>=>a. 敏捷的;活泼的
+zirconium
+=>=>n. 锆
+zirconia
+=>=>n. 氧化锆
+zither
+=>=>n. 筝
+zodiac
+=>=>n. 十二宫图;黄道带
+zloty
+=>=>n. Poland的货币单位;其镍币
+zizz
+=>=>n. 瞌睡;打盹
+zmodem
+=>=>n. 智能MODEM通讯协议;容错性好
+zoisite
+=>=>n. 黝帘石
+zoetrope
+=>=>n. 西洋镜
+zonal
+=>=>a. 带子的;带状的;划成地带的;分区的
+zoomancy
+=>=>n. 动物占卜
+zoogeography
+=>=>n. 动物地理学
+zoning
+=>=>n. 分区制
+zone
+=>=>n. 地域;地带;地区@vt. 环绕;使分成地带@vi. 分成区
+zonation
+=>=>n. 带状配列;动植物的生物地理学的地带分布
+zoned
+=>=>a. 划成区域的;束带的
+zoo
+=>=>n. 动物园
+zonked
+=>=>a. 醉酒的;吸毒而恍惚的
+zoogamy
+=>=>n. 有性生殖;两性生殖
+zoological
+=>=>a. 动物学的
+zoolater
+=>=>n. 动物的崇拜者
+zoography
+=>=>n. 动物志学
+zoologic
+=>=>a. 动物学的;关于动物的
+zoology
+=>=>n. 动物学;生态
+zoologist
+=>=>n. 动物学家
+zoom
+=>=>n. 急速上升;图象电子放大;嗡嗡声@vi. 突然扩大;急速上升;摄象机移动@vt. 使摄象机移动@a. 免费的@n. 缩放
+zooplastic
+=>=>a. 动物组织移植术的
+zoonosis
+=>=>n. 动物病
+zoomorphism
+=>=>n. 动物形象;用动物之形象
+zooming
+=>=>ing. 放大缩小
+zoon
+=>=>n. 发育完全的个体
+zoophysics
+=>=>n. 动物构造学
+zoophilous
+=>=>a. 由小动物传播的;爱护动物的
+zoophyte
+=>=>n. 植虫类
+zucchini
+=>=>n. 夏季产南瓜之一种
+zoster
+=>=>n. 带;带状疹子
+zoril
+=>=>n. 南非及小亚细亚产类似臭鼬的动物
+zoospore
+=>=>n. 游走孢子
+zoroastrainism
+=>=>n. 拜火教
+zrm
+=>=>n. 自然码
+zounds
+=>=>int. 表示愤怒惊讶的咒骂声
+zucchetto
+=>=>n. 无边帽
+zymase
+=>=>n. 变酒酵素
+zwitterion
+=>=>n. 两性离子
+zurich
+=>=>n. 苏黎士
+zygote
+=>=>n. 接合子;接合体
+zymology
+=>=>n. 发酵学;发酵论
+zymogenic
+=>=>a. 酵素母质的;酵素原的;发酵菌的
+zymosis
+=>=>n. 发酵;发酵作用;酵性病

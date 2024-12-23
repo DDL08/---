@@ -1,0 +1,7580 @@
+aardvark
+=>n. 土猪
+aardwolf'
+=>n. 土狼
+aasvogel
+=>n. 秃鹰之一种
+abaci
+=>n. 算盘
+aback
+=>ad. 向后地;朝后地
+abacus
+=>n. 算盘
+abaft
+=>ad. 向船尾@prep. 在...后
+abalone
+=>n. 鲍鱼
+abandon
+=>vt. 放弃;沉溺@n. 放任
+abandoned
+=>a. 被抛弃的;自弃的;自甘堕落的
+abandonee
+=>n. 被遗弃者;被委付者
+abandoner
+=>n. 遗弃者;委付者
+abandonment
+=>n. 放弃;自暴自弃;放纵
+abas
+=>vt. 打倒
+abase
+=>vt. 降低...的地位;降低...的品格;贬抑
+abasement
+=>n. 贬抑;屈辱;谦卑
+abash
+=>vt. 使...羞愧;使困窘
+abashment
+=>n. 羞愧;
+abate
+=>vt. 缓和;减弱;减少;废除@vi. 缓和;减弱;减少
+abatement
+=>n. 减少;减轻;缓和
+abatis
+=>n. 鹿柴;拒木;铁丝网
+abatment
+=>n. 消除，减除
+abb
+=>n. 横丝;纬;羊毛
+abbacy
+=>n. 大修道院院长之职位;管区;任期
+abbatial
+=>a. 大修道院的;大修道院长的;女大修道院长的
+abbe
+=>n. 大修道院院长;僧侣;神父
+abbess
+=>n. 女修道院院长;女庵主持
+abbey
+=>n. 修道院
+abbot
+=>n. 修道院院长;方丈;住持
+abbreviate
+=>vt. 缩写;使...简略;缩短
+abbreviation
+=>n. 缩写
+abbreviator
+=>n. 缩写者
+abc
+=>n. 基础知识;美国广播公司;澳大利亚广播公司
+abcoulomb
+=>n. 绝对库伦
+abdicate
+=>vt. 放弃@vi. 逊位
+abdication
+=>n. 逊位;弃权;辞职
+abdicator
+=>n. 放弃者;让位者
+abdomen
+=>n. 腹部
+abdominal
+=>a. 腹部的;腹式呼吸;开腹手术
+abduct
+=>vt. 诱拐;绑走
+abduction
+=>n. 诱拐
+abductor
+=>n. 诱拐者
+abe
+=>n. 亚伯;Abraham 的昵称
+abeam
+=>ad. 与船的龙骨成直角
+abecedarian
+=>n. 初学者@a. 字母的;初步的
+abed
+=>ad. 在床上
+abelmosk
+=>n. 秋葵
+aberrance
+=>n. 脱离正道;越轨;脱离常轨
+aberrant
+=>a. 脱离正道的;脱离常轨的;变体的
+aberration
+=>n. 越轨;光行差;心理失常;色差
+abestrine
+=>adj. 石棉的
+abet
+=>vt. 教唆;帮助
+abeyance
+=>n. 中止;暂搁;停止
+abfarad
+=>n. 绝对法拉
+abhenry
+=>n. 绝对亨利
+abhor
+=>vt. 憎恶;痛恨
+abhorrence
+=>n. 痛恨
+abhorrent
+=>a. 令人憎恨的;可恶的;厌恶的;相反的;不一致的
+abidance
+=>n. 遵守;持续;居住
+abide
+=>vi. 遵守;忍受;居留;坚持@vt. 忍受
+abiding
+=>a. 永久的;持久的;不变的
+abient
+=>adj. 回避的
+abigail
+=>n. 使女
+ability
+=>n. 能力;才干
+abject
+=>a. 不幸的;可怜的;悲惨的
+abjection
+=>n. 卑鄙;落魄
+abjuration
+=>n. 放弃;誓绝
+abjure
+=>vt. 发誓放弃
+ablactation
+=>n. 断奶
+ablate
+=>vt.vi. 切除;腐蚀;蒸发
+ablating
+=>adj. 烧蚀的
+ablation
+=>n. 烧蚀
+ablaut
+=>n. 元音变换
+ablaze
+=>a. 着火的;闪亮的;激昂的@ad. 着火;闪耀
+able
+=>a. 能干的 ;能够的
+ablebodied
+=>a. 强壮的;强健的
+abloom
+=>ad. 开花@a. 开花的
+ablush
+=>a. 脸红@ad. 脸红
+ablution
+=>n. 洗身;洗礼;斋戒沐浴
+ably
+=>ad. 能干地;巧妙地
+abnegate
+=>vt. 放弃;舍弃;戒禁
+abnegation
+=>n. 拒绝;放弃
+abnormal
+=>a. 不正常
+abnormality
+=>n. 不正常;反 常
+abnormity
+=>n. 异常;不规则;异形
+aboard
+=>ad. 在船上;在火车上;在飞机上@prep. 在...之上
+abode
+=>n. 住所;住处
+aboil
+=>a. 沸腾的@ad. 沸腾着
+abolish
+=>vt. 废止;革除;取消
+abolishable
+=>a. 可废止的;可取消的
+abolisher
+=>n. 废除者
+abolishment
+=>n. 废止;革除;取消
+abolition
+=>n. 废除;废除奴隶制度
+abolitionism
+=>n. 废除主义;废奴主义
+abolitionist
+=>n. 废除主义者;废奴主义者
+abominable
+=>a. 讨厌的;令人憎恶的
+abominably
+=>ad. 可恶地;可恨地;极端地
+abominate
+=>vt. 痛恨;憎恶
+abomination
+=>n. 憎恨;痛恶;可憎的事物
+aboral
+=>adj. 反口的
+aboriginal
+=>a. 原始的;土著的@n. 土著居民;土生生物
+aborigine
+=>n. 山地人
+aborigines
+=>n. 土人;原住民;土生生物
+aborning
+=>ad. 在生产中;刚要出生@a. 在生产中的
+abort
+=>vi. 流产;堕胎;失败@vt. 使流产;使失败
+aborted
+=>a. 流产的;失败的
+aborticide
+=>n. 堕胎;堕胎药
+abortion
+=>n. 流产;堕胎;失败;夭折
+abortionist
+=>n. 为人堕胎者
+abortive
+=>a. 流产的;堕胎的;失败的
+abound
+=>vi. 丰富;富于;充满
+about
+=>ad. 大约;四处;在附近;周围@prep. 有关;大约;关于
+above
+=>a. 上述的;上面的@ad. 在上面@prep. 在上方;超出
+aboveboard
+=>ad. 光明正大地;率直地@a. 光明正大的;率直的
+aboveground
+=>ad. 在地上;未被埋葬地;活着
+abracadabra
+=>n. 咒语;胡言乱语
+abradant
+=>a. 摩擦着的@n. 磨蚀剂
+abrade
+=>vt. 擦伤;磨损;磨
+abraham
+=>n. 亚伯拉罕
+abrasion
+=>n. 磨去;磨损;磨损处
+abrasive
+=>n. 研磨剂@a. 研磨的
+abreact
+=>vt. 使消散;发泄
+abreaction
+=>n. 消散;发泄
+abreast
+=>ad. 并肩地;相并地
+abridge
+=>vt. 删节;缩短;剥夺
+abridged
+=>adj. 省略的
+abridgement
+=>n. 删节;缩短;删节本
+abridgment
+=>n. 删节;缩短;删节本;剥夺
+abroad
+=>ad. 往国外;到处
+abrogate
+=>vt. 废除;取消
+abrogation
+=>n. 废除;取消
+abrupt
+=>a. 突然的;唐突的;陡峭的;不连贯的;无礼的
+abruptly
+=>ad. 突然地;唐突地
+abruptness
+=>n. 突然;唐突
+abs
+=>n. abs@n. 绝对值
+abscess
+=>n. 脓疮;溃疡
+abscessed
+=>a. 长脓疮的
+abscind
+=>vt. 切断
+abscissa
+=>n. 横坐标
+abscission
+=>n. 切断;除去;顿断法
+abscond
+=>vt. 潜逃;逃匿
+abscondence
+=>n. 逃亡;失踪
+absence
+=>n. 缺乏;没有;缺席
+absent
+=>a. 缺席的;不在的;缺乏的;漫不经心的@vt. 缺席
+absentee
+=>n. 缺席者;未上班者;不在者
+absently
+=>ad. 心不在焉地;茫然地
+absentminded
+=>a. 心不在焉的;茫然的;恍惚的
+absinth
+=>n. 苦艾酒
+absinthism
+=>n. 苦艾酒中毒
+absolute
+=>a. 绝对的;专制的;完全的;独立的@n. 绝对
+absolutely
+=>ad. 完全地;绝对地;正是如此
+absoluteness
+=>n. 绝对;完全;无限制
+absolution
+=>n. 免罪;赦免;忏悔式
+absolutism
+=>n. 专制主义;专制政治论;绝对论
+absolutist
+=>n. 专制主义者;专制政治论者;绝对论者
+absolve
+=>vt. 宣告...无罪;赦免;免除
+absorb
+=>vt. 吸收;并吞;全神贯注;同化
+absorbability
+=>n. 吸收;可吸收性
+absorbable
+=>a. 可吸收的;容易被吸收的
+absorbed
+=>a. 全神贯注的;一心一意的
+absorbency
+=>n. 吸收性
+absorbent
+=>a. 能吸收的@n. 吸收剂
+absorber
+=>n. 吸收体
+absorbing
+=>a. 吸引人的;非常有趣的
+absorptance
+=>n. 吸收比
+absorption
+=>n. 吸收;专心;热中
+absorptive
+=>a. 吸收性的;有吸收力的
+abstain
+=>vi. 自制;戒绝;弃权;避免
+abstainer
+=>n. 节制者;戒酒者;弃权者
+abstemious
+=>a. 节制的;节约的
+abstention
+=>n. 节制;戒绝;避免;弃权
+abstergent
+=>a. 去垢的@n. 洗洁剂
+abstinence
+=>n. 节制;禁欲;戒酒
+abstinent
+=>a. 饮食有度的;有节制的;禁欲的
+abstract
+=>n. 摘要;抽象@a. 抽象的;深奥的@vt. 摘要;提炼;使抽象化
+abstracted
+=>a. 心不在焉的;出神的;分心的
+abstraction
+=>n. 抽象化;心不在焉;提炼;抽象派作品
+abstractionism
+=>n. 抽象派艺术
+abstractionist
+=>n. 抽象派艺术家
+abstruse
+=>a. 难解的;深奥的
+absurd
+=>a. 荒谬的;不合理的;可笑的
+absurdity
+=>n. 荒谬;悖理;荒谬的事
+absurdly
+=>ad. 荒谬地;悖理地;愚蠢地
+absurdness
+=>n. 荒谬;愚蠢
+abulia
+=>n. 意志力丧失
+abundance
+=>n. 丰富;充足
+abundant
+=>a. 丰富的;充分的
+abundantly
+=>ad. 大量地;丰富地
+abusage
+=>n. 文字的滥用
+abuse
+=>n. 滥用;恶习;辱骂@vt. 滥用;辱骂;虐待
+abusive
+=>a. 辱骂的;滥用的;陋习的
+abut
+=>vt.vi. 邻接;毗邻
+abutment
+=>n. 邻接;接界;桥礅
+abuttals
+=>n. 地界
+abutter
+=>n. 相邻房地产的业主
+abutting
+=>a. 邻接的
+abuzz
+=>a. 嗡嗡的;嘁嘁喳喳的;活泼的
+abysmal
+=>a. 深不可测的;无底的
+abyss
+=>n. 深渊;无底洞;地狱
+abyssal
+=>a. 深渊的;深海的
+abyssinia
+=>n. 阿比西尼亚
+abyssinian
+=>a. 阿比西尼亚的@n. 阿比西尼亚人;依索比亚人
+b
+=>n. 字母B
+baa
+=>n. 羊叫声@vi. 叫
+baal
+=>n. 太阳神
+baalism
+=>n. 巴尔神崇拜;偶像崇拜
+baas
+=>n. 老板
+bab
+=>n. Barbara 的昵称
+babbitt
+=>n. 市侩
+babble
+=>vi. 呀呀学语;喋喋不休@vt. 唠叨;吐露
+babbler
+=>n. 爱唠叨的人
+babe
+=>n. 小孩;缺乏经验的人
+babel
+=>n. 巴别塔
+baboo
+=>n. 先生
+baboon
+=>n. 狒狒
+babouche
+=>n. 无后鞋跟的套鞋;拖鞋
+babs
+=>n. 瞎盲接近指标系统
+babushka
+=>n. 头巾
+baby
+=>n. 婴孩
+babyhood
+=>n. 婴儿时代;婴儿;幼稚
+babyish
+=>a. 幼稚的;稚气的;愚蠢的
+babylon
+=>n. 巴比伦;罪恶
+babylonia
+=>n. 巴比伦尼亚
+babylonian
+=>a. 巴比伦的;罪恶的
+babysit
+=>v. 临时替人看顾小孩
+bacca
+=>n. 浆果
+baccalaureate
+=>n. 学士学位;告别讲话
+bacchanal
+=>a. 酒神的;酒神节的;发酒疯的@n. 酒神的信徒;狂饮作乐;酒神节
+bacchanalian
+=>a. 酒神节的;狂饮作乐的@n. 发酒疯的人
+bacchantic
+=>a. 崇拜酒神的;狂饮作乐的
+bacchic
+=>a. 酒神的;酒醉的;喧闹的
+bacchus
+=>n. 酒神
+bach
+=>n. bachelor 之略语@vi. 过独身生活
+bachelor
+=>n. 单身汉;学士
+bachelorhood
+=>n. 独身;独身生活
+bachelorship
+=>n. 独身;学士资格
+bacili
+=>n.pl. 细菌;杆菌
+bacilli
+=>n. 杆菌
+bacillus
+=>n. 杆状菌;细菌
+back
+=>a. 后面的@vt. 后退;支持@vi. 倒退;背靠@ad. 向后地@n. 背部;后面
+backache
+=>n. 背痛
+backbencher
+=>n. 后座议员
+backbit
+=>vbl. backbite的过去式
+backbite
+=>vt.vi.n. 背后诽谤;背后中伤
+backbiter
+=>n. 背后诽谤者
+backbiting
+=>n. 诽谤;中伤
+backbitten
+=>vbl. backbite的过去分词
+backboard
+=>n. 后板;背板;靠背板;篮板
+backbone
+=>n. 脊椎;志气;骨干;支柱
+backbreaking
+=>a. 非常辛劳的
+backchat
+=>n. 回嘴;顶嘴;诙谐的交谈
+backdate
+=>vt. 回溯
+backdoor
+=>a. 秘密的
+backdrop
+=>n. 背景幕;背景
+backer
+=>n. 援助者;支持者
+backfall
+=>n. 将对方压制倒地背着垫子以取胜的手法
+backfill
+=>vt. 装填
+backfire
+=>n. 逆火;回火;放火@vi. 放逆火;预先放火;发生意外
+backgammon
+=>n. 西洋双陆棋戏
+background
+=>n. 背景@n. 背景;后台
+backhand
+=>n. 反手拍;反手抽击;左斜体@v. 反手抽击
+backhanded
+=>a. 反手拍击的;间接的
+backing
+=>n. 衬背;后援;支持者
+backkward
+=>ad. 向后地
+backlash
+=>n. 反斜线;后座
+backlist
+=>n. 库存书籍目录@vt. 列入重版目录
+backlit
+=>n. 背光式
+backmost
+=>a. 最后面的
+backpack
+=>v. 挑运;n. 挑运
+backrest
+=>n. 靠背
+backroom
+=>a. 在密室中的
+backscatter
+=>n. 反散射
+backseat
+=>n. 后座;次要位置
+backside
+=>n. 背部;背后;后方
+backslap
+=>vt.vi. 拍背以示友好
+backslid
+=>vbl. backslide的过去式
+backslidden
+=>vbl. backslide的过去分词
+backslide
+=>vi.n. 堕落;退步;背离宗教
+backspace
+=>vi. 退后一格@n. 退格
+backstage
+=>ad. 在后台;向后台
+backstairs
+=>n. 后面楼梯;厨房门@a. 诡密的;秘密的
+backstay
+=>n. 后部撑物
+backstitch
+=>n. 倒缝@vt.vi. 倒缝
+backstop
+=>n. 挡球网;捕手
+backstroke
+=>n.vi. 还击;反手拍击;仰泳@vt. 用反手击
+backswing
+=>n. 背向摆动
+backtalk
+=>n. 工作联络交谈
+backtrack
+=>vi. 返回;退走;撤退;放弃
+backtracking
+=>n. 回索
+backup
+=>n. 后援;支持;阻赛@vt. 做备份@a. 候补的;支持性的@n. 备份@n. DOS命令:备份;将文件从一个磁盘复制到另一个磁盘上
+backward
+=>ad.a. 向后地(的);相反地(的)
+backwardation
+=>n. 交割延期费
+backwards
+=>ad. 向后
+backwash
+=>n. 以橹反推的水;浪涛;逆流;反响
+backwater
+=>n. 死水;滞水;停滞;回水
+backwoods
+=>n. 未开垦地;边远地区的人
+backwoodsman
+=>n. 住在边远地区的人
+backyard
+=>n. 后院;后庭
+bacon
+=>n. 熏猪肉
+bacteria
+=>n. 细菌
+bacterial
+=>a. 细菌的
+bactericidal
+=>a. 杀菌的
+bactericide
+=>n. 杀菌剂
+bacteriological
+=>a. 细菌学的;细菌学上的
+bacteriologist
+=>n. 细菌学家
+bacteriology
+=>n. 细菌学
+bacteriophage
+=>n. 抗菌素
+bacterium
+=>n. 细菌
+bacteroid
+=>n. 假细菌@a. 细菌状的
+bad
+=>a. 坏的
+bade
+=>vbl. bid的过去式
+badge
+=>n. 半自动防空警戒管制组织;徽章;标记
+badger
+=>n. 獾;獾皮毛@vt. 纠缠
+badland
+=>n. 荒地
+badly
+=>ad. 严重地;恶劣地;极度地
+badminton
+=>n. 羽毛球
+badmintoon
+=>n. 羽毛球
+badness
+=>n. 坏;恶;不良
+baedeker
+=>n. 旅行指南;入门手册
+baffle
+=>vt. 困惑;为难;使挫折@vi. 徒作挣扎@n. 迷惑;挡板
+baffling
+=>a. 阻碍的;使困惑的;不可理解的
+bag
+=>n. 袋子;袋状物@vt. 装袋;猎获
+bagasse
+=>n. 甘蔗渣
+bagatelle
+=>n. 琐事;小事;弹子球戏的一种
+bagel
+=>n. 炸圈型的硬面包
+bagful
+=>n. 满口袋
+baggage
+=>n. 行李
+bagged
+=>a. 松弛下垂的
+bagger
+=>n. 装袋工;垒打
+bagging
+=>n. 装袋;制袋材料
+baggy
+=>a. 袋状的;松垂的
+baghdad
+=>n. 巴格达
+bagman
+=>n. 推销员;中间人
+bagnio
+=>n. 意大利或土耳其的澡堂;牢狱;妓院
+bagpipe
+=>n. 风笛
+bagpiper
+=>n. 吹风笛的人;风笛手
+bagwig
+=>n. 袋装假发
+bagworm
+=>n. 结草虫
+bah
+=>int. 呸!
+bahaism
+=>n. 大同教;一种穆斯林教派
+baht
+=>n. 泰国货币单位
+bail
+=>n. 保释;把手;杓;桶箍;栅栏@vt. 保释;汲水;舀水@vi. 跳伞
+bailable
+=>a. 可保释的;可交保的
+bailee
+=>n. 守托者
+bailie
+=>n. 市参事会员
+bailiff
+=>n. 执行官;法庭监守;镇长
+bailiwick
+=>n. 执行官之职;范围
+bailment
+=>n. 寄托;保释
+bailor
+=>n. 寄托人
+bailsman
+=>n. 保释保证人
+bairn
+=>n. 小孩
+bait
+=>n. 饵@vt. 以饵引诱;欺负@vi. 中途休息
+baize
+=>n. 厚羊毛毯;粗呢
+bak
+=>n. DOS文件扩展名:备份文件
+bake
+=>vt. 烘焙;烤@vi. 烤面包@n. 烘焙;烤
+baked
+=>adj. 烘焙的
+bakelite
+=>n. 人造树胶;胶木
+baker
+=>n. 面包师
+bakery
+=>n. 面包店
+bakeshop
+=>n. 面包厂;西点面包店
+baking
+=>n. 烘焙;一次烘焙的量
+balaam
+=>n. 不可靠的预言人;补白
+balalaika
+=>n. 俄式三弦琴
+balame
+=>n. 平衡;平平;v. 平衡
+balance
+=>n. 平衡;差额@vi. 平衡;相等@vt. 称;权衡;比较;使平衡;结算;抵消
+balanced
+=>adj. 均衡
+balancer
+=>n. 秤称的人;平衡器;走绳索者
+balboa
+=>n. 巴拿马的银币
+balbriggan
+=>n. 棉织物的一种;棉质袜子
+balcony
+=>n. 阳台;包厢
+bald
+=>a. 秃头;光秃的;单调的;赤裸的
+baldachin
+=>n. 织锦;天盖;庙盖
+balderdash
+=>n. 胡言乱语;梦呓
+baldhead
+=>n. 秃头的人;鸽的一种
+baldly
+=>ad. 率直地;露骨地;无隐饰地
+baldness
+=>n. 光秃;率直;枯燥
+baldpate
+=>n. 秃头的人
+baldric
+=>n. 佩饰;肩带
+bale
+=>n. 包;捆;货物;灾难@vt. 打包;捆包;包装
+baleen
+=>n. 鲸须
+balefire
+=>n. 大野火;烽火;焚化尸体的火
+baleful
+=>a. 有害的;恶意的
+bali
+=>n. 巴里岛
+balinese
+=>a. 巴里岛的;巴里语的@n. 巴里语
+balk
+=>n. 障碍;错误;失败@vt. 阻止;突然停止;退缩@vi. 逡巡不前
+balkan
+=>a. 巴尔干半岛的
+balkanize
+=>vt. 分割成小国;使割据
+balky
+=>a. 停蹄不前的
+ball
+=>n. 球;舞会;球状物@vt.vi. 捏成球形
+ballad
+=>n. 歌谣
+balladeer
+=>n. 民谣歌手
+balladry
+=>n. 民谣
+ballast
+=>n. 压载物;压舱物
+ballerina
+=>n. 芭蕾舞女
+ballet
+=>n. 芭蕾舞
+balletic
+=>a. 象芭蕾舞的
+balletically
+=>ad. 芭蕾舞一般地
+ballistic
+=>a. 弹道的
+ballistics
+=>n. 弹道学;发射学
+ballonet
+=>n. 小气囊
+balloon
+=>n. 气球@vt. 使成气球状@vi. 膨胀如气球;激增
+ballooning
+=>adj. 膨胀的
+ballot
+=>n. 投票;投票用纸;抽签@vi. 不记名投票;抽签@vt. 投票选出;拉选票
+ballotage
+=>n. 决选投票
+ballottement
+=>n. 触诊子宫检胎法
+ballproof
+=>a. 子弹打不穿的;防弹的
+ballroom
+=>n. 舞厅;跳舞场
+ballute
+=>n. 减速气球
+bally
+=>a. 可厌的;非常;极@ad. 可厌地;非常地;极
+c
+=>n. 字母C
+cab
+=>n. 计程车;出租汽车;出租单马车@vi. 乘出租马车
+cabal
+=>n. 徒党;秘密结社;(尤指政治上的)阴谋@vi. 策划阴谋
+cabala
+=>n. 犹太神秘哲学;秘法
+cabalism
+=>n. 犹太神秘哲学
+cabalist
+=>n. 犹太神秘哲学者;秘法家
+caballero
+=>n. 西班牙绅士;骑师;骑手
+cabana
+=>n. 小屋;有凉台平房的屋子
+cabaret
+=>n. (有音乐;歌舞的)酒店;酒店的歌舞表演
+cabbage
+=>n. 卷心菜
+cabbagehead
+=>n. 笨蛋
+cabbies
+=>n. 计程车司机;出租马车的车夫
+cabby
+=>n. 计程车司机;出租马车的车夫
+caber
+=>n. 投棒
+cabin
+=>n. 小屋;客舱@vt. 关在小屋
+cabined
+=>a. 被关在;拘束的;狭窄的
+cabinet
+=>n. 橱柜;内阁@a. 内阁的;小巧的
+cabinetmaker
+=>n. 家具师;细工木匠
+cable
+=>n. 电缆;海底电报;缆;索@vi. 打海底电报@vt. 发海底电报;缚住
+cablegram
+=>n. 海底电报
+cablet
+=>n. 圆周 10 英寸以下的九股扭成的钢索;细缆
+cableway
+=>n. 空中索道
+cabling
+=>n. 接缆
+cabman
+=>n. 计程车司机;出租马车的车夫
+caboodle
+=>n. 群;伙;堆
+caboose
+=>n. (载货火车最后一节的)守车;轮船上的厨房
+cabriolet
+=>n. 蓬式汽车
+cabstand
+=>n. 出租车停车场
+cacao
+=>n. 可可子;可可树
+cachalot
+=>n. 抹香鲸
+cache
+=>n. 隐藏所;隐藏的粮食或物资;贮藏物@vt. 隐藏;窖藏@n. 高速缓冲存储器
+cachectic
+=>a. 恶病的;极瘦弱的
+cachinnation
+=>n. 大笑;哄笑;放纵地笑
+cackle
+=>n. 咯咯声;高笑声;饶舌;闲谈@vi. 咯咯地叫;格格地笑;喋喋不休
+cacodaemon
+=>n. 恶鬼;恶人
+cacophonous
+=>a. 发音不和谐的;粗腔横调的
+cacophony
+=>n. 不愉快的音调;不协和音;杂音
+cacti
+=>n.pl. 仙人掌
+cactus
+=>n. 仙人掌
+cad
+=>n. 卑鄙的男人;下流人;无赖@n. 计算机辅助设计;计算机存取装置
+cadaver
+=>n. 死尸;尸体
+cadaverous
+=>a. 象尸体的;苍的的
+caddie
+=>n. 球童@vi. 当球童
+caddish
+=>a. 下流的;卑鄙的
+caddy
+=>n. 小盒子;小罐;茶叶罐
+cadence
+=>n. 韵律;抑扬;调子;节奏
+cadet
+=>n. 军官学校学生
+cadetship
+=>n. 军校学员的地位
+cadge
+=>vt.vi. 行乞;乞讨;贩卖
+cadi
+=>n. 下级法官
+cadillac
+=>n. 卡迪拉克
+cadmium
+=>n. 镉
+cadre
+=>n. 骨骼;干部;本部
+caducei
+=>n.pl.MERCURY的手杖;(二蛇盘绕;为医术的标志)
+caduceus
+=>n. MERCURY的手杖;(二蛇盘绕;为医术的标志)
+caducity
+=>n. 早落性;暂时;无常;衰老
+caecum
+=>n. 盲肠
+caesar
+=>n. 罗马的将军;政治家;历史家
+caesarean
+=>a. 恺撒的;帝国的;专制的@n. 罗马皇帝的拥护者;专制统治的拥护者
+caesarist
+=>n. 帝政主义者
+caesious
+=>a. 青灰色的
+caesura
+=>n. 休止
+cafe
+=>n. 咖啡馆;酒店
+cafes
+=>n. 咖啡店;茶馆;酒馆
+cafeteria
+=>n. 自助餐厅
+caffein
+=>n. 咖啡因;茶精(兴奋剂)
+caffeine
+=>n. 咖啡因;茶精(兴奋剂)
+caftan
+=>n. 有腰带的长袖衣服
+cage
+=>n. 笼;槛;战俘营@vt. 关进笼内
+cageling
+=>n. 笼中鸟
+cager
+=>n. 篮球选手
+cahoot
+=>n. 合谋
+cai
+=>n. 计算机辅助教育;计算机模拟输入
+caique
+=>n. 轻巧小舟;帆船
+caire
+=>n. 开罗
+cairn
+=>n. 石堆纪念碑;石冢;堆石界标
+cairo
+=>n. 开罗
+caisson
+=>n. 弹药箱;弹药车;潜水箱(水中工程用)
+caitiff
+=>a. 卑劣的@n. 卑鄙男人
+cajole
+=>vt. 以甜言蜜语哄骗;勾引
+cajolery
+=>n. 诱骗;谄媚;甜言蜜语
+cake
+=>n. 蛋糕;块;饼@vt. 使块结;加块状物于@vi. 块结
+cakewalk
+=>n. 步态竞赛;一种步态舞@vi. 举行步态竞赛
+caking
+=>adj. 结块的
+caky
+=>a. 饼状的;凝固的
+cal
+=>n. CAL语言
+calabash
+=>n. 葫芦
+calaboose
+=>n. 监狱
+calamander
+=>n. 黑檀的一种
+calamary
+=>n. 枪乌贼
+calamitous
+=>a. 多灾难的;不幸的
+calamity
+=>n. 灾难;不幸事件
+calc
+=>n. 计算
+calcaneal
+=>n. 脚后跟
+calcic
+=>a. 钙的;含钙的
+calciferous
+=>a. 含碳酸钙的
+calcification
+=>n. 石灰化
+calcify
+=>vi. 变成石灰质;钙化@vt. 使成石灰
+calcimine
+=>n. 墙粉(一种涂料)@vt. 刷墙粉于
+calcination
+=>n. 锻烧;灼热;烧矿法
+calcine
+=>vt.vi. 烧成石灰;锻烧
+calcined
+=>pp. 烧成石灰
+calcite
+=>n. 方解石
+calcium
+=>n. 钙
+calculability
+=>n. 可计算
+calculable
+=>a. 可计算的;可信赖的;可靠的
+calculagraph
+=>n. 计时器
+calculate
+=>vt.vi. 计算;考虑;计划;打算
+calculated
+=>a. 有计划的;适当的;适合的;计算出的
+calculating
+=>vbl. 计算;考虑
+calculation
+=>n. 计算;考虑;计算的结果
+calculative
+=>a. 计算的;善于计算的;精明的
+calculator
+=>n. 计算者;计算机@n. 计算器
+calculi
+=>n. 微积分学;结石
+calculous
+=>a. 结石的;结石症的
+calculus
+=>n. 微积分学;结石
+calcutta
+=>n. 印度东北部的港市
+caldera
+=>n. 喷火山口
+caldron
+=>n. 大锅;大汽锅
+calefacient
+=>a. 增温的;变暖的@n. 增温物质
+calefy
+=>vt.vi. (使)变暖
+calendar
+=>n. 日历;日程表@vt. 列入表中
+calender
+=>n. 研光机@vt. 以研光机压光
+calendula
+=>n. 金盏草
+calf
+=>n. 小牛;小牛皮;腓;小腿
+calfskin
+=>n. 小牛的皮;犊皮所制的革
+caliber
+=>n. 口径;才干;器量
+calibrate
+=>vt. 测定口径;校准;查看刻度;划刻度
+calibration
+=>n. 口径测定;查刻度;划刻度;校准
+calibre
+=>n. 口径;才干;器量
+calico
+=>n. 印花棉布;白洋布
+calicoback
+=>n. 甘蓝菜的害虫
+california
+=>n. 加利福尼亚;加州
+californian
+=>n. 加州人;加利福尼亚州人@a. 加州的
+californium
+=>n. 卡
+caliper
+=>n. 弯脚器;测径器;卡钳@vt. 用测径器测量
+calipers
+=>n.pl. 弯脚器;测径器
+caliph
+=>n. 哈利发;回教国国王
+calisthenic
+=>a. 柔软体操的;美容体操的
+calisthenics
+=>n. 柔软体操;运动
+calix
+=>n. 杯;凹洼;杯状窝
+calk
+=>vt. 填...以防漏;使不漏水;装尖铁;摹描复制@n. 尖铁
+calker
+=>n. 填塞船板隙缝的人或工具
+call
+=>n. 呼叫;访问;打电话;号召;召集;要求@vt. 呼叫;召集;打电话@vi. 叫喊;访问;叫牌@n. DOS命令:从当前运行的批文件中引用第二个批文件;然后返回@到原来的批文件
+calla
+=>n. 水芋;荷兰海芋;
+callable
+=>a. 可召唤的;请求即付的;随时可偿还的
+callback
+=>n. 收回
+callboard
+=>n. 通告板
+caller
+=>n. 访客;召集员;传唤员@a. 新鲜的
+calligrapher
+=>n. 书法家
+calligraphic
+=>a. 书法的;善写的
+calligraphy
+=>n. 笔迹;书法;墨宝
+calling
+=>n. 职业;行业;邀请;召集
+calliope
+=>n. 雄辩和叙事诗的女神;气笛风琴;并笛
+callosity
+=>n. 硬结;老茧皮;无情
+callous
+=>a. 麻木的;无情的;坚硬的;硬结的;起老茧的@vt. 使硬结;使麻木
+callow
+=>a. 年轻而无经验的;(鸟)未生羽毛的
+calls
+=>n. 调用
+callus
+=>n. 皮肤的硬结;胼胝;(植物伤口的)愈合组织
+calm
+=>n. 平稳;风平浪静@a. 平静的;冷静的@vi. 平静下来;镇静@vt. 使平静
+calmative
+=>a. 使镇静的@n. 镇静剂
+calmly
+=>ad. 平静地;安静地;冷静地
+calmness
+=>n. 平静;镇静;冷静
+calomel
+=>n. 甘汞
+calorescence
+=>n. 热光
+caloric
+=>n. 热@a. 热的;热量的;卡路里的
+calorie
+=>n. 卡路里
+calories
+=>me. 卡路里
+calorific
+=>a. 生热的;发热的;热的
+calorimeter
+=>n. 热量计
+calorimetry
+=>n. 热量测定
+calotte
+=>n. 头盖帽;半球帽;半球状的东西
+caltrops
+=>n. 三角钉
+calumet
+=>n. 北美土人所用之一种烟斗;和平的象征
+calumniate
+=>vt. 中伤;诽谤
+calumniation
+=>n. 诽谤;中伤
+calumniator
+=>n. 中伤者;诽谤者
+calumniatory
+=>a. 诽谤的;中伤的
+calumny
+=>n. 诽谤;中伤
+calutron
+=>n. 分离同位素的电磁装置
+calvados
+=>n. 卡巴度斯苹果酒
+calvary
+=>n. 耶稣被钉死于十字架之地
+calve
+=>vt.vi. 生小牛;下仔;(使)分离
+calvin
+=>n. 加尔文
+calvinism
+=>n. 加尔文教派;加尔文主义
+calvinist
+=>n. 加尔文教徒
+calx
+=>n. 金属灰;矿灰;生石灰
+calyculus
+=>n. 杯状构造
+calyx
+=>n. 花萼
+cam
+=>n. 凸轮@n. 计算机辅助制造;中央地址存储器
+camber
+=>n. 弧形;眉形;(机翼的)弯曲度@vi. 成弧形@vt. 使弯作弧形
+cambist
+=>n. 各国度量衡;货币比较表;兑换商
+cambium
+=>n. 形成层;新生组织
+cambodia
+=>n. 高棉
+cambrel
+=>n. 吊肉棒
+cambrian
+=>a. 寒武纪的@n. Cambria 人;Wales 人;寒武纪层
+cambric
+=>n. 一种亚麻布或棉布
+cambridge
+=>n. 剑桥
+came
+=>vbl. 来;来临;成为
+camel
+=>n. 骆驼;打捞浮筒
+cameleer
+=>n. 骆驼夫;骆驼骑兵
+camellia
+=>n. 茶花;山茶
+camelopard
+=>n. 鹿豹座
+camembert
+=>n. 法国 Camembert村所产的软质乳酪
+cameo
+=>n. 刻有浮雕的宝石或贝壳
+camera
+=>n. 照相机;摄影机密谈室@n. 摄影
+cameralistics
+=>n. 财政学
+cameraman
+=>n. 照相师;摄影师
+cameramen
+=>n. 摄影者
+camion
+=>n. 载货马车;炮车;军用卡车
+camisole
+=>n. 女背心
+camlet
+=>n. 一种轻的布料;羽纱
+camorrist
+=>n. 秘密结社党员
+camouflage
+=>vt. 伪装;欺瞒@n. 伪装;隐瞒;幌子
+camp
+=>n. 露营;帐棚@vi. 露营;扎营@vt. 使扎营
+dab
+=>n. 少量;轻拍;比目鱼;熟手@vt.vi. 轻拍;轻擦
+dabber
+=>n. 轻拍的人;敷墨具
+dabble
+=>vi. 玩水;泼溅;涉猎@vt. 溅湿
+dabbler
+=>n. 戏水者;业余家
+dac
+=>n. 数模转换器
+dace
+=>n. 一种鱼
+dachshund
+=>n. 一种短腿长身的德国种猎犬
+dacoit
+=>n. 强盗帮员;土匪
+dacron
+=>n. 涤纶
+dactyl
+=>n. 强弱弱格;长短短格
+dactylic
+=>a. 长短短格的
+dactylology
+=>n. 手语法
+dad
+=>n. 爸爸;爹爹
+dada
+=>n. 爸爸;达达主义
+dadaist
+=>n. 达达主义的艺术家
+daddy
+=>n. 爸爸
+dado
+=>n. 护墙板;台座腰部
+daemon
+=>后台驻留程序
+daffodil
+=>n. 水仙花@a. 水仙花色的
+daffy
+=>a. 愚笨的;疯狂的
+daft
+=>a. 愚笨的;癫狂的;狂闹的
+dag
+=>n. 石墨的简写
+dagger
+=>n. 匕首@vt. 用剑刺
+daggle
+=>vi. 拖曳;拖脏;@vt. 使肮脏
+dago
+=>n. 意大利人;西班牙人
+daguerreotype
+=>n. 银板照相法@vi.vt. 银板照相
+dahlia
+=>n. 大丽花
+dahomey
+=>n. 达荷美共和国
+daily
+=>a. 每日的;日常的@ad. 每日地;日常地@n. 日报
+daimler
+=>n. 英国的高级汽车名
+daintily
+=>ad. 优美爽口;难以取悦地;讲究
+daintiness
+=>n. 优美;美味;过分的讲究
+dainty
+=>n. 适口的食物@a. 优美的;讲究的;适口的
+daiquiri
+=>n. 一种鸡尾酒
+dairy
+=>n. 乳酪农场;酪农业;牛奶场
+dairymaid
+=>n. 酪农场的女工
+dais
+=>n. 台;讲台
+daisy
+=>n. 雏菊;一流的人物@a. 第一流的
+dak
+=>n. 驿站
+dale
+=>n. 小谷;溪谷
+dali
+=>n. 达利
+dalliance
+=>n. 调戏;调情
+dally
+=>vi. 戏耍;玩弄;赋闲@vt. 浪费@n. 达尔马西亚的移民@a. 达尔马希亚的
+dalmatian
+=>a. 达尔马提亚的@n. 达尔马提亚人;达尔马提亚狗
+dam
+=>n. 水坝;障碍@vt.vi. 控制;筑坝
+damage
+=>n. 损害;伤害@vt.vi. 损害
+damageable
+=>a. 易损害的
+damaged
+=>a. 被损坏的
+damages
+=>n. 损害赔长
+damaging
+=>vbl. 损坏
+damagingly
+=>ad. 很;非常地
+damascus
+=>n. 大马士革
+damask
+=>n. 缎子;斜纹布;大马士革钢铁@a. 缎的;淡红色的;@vt. 使织出花纹@vi. 织花纹
+dame
+=>n. 夫人
+damgling
+=>n. 悬  选择
+damn
+=>n. 一点;诅咒;丝毫@vt. 诅咒;下地狱
+damnable
+=>a. 可诅咒的;该死的
+damnably
+=>ad. 可恨地;厉害地
+damnation
+=>n. 非难;被罚下地狱;诅咒@int. 糟了! 该死! 完了!
+damned
+=>a. 被咒骂的;该死的@ad. 非常
+damnification
+=>n. 损伤;损害
+damnify
+=>vt. 损伤;损害
+damning
+=>n. 诅咒@a. 受永罚的;毁灭的;咒骂的
+damoclean
+=>a. Damocles 的;象 Damocles 一样的
+damocles
+=>n. 为 Syracuse 的国王 Dionysius 的臣下
+damp
+=>n. 湿气@a. 潮湿的@vt. 使潮湿;阻尼;抑止@vi. 变潮湿;衰减
+damped
+=>adj. 阻尼的
+dampen
+=>vt. 弄湿;使衰减@vi. 变湿;丧气
+damper
+=>n. 爱挑毛病的人;讥诮话;增湿器;阻尼器
+damping
+=>n. 阻尼
+dampish
+=>a. 含湿气的;稍湿的
+damply
+=>ad. 潮湿地;衰减地
+damsel
+=>n. 年轻女人;闺女
+damselfly
+=>n. 灯心蜻蜓
+damson
+=>n. 西洋李子;其树
+dan
+=>n. 浮标;担
+dance
+=>n. 跳舞;舞蹈;舞会@vt.vi. 跳舞
+dancery
+=>n. 舞厅
+dancing
+=>n. 舞蹈
+dandelion
+=>n. 蒲公英
+dander
+=>n. 生气;头皮屑
+dandified
+=>a. 打扮得华丽的
+dandify
+=>vt. 打扮得时髦
+dandle
+=>vt. 抱着逗弄;宠;娇养@NUM@NUM
+dandruff
+=>n. 头皮屑
+dandy
+=>n. 花花公子@a. 服装华丽的;极好的
+dandyism
+=>n. 喜好修饰;时髦
+dane
+=>n. 丹麦人
+danegeld
+=>n. 丹麦税赋
+danelaw
+=>n. 丹麦律法;丹麦律法施行地区
+dangdang
+=>n. 当当
+danger
+=>n. 危险;威胁
+dangerous
+=>a. 危险的
+dangle
+=>vi. 摇晃地悬挂着;追求@vt. 使摇晃地悬挂@n. 摇晃地悬挂
+dangler
+=>n. 吊着晃来晃去的东西;耳环;追逐女人的男人
+daniel
+=>n. 男子名;丹尼尔;丹尼尔书
+danish
+=>n. 丹麦文@a. 丹麦的;丹麦人的;丹麦文的
+dank
+=>a. 透水的;潮湿的@NUM@NUM
+danseuse
+=>n. 女芭蕾舞演员
+dantean
+=>n. 但丁研究家;但丁崇拜者@a. 但丁的
+danube
+=>n. 多瑙河
+daphnia
+=>n. 水蚤
+dapper
+=>a. 整洁的;整齐的;短小精悍的
+dapple
+=>n. 斑纹;花马@a. 有斑纹的@vt.vi. (使)起斑纹
+dappled
+=>a. 斑纹的;花的
+dare
+=>n. 挑战;挑动;大胆@vt.vi. 敢;胆敢
+daredevil
+=>n. 铤而走险的人;不怕死的人@a. 蛮勇的;不怕死的
+daring
+=>a. 大胆的
+dark
+=>n. 黑暗;夜;黄昏;模糊@a. 黑暗的;暗的;隐密的;模糊的;无知的
+darken
+=>vt. 弄暗;使模糊@vi. 暗下来;颜色变深
+darkened
+=>adj. 昏黑
+darkish
+=>a. 微暗的;浅黑的
+darkle
+=>vi. 潜藏暗中;呈显带黑;变暗
+darkling
+=>ad. 在暗中@a. 黑暗的;令人可怕的
+darkly
+=>ad. 暗;黑;呈黑
+darkroom
+=>n. 暗房
+darksome
+=>a. 微暗的;阴暗的;含糊的
+darky
+=>n. 黑人
+darling
+=>n. 亲爱的;可爱的人;可爱的物@a. 可爱的;亲爱的
+darn
+=>n.vt.vi. 织补
+darned
+=>a. 岂有此理的;可恨的;非常@ad. 岂有此理地;可恨地;非常
+darnel
+=>n. 毒麦
+darner
+=>n. 缝补的人;缝补针;缝补台
+darning
+=>n. 织补物
+dart
+=>n. 飞镖;投射@vt. 投射@vi. 疾走;突进
+darwin
+=>n. 达尔文
+darwinian
+=>a. 达尔文的;达尔文学说的@n. 达尔文学徒;进化论者
+darwinism
+=>n. 达尔文学说;进化论
+dash
+=>n. 冲撞;破折号@vi. 猛掷;冲撞@vt. 泼溅;使猛撞;搀加;使破灭;使沮丧;匆忙完成
+dashboard
+=>n. 仪表板;挡泥板
+dashed
+=>n. 虚线
+dasher
+=>n. 猛冲者;气宇轩昂的男子;搅拌装置
+dashing
+=>a. 活跃的;浮华的
+dashpot
+=>n. 缓冲筒
+dastard
+=>n. 懦夫;卑鄙的人@a. 怯懦的;卑劣的
+dat
+=>n. DOS文件扩展名:数据文件
+data
+=>n.pl. 资料;数据
+database
+=>n. 资料库
+datable
+=>a. 可确定时代的@n. 按日计工资
+datamation
+=>n. 资料自动化
+dataset
+=>n. 资料组
+date
+=>n. 日期;约会;枣椰子@vt. 约会;定日期@vi. 注明日期;过时@n. DOS命令:显示或设置系统日期
+dated
+=>a. 有日期的;陈旧的
+dateline
+=>n. 日期变更线;日界线;日期栏
+datemark
+=>n. 日戳
+dating
+=>ing. 约会
+dative
+=>a. 与格的@n. 与格;与格语
+datum
+=>n. 材料;资料;已知数
+datura
+=>n. 曼陀罗属的植物
+daub
+=>vt.vi. 涂抹;画拙劣的画;弄脏@n. 被涂抹的东西;劣画;画法或手法笨拙的画
+dauber
+=>n. 涂抹者;拙劣的画匠;涂抹工具
+dauby
+=>a. 粘性的;乱涂的
+daughter
+=>n. 女儿@a. 女儿的
+daughterly
+=>a. 女儿的;女儿似的
+daunt
+=>vt. 威吓;难倒;使气馁
+daunting
+=>a. 使人畏缩的
+dauntless
+=>a. 不屈不挠的;大胆的
+dauphin
+=>n. 法国皇太子
+dauphiness
+=>n. 法国皇太子的妃
+davenport
+=>n. 一种书桌;兼做卧床的长椅
+david
+=>n. 大卫
+davis
+=>n. 戴维斯
+davit
+=>n. 吊艇柱;吊柱
+davy
+=>n. David 的昵称@n. 宣誓书
+daw
+=>n. 穴鸟
+dawdle
+=>vi.vt. 游手好闲;混日子
+dawdler
+=>n. 游手好闲的人;懒人
+dawn
+=>n. 破晓;黎明@vi. 破晓@NUM@NUM
+dawning
+=>n. 晓;黎明;东
+day
+=>n. 天;日子;白天;工作日
+daybed
+=>n. 坐卧两用长椅
+daybook
+=>n. 日记簿;交易日记帐
+daybreak
+=>n. 黎明;拂晓
+daydream
+=>n. 白日梦@vi. 做白日梦
+daydreamer
+=>n. 空想家
+dayfly
+=>n. 蜉蝣
+daylight
+=>n. 白昼;日光;破晓@a. 白昼的@vt. 引入日光@vi. 提供日光
+daylong
+=>a. 终日的;一整天的@ad. 终日;一整天
+days
+=>n. 天;时期@ad. 每天;在白天
+daystar
+=>n. 晨星
+daystart
+=>n. 一天开始;晨间
+daytime
+=>n. 白天;日间
+daze
+=>vt. 使茫然;发昏;使眼花缭乱@n. 迷乱;眼花缭乱
+dazed
+=>a. 头昏的;眼花的
+dazzle
+=>vt.vi. (使)眼花;眩耀@n. 耀眼@NUM@NUM
+dazzled
+=>adj. 眼花撩乱
+dazzling
+=>a. 眼花缭乱的;耀眼的
+db
+=>n. 分贝decibel的简写
+dbk
+=>n. 相对于一仟瓦的分贝
+dbms
+=>n. 数据库管理系统
+dc
+=>n. 直流电
+deaccentuator
+=>n. 频率校正电路
+deacon
+=>n. 副主祭;执事;公会会长@vt. 朗读;摆得好看些
+deaconess
+=>n. 女执事;牧师的女助手
+deactivate
+=>vt. 解除动员;复员;使无效;使不活动
+deactivation
+=>n. 无动化
+dead
+=>a. 死的;不活泼的;麻木的;熄灭的@n. 死者@ad. 完全地;突然地
+deadbeat
+=>n. 赖债不还的人;饭桶;食客
+deadborn
+=>a. 死产的
+deaden
+=>vt. 使减弱;消除@vi. 减弱
+deadening
+=>n. 隔音材料
+deadeye
+=>n. 三孔滑车
+deadfall
+=>n. 陷阱的一种;交错倒下的树木积堆
+deadhead
+=>n. 免费乘客;免费入场者
+deadlight
+=>n. 舷窗盖
+deadline
+=>n. 死线;原稿截止时间;截止期限
+deadliness
+=>n. 致命的
+deadlock
+=>n. 僵局;停顿@vt.vi. (使)停顿;(使)相持不下
+deadly
+=>a. 致命的;致死的@ad. 非常地;如死一般地
+deadness
+=>n. 死;死一样的状态;无生气@NUM@NUM
+deadpan
+=>a. 无表情的脸
+deadweight
+=>n. 死重;重货
+deadwood
+=>n. 枯枝;朽木;碎屑
+e
+=>n. 字母e
+each
+=>a. 每个;每;每一@ad. 每个@pron. 每个;个人;个自
+eager
+=>a. 热心的;渴望的;热望的
+eagerness
+=>nis:n. 网络信息服务(Network Information Services)@n. 热心
+eagle
+=>n. 鹰;鹰状标饰
+eaglet
+=>n. 小鹰
+ear
+=>n. 耳朵;倾听;听觉;麦穗@vi. 抽穗@NUM
+earache
+=>n. 耳朵痛
+eardrop
+=>n. 耳环;耳坠
+eardrum
+=>n. 中耳;鼓膜
+eared
+=>a. 有耳的;有把的;有穗的
+earflap
+=>n. 御寒用之耳罩
+earful
+=>n. 令人吃惊的回答;听腻了的消息;怨言
+earing
+=>n. 耳索
+earl
+=>n. 伯爵
+earldom
+=>n. 伯爵的身分
+earless
+=>a. 无耳的;听觉不佳的;无穗的
+earlier
+=>a. 早的;初期的;ad. 早地;初期的
+earliest
+=>a. 早的;初期的
+earliness
+=>n. 早熟
+earlobe
+=>n. 耳垂
+early
+=>a. 早的;早熟的@ad. 很早;初
+earmark
+=>n. 耳上记号;特征;记号;标记@vt. 在耳朵做记号;弄上记号;充作
+earmuff
+=>n. 御寒耳罩
+earn
+=>vt. 赚得;获得;博得
+earned
+=>a. 挣得的
+earner
+=>n. 工资所得者
+earnest
+=>n. 定金;诚挚;认真@a. 认真的;热心的;重要的@NUM
+earning
+=>n. 所赚的钱;所得;收入
+earnings
+=>n. 所得;收入
+earom
+=>n. 电可改只读存储器
+earphone
+=>n. 耳机;听筒
+earpick
+=>n. 耳挖
+earplug
+=>n. 耳栓
+earring
+=>n. 耳环;耳饰
+earrings
+=>n. 耳环
+earshot
+=>n. 听力所及之范围;声音所及的距离
+earsplitting
+=>a. 震耳欲聋的
+earth
+=>n. 地球;泥土;世界;尘世@vt. 埋入土中;赶入洞内@vi. 躲入洞内
+earthcrust
+=>n. 地壳
+earthen
+=>a. 土制的;陶制的
+earthing
+=>n. 接地
+earthliness
+=>n. 尘世;俗世;通俗
+earthling
+=>n. 世人;俗人;俗物
+earthly
+=>a. 地球的;俗世的;可能的
+earthmover
+=>n. 重型推土机
+earthquake
+=>n. 地震
+earthquakes
+=>n. 地震
+earthshaking
+=>a. 震撼全球的;极为重大的
+earthward
+=>a. 向地的
+earthworm
+=>n. 蚯蚓@NUM
+earthy
+=>a. 土的;土质的;土味的
+earwax
+=>n. 耳垢
+earwig
+=>n. 偷听者@vt. 暗中骚扰
+earworm
+=>n. 一种有害幼虫
+ease
+=>n. 安乐;安逸;悠闲@vt. 使安乐;使安心;减轻;放松@vi. 减轻;放松;灵活地移动
+eased
+=>adj. 放松的@NUM
+easeful
+=>a. 舒适的;安逸的;舒适的
+easel
+=>n. 画架;黑板架
+easement
+=>n. 缓和;减轻;方便附属建筑物
+easier
+=>adj. 更易
+easiest
+=>a. 容易的;轻松的
+easily
+=>ad. 容易地;轻易地;流利地
+easiness
+=>n. 容易;轻松;安适
+east
+=>n. 东方;东@a. 东方的;向东的@ad. 向东方;朝东方
+eastbound
+=>a. 往东的;向东旅行的
+easter
+=>n. 复活节
+easterly
+=>a. 东的;向东的;从东的@ad. 向东
+eastern
+=>n. 东方人;东正教徒@a. 东方的;向东的;自东的
+easting
+=>n. 东行航程;朝东方
+eastward
+=>n. 东方@a. 东方的;向东方的@ad. 东方地
+eastwardly
+=>ad. 向东;从东方@a. 向东的;从东方的
+eastwards
+=>ad. 东方地;向东方地
+easy
+=>a. 容易的;缓缓的;舒适的;从容的;宽容的;流畅的;随便的;自然而然@的;疲软的;供筟的;疲软的;供筟n. 短暂的休息
+easygoing
+=>a. 逍遥自在的;悠闲的;懒散的
+eat
+=>vt.vi. 吃;腐蚀
+eatable
+=>a. 可以吃的@n. 食物
+eaten
+=>vbl. 吃;eat的过去分词
+eater
+=>n. 吃的人;常食者;侵蚀物
+eatery
+=>n. 简便饮食店
+eating
+=>n. 吃;食物@a. 侵蚀的;腐蚀性的
+eave
+=>n. 屋檐
+eaves
+=>n.pl. 屋檐
+eavesdrop
+=>vt.vi. 偷听@n. 屋檐水
+eavesdropper
+=>n. 偷听者
+eavesdropping
+=>n. 偷听
+ebb
+=>n. 退潮;衰退@vi. 潮退;衰退
+ebcdic
+=>n. 扩充的二十进制交换码
+ebonite
+=>n. 硬化橡皮;硬橡皮
+ebony
+=>n. 黑檀树;乌木@a. 乌木制的;黑檀的
+ebullience
+=>n. 沸腾;热情;热情洋溢
+ebullient
+=>a. 沸腾的;热情的;热情洋溢的
+ebullition
+=>n. 沸腾;精神饱满
+eccentric
+=>n. 怪人;偏心圆@a. 古怪的;反常的;不同圆心的;
+eccentrically
+=>ad. 离开中心;反常地
+eccentricity
+=>n. 古怪;古怪的行为;怪癖
+ecclesia
+=>n. 古代雅典的人民会议;教会
+ecclesiastes
+=>n. 传道书
+ecclesiastic
+=>n. 神职者;牧师;教会@a. 神职者的;牧师的;教会的
+ecclesiastical
+=>a. 教会的;神职的;牧师的
+ecdysiast
+=>n. 脱衣舞女
+ecdysis
+=>n. 蜕皮;蜕化
+echelon
+=>n. 梯形;梯阵;梯次编队@vt. 排成梯队@vi. 形成梯队
+echidna
+=>n. 针鼹鼠
+echinoderm
+=>n. 棘皮动物类的动物
+echinus
+=>n. 刺海胆
+echo
+=>n. 回声;回音;回波@vi. 发回声;随声附和@vt. 摹仿;重复;反射@n. 回显@n. DOS命令:禁止(或允许)批处理命令行显示屏幕上
+echoic
+=>a. 拟声的
+echoism
+=>n. 拟声;形声
+echolocation
+=>n. 回声定位
+eciliter
+=>n. 公合
+eclampsia
+=>n. 惊厥
+eclectic
+=>n. 折衷主义者;折衷派的人@a. 选择的;折衷的
+eclectically
+=>ad. 折衷地
+eclecticism
+=>n. 折衷派;折衷主义;折衷说
+eclipse
+=>n. 日蚀;月蚀;衰落@vt. 引起日蚀;引起月蚀;使黯然失色
+ecliptic
+=>n. 黄道@a. 黄道的;蚀的
+eclogue
+=>n. 牧歌;田园诗
+ecm
+=>n. 电子反测量
+ecma
+=>n. 欧洲计算机制造商协会
+ecological
+=>a. 生态学的;社会生态学的@n. 生态学;社会生态学
+ecologist
+=>n. 生态学者
+ecology
+=>n. 生态学;社会生态学
+econometrics
+=>n. 经济计量学
+economic
+=>a. 经济上的;实用的;节省的
+economical
+=>a. 节俭的;经济的;合算的
+economics
+=>n. 经济学
+economist
+=>n. 经济学者;经济家
+economization
+=>n. 节约;经济化
+economize
+=>vt.vi. 节约;节省;有效地利用
+economizer
+=>n. 节约者;经济家;节约装置
+economy
+=>n. 经济;理财;节约
+ecosystem
+=>n. 生态系统
+ecru
+=>a. 本色的@n. 淡褐色
+ecstasy
+=>n. 狂喜;心醉神迷;忘形
+ecstatic
+=>n. 狂喜的人@a. 狂喜的
+ecstatically
+=>ad. 心醉神迷地;入神地
+ectomorph
+=>n. 瘦长而肌肉不发达的人
+ectype
+=>n. 复制品;副本
+ecuador
+=>n. 厄瓜多尔
+eczema
+=>n. 湿疹
+edaphic
+=>a. 土壤的
+edda
+=>n. 冰洲诗集
+eddy
+=>n. 逆流;漩涡@vt.vi. (使)起漩涡
+edelweiss
+=>n. 火绒草@NUM
+eden
+=>n. 伊甸园;乐园
+edentate
+=>a. 无齿的;贫齿类的@n. 贫齿类动物
+edge
+=>n. 边缘;尖锐;刀刃;优势@vt. 使锐利;挤进;镶边;开刃@vi. 缓缓移动
+edged
+=>pp. 慢慢移动
+edgeways
+=>ad. 以刃向外;从旁边
+edgily
+=>ad. 刀口锐利;尖利;轮廓过分鲜明
+edging
+=>n. 边缘;边饰
+edgy
+=>a. 刀口锐利的;尖利的;急躁的
+edibility
+=>n. 适食性;可食性
+edible
+=>n. 食品;食物@a. 可食用的
+edict
+=>n. 布告;法令
+edification
+=>n. 启迪;熏陶
+edifice
+=>n. 大厦;大建筑物
+edify
+=>vt. 启迪;熏陶;教诲
+edifying
+=>a. 有教训意味的;有益的;教训性的
+edinburgh
+=>n. 爱丁堡
+edison
+=>n. 爱迪生
+edit
+=>vt. 编辑;编校;修订;剪辑
+edit out
+=>v. 编辑中删除
+editing
+=>a. 编辑的
+edition
+=>n. 版本;版;翻版
+editor
+=>n. 编者;编辑;主笔@v. 编辑器
+editorial
+=>n. 社论;评论@a. 编辑的;主笔的;社论的
+editorialize
+=>v. 发表社论;插入编者意见
+editress
+=>n. 女编辑
+edps
+=>n. 电子数据处理系统
+educability
+=>n. 可教育性;可陶冶性
+educable
+=>a. 可教育的
+educate
+=>vt. 教育;教化;训练
+educated
+=>a. 受过教育的;有教养的
+education
+=>n. 教育;训练;教育学
+educational
+=>a. 教育的;教育性的
+educationally
+=>ad. 教育的;教育上的;有关教育的
+educative
+=>a. 教育的;教育上的;教育性的
+educator
+=>n. 教育家
+educe
+=>vt. 引出;唤起;使显出@NUM
+educt
+=>n. 抽出物;游离物;推论
+eduction
+=>n. 引出;取出;排出
+edward
+=>n. 爱德华
+eel
+=>n. 鳗鱼;鳝鱼
+eelgrass
+=>n. 鳗草
+eelpout
+=>n. 粘鱼类
+eelworm
+=>n. 线虫类
+eely
+=>a. 似鳗的;易滑脱的;滑头滑脑的
+eerie
+=>a. 怪诞的;可怕的;奇异的;不安的
+eeriness
+=>n. 怪诞;阴森;胆怯
+eery
+=>a. 怪诞的;可怕的;奇异的;不安的
+effable
+=>a. 可表达的
+efface
+=>vt. 抹去;消除;忘却
+effect
+=>n. 结果;影响;效果;印象@vt. 招致;引起;完成@v. 效果
+effective
+=>a. 有效的;有力的;实际的@n. 有生力量
+effectively
+=>ad. 有效地;有力地;实际上
+effectiveness
+=>n. 效力
+effector
+=>n. 操纵装置;效应器;格式控制字符@NUM
+effectual
+=>a. 有效果的;会应验的;有效的
+effectuate
+=>vt. 招致;实行;完成
+effectuation
+=>n. 招致;实行;完成
+effeminacy
+=>n. 柔弱;女人气
+effeminate
+=>a. 柔弱的;女人气的
+efferent
+=>a. 传出的@n. 输出管
+effervesce
+=>vi. 冒泡;沸腾;兴奋
+effervescence
+=>n. 冒泡;沸腾;活泼
+effervescent
+=>a. 冒泡的;兴奋的;沸腾的
+effete
+=>a. 筋疲力尽的;疲惫的;衰微的
+efficacious
+=>a. 有效的;灵验的
+efficacy
+=>n. 功效;效力
+efficiency
+=>n. 效率;效能;有效
+efficient
+=>a. 有效率的;能干的
+effigies
+=>n. 肖橡;雕像
+effigy
+=>n. 肖像;雕像
+effloresce
+=>vi. 开花;风化
+f
+=>n. 字母f
+fab
+=>a. 惊人的;难以置信的
+fabaceous
+=>a. 豆的
+fabian
+=>a. 费边式的;拖延时间的;@n. 费边主义
+fable
+=>n. 寓言;神话;谎言@vi. 虚构;作寓言
+fabled
+=>a. 虚构的
+fabric
+=>n. 织物;布;建筑物;结构;构造
+fabricate
+=>vt. 制造;建造;装配;伪造
+fabrication
+=>n. 制造;建造;虚构的谎言
+fabricator
+=>n. 制作者;假造者;杜撰者
+fabulist
+=>n. 寓言家;说谎者
+fabulous
+=>a. 传说的;无根据的;难以置信的
+facade
+=>n. 建筑物的正面;外观;表面
+face
+=>n. 脸;面容;正面;外观@vt. 面对;朝;承认;抹盖@vi. 朝;向
+faced
+=>pp. 面对
+faceless
+=>a. 无面的;匿名的;无名的
+facer
+=>n. 面部所受的打击;意外的打击
+facet
+=>n. 小平面;方面;刻面
+faceted
+=>a. 有小面的
+facetious
+=>a. 滑稽的;爱开玩笑的
+facetiously
+=>ad. 滑稽地;爱开玩笑地
+facial
+=>n. 美颜术;脸部按摩术@a. 脸的;脸部用的
+facies
+=>n. 面容;外观
+facile
+=>a. 温和的;容易的;灵巧的
+facilitate
+=>vt. 帮助;使容易;促进
+facilities
+=>n. 设备
+facility
+=>n. 设备;容易;灵巧
+facing
+=>n. 贴边;饰面
+facsimile
+=>n. 复写;传真@vt. 传真;临摹
+fact
+=>n. 事实;真相;行为
+faction
+=>n. 小派系;内讧
+factional
+=>a. 派系的;小派别的
+factionalism
+=>n. 党派主义;党派之争
+factious
+=>a. 好搞派系的;好捣乱的
+factitious
+=>a. 人为的;不自然的;人工的
+factitive
+=>a. 作为的;使役的
+factor
+=>n. 因素;因数;代理人
+factorge
+=>n. 手续费
+factorial
+=>a. 代理店的;阶乘的@n. 阶乘
+factory
+=>n. 工厂;代理店
+factotum
+=>n. 杂役;打杂的人
+factual
+=>a. 事实的;实际的@NUM
+factualism
+=>n. 尊重事实
+factum
+=>n. 自己的行为;呈文
+facula
+=>n. 光斑
+faculty
+=>n. 才能;能力;全体教员;(大学的)系
+fad
+=>n. 时尚;一时流行的狂热
+faddish
+=>a. 趋于时尚的;风行的;流行的
+faddist
+=>n. 趋于时尚者;好新奇的人
+fade
+=>vi. 褪色;消失;凋谢@vt. 使褪色@n. 淡入;淡出@a. 平淡的
+faded
+=>a. 已褪色的;已凋谢的
+fadeless
+=>a. 不褪色的;不凋落的;不衰弱的
+fadeout
+=>n. 渐隐;渐没
+fader
+=>n. 化音器
+fading
+=>n. 衰退;衰落
+faery
+=>n. 仙子;仙境
+fag
+=>n. 吃力的工作;苦工@vi. 努力的工作@vt. 使劳累
+faggot
+=>n. 柴把;束薪@vt. 捆;束
+fagot
+=>n. 柴把;束薪@vt. 捆;束
+fahrenheit
+=>n. 华氏温度计
+faience
+=>n. 精巧彩色陶器
+fail
+=>vi. 失败;不及格;忘记@vt. 辜负;不及格@n. 不及格
+failing
+=>n. 失败;缺点;过失@prep. 如果没有...@a. 失败的
+faille
+=>n. 罗缎
+failure
+=>n. 失败;失败者;不足;缺乏;破产
+fain
+=>a. 乐意;不得不;只得...@ad. 欣然;乐意@vt. 不要
+faint
+=>n. 昏厥;昏倒@a. 微弱的;无力的;模糊的@vi. 昏倒;变得微弱
+fainted
+=>adj. 昏厥
+fainthearted
+=>a. 懦弱的;无精神的;胆小的
+fainting
+=>n. 昏晕;不省人事
+faintly
+=>ad. 微弱地;模糊地;朦胧地
+faintness
+=>n. 微弱;衰弱;模糊
+faints
+=>n.pl. 劣质酒精
+fair
+=>n. 展览会;市集;美好的事物@a. 公平的;晴朗的;美丽的@ad. 公平地;清楚地@vi. 转晴
+fairground
+=>n. 举行赛会的场所;露天市场
+fairily
+=>ad. 仙女一样地;优雅地
+fairish
+=>a. 还可以的;相当的
+fairly
+=>ad. 公平地;相当地;清楚地
+fairness
+=>n. 晴朗;光明正大;美丽
+fairway
+=>n. 航路
+fairy
+=>n. 仙女;精灵@a. 仙女的
+fairyland
+=>n. 仙境;乐园
+faith
+=>n. 信心;信任;忠实;保证
+faithful
+=>a. 忠实的;详确的;可靠的@n. 信徒
+faithfully
+=>ad. 忠实;诚心诚意;深信着
+faithfulness
+=>n. 忠诚;诚实;正确
+faithless
+=>a. 无信的;不忠实的
+fake
+=>n. 假货;欺蹒一卷绳索@a. 假的@vt. 假造;仿造卷绳索@vi. 伪装
+faker
+=>n. 骗子;冒牌货;摊贩
+fakir
+=>n. 托钵僧
+falchion
+=>n. 刀;剑
+falcon
+=>n. 猎鹰
+falconer
+=>n. 以鹰狩猎者;放鹰者;养鹰者
+falconet
+=>n. 小鹰;旧式小炮
+falconry
+=>n. 放鹰捕猎;养鹰术
+falcons
+=>n. 婴犬
+fall
+=>n. 秋天;落下;瀑布;采伐量;下降;落差;降低;堕落@vi. 倒下;落下;来临;失守;阵亡;下跌;减弱;倾斜;退落;陷落;垮台;轮到@;变成;降低@a. 秋天的
+fallacious
+=>a. 使人误解的;谬误的;不合理的
+fallacy
+=>n. 错误的观念或信念;谬见;谬论
+fallback
+=>n. 可依靠的东西;退却
+fallen
+=>a. 堕落的;落下来的;陷落的@vbl. fall 的过去分词
+faller
+=>n. 砍伐树木的人
+fallibility
+=>n. 易错;易误;不可靠
+fallible
+=>a. 易错的;可能犯错的
+falling
+=>n. 落下;坠落;下降@a. 落下的
+falloff
+=>n. 下降;分开;散开
+fallout
+=>n. 原子尘的降下;辐射性微尘;原子尘;附带结果
+fallow
+=>n. 休耕地@a. 休耕的;淡棕色的
+false
+=>a. 错误的;虚伪的;假的;不老实的@ad. 欺诈地
+falsehood
+=>n. 谎言;虚假
+falsely
+=>ad. 虚伪地;错误地;不实地
+falseness
+=>n. 虚伪;不正确;不忠实
+falsetto
+=>n. 假音;假声歌手
+falsework
+=>n. 脚手架@NUM
+falsification
+=>n. 变造;伪造;歪曲
+falsifier
+=>n. 伪造者;撒谎的人;伪证的人
+falsify
+=>vt. 伪造;歪曲@vi. 说谎
+falsity
+=>n. 虚伪;错误
+faltboat
+=>n. 一种可折叠的小艇
+falter
+=>vt. 支吾地说;迟疑@vi. 支吾;蹒跚地走@n. 颤抖;支吾;踌躇
+faltering
+=>a. 犹豫的;蹒跚的;支吾的
+famale
+=>n. 凹的
+fame
+=>n. 名望;传说
+famed
+=>a. 著名的;闻名的
+familarity
+=>n. 亲密;精通;亲密的行为
+familial
+=>a. 家族的;家庭的
+familiar
+=>a. 熟悉的;常见的;亲密的@n. 熟友;常客
+familiarity
+=>n. 亲密;熟悉;精通@NUM
+familiarization
+=>n. 亲密;精通;熟悉
+familiarize
+=>vt. 使熟悉;使熟知;使通俗化
+families
+=>n. 家族
+family
+=>n. 家庭;家人;族@a. 家庭的
+famine
+=>n. 饥荒;缺乏;饥馑
+famish
+=>vt. 使挨饿@vi. 饥饿;挨饿
+famished
+=>adj. 饿死了
+famous
+=>a. 出名的;极好的
+famulus
+=>n. 助手
+fan
+=>n. 风扇;迷;狂热者;爱好者@vt. 煽动;刺激;扇;吹拂@vi. 飘动;成扇形散开
+fanatic
+=>n. 狂热;狂热者;盲信@a. 狂热的;盲信的
+fanatical
+=>a. 狂热的;盲信的
+fanatically
+=>ad. 狂热地;盲信地
+fanaticism
+=>n. 狂热;盲信
+fancied
+=>a. 空想的;虚构的
+fancier
+=>n. 爱好者
+fanciful
+=>a. 奇怪的;稀奇的;想像的
+fancy
+=>n. 想象力;幻想;喜好@a. 想象的;精美的;新奇的;奇特的;高价的;特级的@vt. 想象;设想;相信;喜爱@vi. 想象;幻想@NUM
+fancywork
+=>n. 刺绣;钩针织品
+fandango
+=>n. 胡闹;一种西班牙舞
+fane
+=>n. 寺院;神庙
+fanfare
+=>n. 喇叭或号角嘹亮的吹奏声;吹牛
+fanfold
+=>n. 复写簿
+fang
+=>n. 尖牙;犬牙
+fanged
+=>a. 有尖牙的;有毒牙的;有牙根的
+fanion
+=>n. 小旗
+fanlight
+=>n. 扇形窗
+fanner
+=>n. 摇扇人;电风扇;通风机
+fanny
+=>n. Frances 的爱称;女子救护队队员
+fanshaped
+=>adj. 扇形
+fantabulous
+=>a. 极出色的
+fantasia
+=>n. 幻想曲
+fantast
+=>n. 幻想家;梦想家
+fantastic
+=>a. 奇妙的;稀奇的;空想的
+fantasticality
+=>n. 空想性质;变化无常;奇异
+fantasticato
+=>vt. 空想;使变得怪谬
+fantasy
+=>n. 幻想;白日梦
+fantod
+=>n. 烦燥
+fanwise
+=>ad. 成扇地;如扇形地@NUM
+faq
+=>最常问的问题
+far
+=>a. 远的;久远的;遥远的@ad. 甚远地;很;很晚地
+farad
+=>n. 法拉
+faraday
+=>n. 法拉第
+faraway
+=>a. 遥远的;恍惚的;出神的
+farce
+=>n. 闹剧;滑稽剧;胡闹
+farcie
+=>a. 塞有馅的
+farcy
+=>n. 皮疸病
+fare
+=>n. 费用;旅客;食物@vi. 进展;进步;经营;过活
+farewell
+=>n. 辞别;再见;再会@int. 再会
+farfamed
+=>a. 驰名的;威名远播的
+farfetched
+=>a. 牵强的;不自然的;乱七八糟的@NUM
+farina
+=>n. 谷粉;粉末;淀粉
+farinaceous
+=>a. 谷粉制的;粉状的;含淀粉的
+farm
+=>n. 农场;农田@vt. 耕种@vi. 种田
+farmer
+=>n. 农夫;百姓
+farmhouse
+=>n. 农舍;农家
+farming
+=>n. 耕作
+farmland
+=>n. 农地
+farmstead
+=>n. 农场及其建筑物
+farmyard
+=>n. 农家庭院
+faro
+=>n. 一种纸牌游戏
+faroff
+=>adj. 久隔的
+farrago
+=>n. 混杂;混杂物
+farrier
+=>n. 蹄铁匠;马医
+farriery
+=>n. 蹄铁术;蹄铁场;马掌铺
+farrow
+=>n. 一窝小猪;猪的一胎
+farseeing
+=>a. 目光远大的;有远见的
+farsighted
+=>a. 能看到远处的;有先见之明的;远视的
+farsightedness
+=>n. 远视眼
+fart
+=>n. 屁@vi. 放屁
+farther
+=>a. 更远的;进一步的@ad. 更远的;此外;far 的比较级
+farthermost
+=>a. 最远的
+farthest
+=>a. 最远的;最久的@ad. 最远;far 的最高级
+farthing
+=>n. 1/4便士;英国最小的钱币
+farthingale
+=>n. 鲸骨圆环;用鲸骨圆环扩大的裙子
+fas
+=>n. 船边交货价
+fascia
+=>n. 带;招牌
+fasciated
+=>a. 用带子束住的
+fascicular
+=>a. 丛生的;群生的
+fascinate
+=>vt. 令人入神;使着迷@vi. 入迷
+fascinating
+=>a. 迷人的;吸引人的;使人神魂颠倒的
+fascination
+=>n. 魔力;入迷;魅力
+fascism
+=>n. 法西斯主义;极端的国家主义
+fascist
+=>n. 法西斯党员;法西斯主义者
+fash
+=>vt. 使苦恼;使生气@n. 烦恼;麻烦
+fashion
+=>n. 流行;风尚;时样@vt. 形成;造;作
+fashionable
+=>a. 时髦的;上流社会的;流行的
+fashionably
+=>ad. 时髦地;按照流行地
+fashionmonger
+=>n. 创流行的人;赶时髦的人
+fast
+=>a. 快速的;耐久的;紧的@ad. 很快地;紧紧地;彻底地@n. 绝食;斋戒@vi. 绝食;斋戒
+fasten
+=>vt. 拴紧;使固定;系;集中于;强加于@vi. 扣紧
+fastener
+=>n. 使系牢之物
+fastening
+=>n. 系结物
+faster
+=>v. 加快
+fastidious
+=>a. 难取悦的;挑剔的;苛求的
+fastidiously
+=>ad. 非常讲究地;一丝不苟地
+g
+=>n. 字母g
+gab
+=>n. 饶舌;爱说话;多嘴@vi. 空谈;瞎扯;唠叨
+gabardine
+=>n. 一种斜纹防水布料;华达呢;一种宽松的长袍
+gabber
+=>n. 唠叨的人
+gabble
+=>vi. 七嘴八嘴地说;喋喋不休地说@vt. 急促地说@n. 急促讲出而叫人听不清说的话@NUM
+gabby
+=>a. 饶舌的
+gaberdine
+=>n. 工作服;华达呢
+gabfest
+=>n. 冗长的谈话
+gable
+=>n. 山形墙;人字板
+gabled
+=>a. 有山形墙的;人字板制作的
+gabriel
+=>n. 七大天使之一
+gad
+=>vi. 闲逛;游荡;蔓延@vt. 用铁棒刺@n. 游荡;錾;尖头棒@int. 表示轻微的咒骂或惊讶;God 的变形
+gadabout
+=>n. 游荡者@a. 游荡的
+gadarene
+=>a. 朝下的;猛冲的
+gadfly
+=>n. 形似苍蝇;牛蝇;讨厌的人
+gadget
+=>n. 小配件;小玩意;诡计
+gadgeteer
+=>n. 摆弄小玩意的人
+gadgetry
+=>n. 小配件;小玩意
+gadgety
+=>a. 小配件的;小玩意的;爱搞小发明的
+gadolinium
+=>n. 金属名
+gael
+=>n. 盖尔人
+gaelic
+=>n. 盖尔语@a. 爱尔人的
+gaff
+=>n. 鱼叉;斜桁;鸡脚上的铁爪@vt. 用鱼叉捉;用鱼钩拖上来;欺骗
+gaffe
+=>n. 过失;失态;出丑
+gaffer
+=>n. 乡下老头;老人;领班;照明工
+gag
+=>n. 箝口物;箝制言论;讨论终结@vt. 使窒息;使呕吐;压制言论自由;插科打浑;欺骗@vi. 窒息;作呕;欺骗;插科打浑
+gaga
+=>a. 老朽的;狂热的
+gage
+=>n. 抵押品;挑战@vt. 以...为担保;以...为赌注;@n. 标准度量;计量器@vt. 精确计量;估计
+gagger
+=>n. 塞住别人的口;笑料的作者;善于插科打浑的喜剧演员
+gaggle
+=>n. 鹅群;一群@vi. 嘎嘎地叫
+gagman
+=>n. 笑料的作者;善于插科打浑的喜剧演员
+gagster
+=>n. 笑料的作者;善于插科打浑的喜剧演员
+gaiety
+=>n. 愉快;快活;高兴
+gaily
+=>ad. 华丽地;欢乐地
+gain
+=>n. 增益;获得;利润;收获;增加;腰槽@vt. 得到;增进;赚到;开腰槽于@vi. 获利;增加
+gainable
+=>a. 可得到的
+gained
+=>v. 得到;增进;获得;vbl. 得到;增进;获利
+gainer
+=>n. 获得者;得利者;胜利者
+gainful
+=>a. 有利益的;唯利是图的
+gainly
+=>a. 姿态优美的
+gainsay
+=>vt. 否定;反驳
+gait
+=>n. 步法;步态@vt. 训练...的步法
+gaiter
+=>n. 绑腿;长统橡胶靴
+gal
+=>n. 可编程逻辑阵列@n. 女孩
+gala
+=>n. 祭日;节日;祝贺
+galactic
+=>a. 银河的;乳汁的;极大的
+galahad
+=>n. 亚瑟王的圆桌武士之一人;高洁之士
+galatea
+=>n. 白底蓝直条的上等棉布
+galatia
+=>n. 古代亚细亚的王国;后为罗马属地
+galaxy
+=>n. 银河;星系;一群显赫的人物
+gale
+=>n. 狂风;大风;定期租金
+galen
+=>n. 医师
+galenic
+=>a. 医师的
+galilean
+=>a. 伽利略的;
+galileo
+=>n. 伽利略
+galipot
+=>n. 松脂之一种
+gall
+=>n. 胆囊;胆汁;五倍子;苦味;肿痛;恼怒;磨损处@vt. 烦恼;屈辱;磨伤@vi. 被磨伤
+gallant
+=>a. 英勇的;壮丽的;华丽的
+gallantly
+=>ad. 漂亮地;勇敢地;献殷勤地
+gallantry
+=>n. 勇气;豪勇;勇敢的行为
+gallbladder
+=>n. 胆囊
+galleries
+=>n. 图表种类
+gallery
+=>n. 走廊;最高楼座;画廊@n. 图库
+galley
+=>n. 军舰
+gallfly
+=>n. 五倍子虫
+gallic
+=>a. 五倍子的
+gallicism
+=>n. 法国语风;法语里的习惯片语
+gallimaufry
+=>n. 杂凑;搀杂
+galling
+=>a. 使烦恼的;使焦躁的;难堪的
+gallinipper
+=>n. 咬人的虫;大蚊子
+gallinule
+=>n. 番鸟
+gallium
+=>n. 镓
+gallivant
+=>vi. 与异性闲荡;闲逛
+gallnut
+=>n. 没食子;五倍子
+gallon
+=>n. 加仑
+galloon
+=>n. 细绳;纱带
+gallop
+=>n. 疾驰;飞奔@vi. 飞驰;急速进行;急急忙忙的说@vt. 使飞跑;迅速运输
+gallopade
+=>n. 舞蹈之一种;其舞曲
+gallows
+=>n. 绞架;绞刑
+gallstone
+=>n. 胆石
+gallus
+=>n. 吊裤带
+galluses
+=>n.pl. 吊裤带
+gally
+=>vt. 吓唬
+galoot
+=>n. 笨人;呆子
+galop
+=>n. 快步舞之一种;该舞曲@vi. 跳该舞
+galore
+=>ad. 丰富地@n. 丰富
+galosh
+=>n. 橡胶套鞋
+galoshes
+=>n. 胶鞋
+galumph
+=>vi. 意气扬扬地走
+galvanic
+=>a. 流电的;以流电所产的;抽搐的
+galvanism
+=>n. 流电;流电学;电疗法
+galvanist
+=>n. 流电学者
+galvanization
+=>n. 通流电;电镀;镀锌
+galvanize
+=>vt. 通电;镀锌;刺激
+galvanized
+=>n. 镀锌电镀
+galvanizing
+=>n. 镀锌
+galvanometer
+=>n. 检流计
+galvanometric
+=>a. 检流计的
+gam
+=>n. 鲸鱼群;社交;腿@vi.vt. 社交;联欢
+gambade
+=>n. 马的跳跃;乱跳;恶作剧
+gambia
+=>n. 冈比亚
+gambian
+=>a. 冈比亚的@n. 冈比亚
+gambit
+=>n. 以取得优势的开局棋法;开始;话题
+gamble
+=>n. 冒险@vi.vt. 赌博;孤注一掷
+gambler
+=>n. 赌博的人;赌徒
+gambling
+=>n. 赌博
+gambol
+=>n. 跳跃;雀跃;嬉戏@vi. 跳跃;雀跃;耍闹
+gambrel
+=>n. 踝关节;马脚状的铁钩;复拆屋顶
+game
+=>n. 比赛;玩耍;比分;得胜;比赛规则;策略;游戏;野味@vi. 赌博@a. 勇敢的;有胆量的;关于野味的;跛的
+gamecock
+=>n. 斗鸡
+gamekeeper
+=>n. 猎场看守人
+gamely
+=>ad. 不屈地;勇敢地
+gameness
+=>n. 不认输;勇敢
+games
+=>n. 竞技
+gamesmanship
+=>n. 搅乱战术
+gamester
+=>n. 赌博者;赌徒
+gamete
+=>n. 配偶子
+gametic
+=>adj. 配偶的
+gametophyte
+=>n. 配偶体
+gaming
+=>n. 赌博;赌胜负
+gammer
+=>n. 老妪;乡下老太婆
+gammon
+=>n. 腌猪后腿;胡说@vt. 腌;欺骗@vi. 胡说;作假@int. 胡说八道!
+gamut
+=>n. 全音阶;长音阶;全音域
+gamy
+=>a. 猎物多的;猎鸟的;味道强的;勇敢的
+gander
+=>n. 雄鹅;笨人;呆子
+gandhi
+=>n. 甘地
+ganef
+=>n. 小偷;宵小
+gang
+=>n. 队;群;帮@vi. 成群结队;联合在一起@vt. 使分成班组@NUM
+ganger
+=>n. 工头;领班;班主
+gangling
+=>a. 瘦长的
+ganglion
+=>n. 神经节;神经中枢;腱鞘瘤
+ha
+=>int. 嘿!;哈!;哈哈!
+habanera
+=>n. 哈巴内拉;此种舞蹈
+habann
+=>n. 哈巴恩管
+haberdasher
+=>n. 男子服饰经售商;杂货商人
+haberdashery
+=>n. 男子服饰经售店;杂货商店
+habiliment
+=>n. 衣服;服装;制服;装饰
+habilitate
+=>vt. 提供周转资金;予以穿着@vi. 取得资格
+habit
+=>n. 习惯;嗜好;习性@vt. 使穿衣
+habitable
+=>a. 可居住的
+habitant
+=>n. 居住者
+habitat
+=>n. 栖息地;居留地;自生地;聚集处
+habitation
+=>n. 居住;住所
+habitual
+=>a. 习惯的;惯常的;平常的
+habituate
+=>vt. 使习惯于;使熟习于
+habituation
+=>n. 使习惯;习惯;熟习
+habitude
+=>n. 体质;性质;气质;习俗;习惯
+habitus
+=>n. 习惯;体质
+hack
+=>n. 劈;砍;砍痕;出租车;干咳;饲草架;晒架;鹤嘴锄@vt. 劈;砍;出租;用旧@vi. 劈;砍;干咳;驾驶出租车@a. 出租的
+hackamore
+=>n. 驯马用的一种笼头
+hackberry
+=>n. 朴树的一种;朴树果;朴树材@NUM
+hackle
+=>vt. 梳理;乱砍@n. 锯齿形;针排;颈上的羽毛
+hackman
+=>n. 马夫;司机
+hackney
+=>n. 乘用马;出租马车;操贱役的人@vt. 出租;酷使;再三用之使变旧@a. 出租的;陈腐的
+hackneyed
+=>a. 不新奇的;常见的;陈腐的
+hacksaw
+=>n. 可锯金属的弓形锯;钢锯
+had
+=>vbl. have 的过去式和过去分词@conj. 有
+haddock
+=>n. 鳕的一种
+hades
+=>n. 冥府;阎王;地狱
+hadorwould
+=>conj. 有;将@NUM
+haematic
+=>a. 血的@n. 作用于血的药物
+haemostasis
+=>n. 瘀血
+haeremai
+=>int. 表示欢迎之辞
+hafnium
+=>n. 铪
+haft
+=>n. 柄;把手@vt. 装上柄
+hag
+=>n. 女巫;丑老太婆;魔女;沼地;砍伐@vt. 砍;劈
+hagfish
+=>n. 八目鳗类鱼
+haggai
+=>n. 希伯来的先知
+haggard
+=>n. 野鹰@a. 憔悴的;形容枯槁的;野性的
+haggish
+=>a. 老妖似的;女巫似的
+haggle
+=>vi. 争论;杀价@vt. 乱砍;乱劈@n. 杀价;讨论;争论
+hagiographer
+=>n. 圣徒传作者
+hagiography
+=>n. 圣徒传;圣徒言行录
+hagiology
+=>n. 圣徒文学;圣徒传;圣徒录
+hagridden
+=>a. 受恶梦惊扰的;困于恶梦的
+hail
+=>n. 冰雹;致敬;招呼@vt. 向...欢呼;致敬;招呼;使象下雹样落下@vi. 招呼;下雹@int. 万岁;欢迎
+hailstone
+=>n. 冰雹
+hailstorm
+=>n. 下得很大的冰雹
+hair
+=>n. 头发;毛发;些微
+hairbreadth
+=>n. 间不容发的宽度
+hairbrush
+=>n. 发刷
+haircut
+=>n. 理发;剪发的方式
+hairdo
+=>n. 束发;发式;作头发
+hairdresser
+=>n. 美容师;理发师
+hairdressing
+=>n. 美容
+hairiness
+=>n. 有毛;多毛的性质或状态
+hairless
+=>a. 无毛的
+hairlike
+=>a. 毛一般的;细微的
+hairnet
+=>n. 发网
+hairpiece
+=>n. 假发;假眉毛
+hairpin
+=>n. 簪;束发夹;夹发针
+hairsplitter
+=>n. 拘泥于琐事的人;强词夺理的人
+hairsplitting
+=>a. 做无益的细小区别的;吹毛求疵的@n. 拘泥于细节
+hairspring
+=>n. 细弹簧;游丝
+hairstreak
+=>n. 翅上有细纹的蝶
+hairstyle
+=>n. 发型
+hairtail
+=>n. 带鱼
+hairy
+=>a. 多毛的;毛状的;长毛的
+haiti
+=>n. 海地
+haitian
+=>a. 海地的@n. 海地人;海地语
+haka
+=>n. Maoli 族的战舞@NUM
+hake
+=>n. 鳕鱼类
+hal
+=>n. Henry 的昵称
+halation
+=>n. 照相底片上显现的光轮状晕;晕光;白色模糊影像
+halberd
+=>n. 戟
+halcyon
+=>n. 想象中的一种鸟;形同翠鸟;翠鸟@a. 宁静的;平稳的;翠鸟的
+hale
+=>a. 强壮的;健壮的@vt. 猛拉;拖曳
+haleness
+=>n. 健壮
+half
+=>n. 一半;半时;不完全@a. 一半的;不完全的;半途的@ad. 一半地;部分地;几乎
+halfback
+=>n. 中卫
+halfhearted
+=>a. 不认真的;无兴趣的;不热心的
+halfhour
+=>n. 半小时;三十分钟@a. 半小时的;三十分钟的
+halfpenny
+=>n. 半便士铜币;半便士之值
+halfpennyworth
+=>n. 仅值半便士的东西;无价值之物
+halftone
+=>n. 半音;网板;中间色
+halfway
+=>a. 中途的;不彻底的;部分的@ad. 半路地;在中途;在半途
+halibut
+=>n. 大比目鱼
+halide
+=>n. 卤化物@a. 卤化物的
+halite
+=>n. 岩盐
+halitosis
+=>n. 呼出的恶臭;令人不快的口臭
+hall
+=>n. 门厅;走廊;会堂
+halley
+=>n. 哈雷
+hallmark
+=>n. 纯度检验证明;品质证明@vt. 加盖纯度检验证明
+hallo
+=>int. 喂;哈罗
+halloo
+=>int. 一种喊声@n. 守猎时呼啸猎犬的喊声@vt.vi. 高呼;喊叫着追赶;高声招呼喊叫
+hallow
+=>vt. 使...神圣;视为神圣@n. 圣徒
+hallowed
+=>a. 神圣化的;神圣的
+halloween
+=>n. 万圣节前夕
+hallucinate
+=>vt. 使产生幻觉
+hallucination
+=>n. 幻觉;幻想
+hallucinogen
+=>n. 迷幻剂
+hallway
+=>n. 走廊
+halma
+=>n. 一种跳棋
+halo
+=>n. 晕轮;光圈;荣光@vt. 使有晕轮;围以光环@vi. 成晕轮
+halogen
+=>n. 卤素
+halogens
+=>n. 卤素
+haloid
+=>a. 卤素的@n. 卤素盐;卤素衍生物
+halophile
+=>n. 好盐菌
+halt
+=>n. 停止;立定;休息@vt. 使停止;使立定@vi. 立定;停止;蹒跚;踌躇;有缺点@n. 停止
+halter
+=>n. 缰绳;笼头
+halting
+=>a. 跛的;蹒跚的;犹豫的
+halve
+=>vt. 二等分;分享;减半
+halyard
+=>n. 升降索
+ham
+=>n. 火腿;大腿;笨拙的演员@a. 过火的;做作的@vt.vi. 演得过火
+hamadryad
+=>n. 树神;印度产毒蛇之一种
+hamal
+=>n. 搬运工;男仆
+hamburger
+=>n. 肉饼;汉堡
+hamite
+=>n. 诺亚次子 Ham 的后裔;哈姆族人
+hamlet
+=>n. 小村;部落@n. 哈姆雷特
+hammer
+=>n. 锤;铁锤;钉锤@vt. 锤打;敲打;钉@vi. 连续锤打
+hammerblow
+=>n. 锤打
+hammerhead
+=>n. 锤头;笨人
+hammertoe
+=>n. 槌状脚趾
+hammock
+=>n. 吊床;小丘
+hamper
+=>n. 食盒;食篮;阻碍物@vt.阻碍;使困累;妨碍
+hamshackle
+=>vt. 将头和前足绑在一起;束缚
+hamster
+=>n. 东欧或亚洲产的大颊的鼠类
+hamstring
+=>n. 腿筋;腿窝@vt. 切断腿筋使成跛腿;使残废
+han
+=>n. 汉
+hand
+=>n. 手;掌握;协助;指针;人手;手艺;手迹;支配;插手@vt. 支持;搀扶;交给
+handbag
+=>n. 手提包
+handball
+=>n. 手球;那种球;手球
+handbell
+=>n. 手摇铃
+handbill
+=>n. 传单;招贴
+handbreadth
+=>n. 一手宽
+handcar
+=>n. 手摇车
+handcart
+=>n. 手车;手推车
+handclasp
+=>n. 握手
+handcuffs
+=>n. 手铐
+handed
+=>a. 有手的
+handfree
+=>n. 电话机上的免提键
+handful
+=>n. 少数;一把;棘手之事
+iaia
+=>n. 亚亚线
+iambus
+=>n. 抑扬格;短长格
+iber
+=>n. 纤维
+iberian
+=>a. 伊比利亚的@n. 伊比利亚人;古代伊比利亚人
+ibex
+=>n. 野生山羊
+ibg
+=>n. 数据块间隔
+ibid
+=>ad. 同前;如上
+ibid.
+=>n. 的简写
+ibis
+=>n. 朱鹭
+ibm
+=>n. IBM;国际事务机器股份有限公司@n. 美国国际商用机器公司
+ic
+=>n. 指令计数器;集成电路
+icc
+=>n. 国际计算中心
+ice
+=>n. 冰;冰淇淋;糖衣;冷若冰霜;矜持;贿赂@vt. 冰冻;覆以糖衣@vi. 结冰
+iceberg
+=>n. 冰山;冷冰冰的人
+iceboat
+=>n. 冰上滑行船;碎冰船
+icebound
+=>a. 冰封的;被冰封冻着的
+icebox
+=>n. 冷藏库;冰箱
+icebreaker
+=>n. 碎冰船;破冰设备
+icecream
+=>n. 冰淇淋
+icefall
+=>n. 冰布;冰崩
+icehouse
+=>n. 冰库;冰室
+iceland
+=>n. 冰岛
+icelander
+=>n. 冰岛人
+icelandic
+=>a. 冰岛的;冰岛人的@n. 冰岛语
+icerink
+=>n. 室内滑冰场
+ichor
+=>n. 灵液;恶臭脓;脓水
+ichorous
+=>a. 脓水的
+ichthyoid
+=>a. 成鱼形的@n. 鱼状的动物
+ichthyologist
+=>n. 鱼类学者;鱼类研究者
+ichthyophagous
+=>a. 常吃鱼的
+ichthyosaur
+=>n. 鱼龙
+icicle
+=>n. 垂冰;冰柱;冷冰冰的人
+icily
+=>ad. 冷冰冰地
+iciness
+=>n. 冰冷;寒冷;如冰
+icing
+=>n. 糖衣;结冰
+icky
+=>a. 过粘的;过甜的;讨厌的@n. 令人讨厌的人
+icon
+=>n. 圣像;画像;肖像;偶像;图标@n. 像标
+iconic
+=>计算机] 图标的
+iconoclasm
+=>n. 破坏偶像;破坏偶像主义;打破旧习
+iconoclast
+=>n. 偶像破坏者;提倡打破旧习的人
+iconoclastic
+=>a. 偶像破坏的;打破旧习的
+ictus
+=>n. 强音;扬音;急发症状
+icy
+=>a. 冰的;冰冷的;冷淡的;滑溜的
+id
+=>n. 遗传素质;本能冲动@n. 身分证
+idaho
+=>n. 爱达荷
+idahoan
+=>a. 爱达荷州的@n. 爱达荷州人
+idea
+=>n. 主意;办法;理想;思想;概念;意见
+ideal
+=>n. 理想;观念;思想;最后目标@a. 理想的;完美的;空想的;观念的;唯心论的
+idealist
+=>n. 理想主义者;唯心主义者@a. 唯心论的;理想主义的
+idealistic
+=>a. 唯心论的;唯心主义的唯心主义者的
+ideality
+=>n. 理想;虚构的事物;想象力
+idealization
+=>n. 理想化;理想化的事物
+idealize
+=>vt. 使理想化@vi. 理想化;形成思想;描述理想
+idealway
+=>n. 郎道公司;郎道词典
+ideate
+=>vi. 形成概念;想象@vt. 对...形成概念
+idemnify
+=>v. 赔长
+identical
+=>a. 同一的;恒等的;完全相同的@NUM
+identifiable
+=>a. 可以确认的
+identification
+=>n. 视为同一;证明同一;确认
+identified
+=>pp. 识别
+identifier
+=>n. 检验人@n. 标识符
+identify
+=>vt. 识别;认明;鉴定;使等同于@vi. 一致;变成一致
+identity
+=>n. 相同;身分;一致;特性;恒等式
+ideological
+=>a. 观念学的;空论的;意识形态的
+ideologist
+=>n. 思想家
+ideology
+=>n. 观念学;空论;意识形态;思想
+idiocy
+=>n. 白痴;白痴的行为
+idiom
+=>n. 成语;惯用语法;方言
+idiomatic
+=>a. 惯用的;通顺的
+idiomatically
+=>ad. 使用惯用语句;惯用地
+idiopathy
+=>n. 原发症
+idiosyncrasy
+=>n. 特质;特性
+idiosyncratic
+=>a. 特质的;异质的;特殊的
+idiot
+=>n. 白痴;极蠢之人
+idiotic
+=>a. 白痴的;愚蠢的;呆头呆脑的
+idle
+=>a. 懒惰的;闲散的;停顿的;空闲的;无用的@vi. 不作事;闲散;浪费;空转@vt. 虚度;使空闲;使空转@n. 空闲时间
+idleness
+=>n. 懒惰;闲散;失业
+idler
+=>n. 懒惰者;游手好闲的人;惰轮
+idlesse
+=>n. 空闲;懒散
+idly
+=>ad. 懒惰地;空闲地
+idol
+=>n. 偶像;崇拜物;幻象;谬论
+idolater
+=>n. 偶像崇拜者;崇拜者;皈依者
+idolatrous
+=>a. 崇拜偶像的;盲目崇拜的
+idolatry
+=>n. 偶像崇拜;邪神崇拜;盲目的崇拜
+idolization
+=>n. 偶像化;盲目的崇拜;醉心
+idolize
+=>vt. 偶像化;极端崇拜;醉心于@vi. 崇拜偶像
+idolum
+=>n. 幻象;谬论
+idyllic
+=>a. 田园诗的;牧歌的;悠闲的
+ieee
+=>n. 美国电气及电子工程师学会
+if
+=>conj. 如果;是否;假设;即使@n. 条件@n. DOS命令:测试并确定某特定条件真伪;若真则执行;否则忽略
+ifcs
+=>n. 国际计算机科学联合会
+igloo
+=>n. 圆顶建筑
+igneous
+=>a. 火的;似火的;火成的
+ignite
+=>vt. 点燃;使灼热;使兴奋
+ignition
+=>n. 点火;点燃;点火
+ignitor
+=>n. 一发火器
+ignitron
+=>n. 水银半波整流管
+ignoble
+=>a. 卑贱的;卑鄙的;不名誉的
+ignobly
+=>ad. 卑贱地;下流地
+ignominious
+=>a. 可耻的;不名誉的;下流的
+ignominy
+=>n. 耻辱;不名誉;不体面
+ignoramus
+=>n. 不学无术的人;无知识的人
+ignorance
+=>n. 无知;不知
+ignorant
+=>a. 无知识的;不知道的;幼稚的
+ignore
+=>vt.不理睬;忽视;驳回@v. 忽略
+ignored
+=>v. 忽略;忽视;不重视;vbl. 忽略;忽视
+iguana
+=>n. 鬣蜥
+ii
+=>no. 第二
+iii
+=>no. 第三
+ike
+=>n. 艾克
+ileum
+=>n. 回肠
+ilex
+=>n. 冬青属;冬青斛
+iliac
+=>a. 肠骨的
+ilium
+=>n. 肠骨
+ilk
+=>a. 相同的@n. 家族;亲属;种类
+ill
+=>n. 疾病;坏事;罪恶;灾难@a. 生病的;邪恶的;要吐的;不良的;不顺利的;麻烦的@ad. 有害地;不幸地;不充分
+illegal
+=>a. 违法的;不合规定的
+illegality
+=>n. 非法行为;犯规
+illegible
+=>a. 难辨认的;字迹模糊的
+illegibly
+=>ad. 难读地;暧昧地
+illegitimacy
+=>n. 不法;私生;不合逻辑
+illegitimate
+=>a. 不法的;非嫡出的;庶生的;不合理的;不符合习惯的@n. 非嫡出子;庶子@vt. 认为违法;认做私生子
+illegitimation
+=>n. 认为不法;认为非嫡出子
+illiberal
+=>a. 无教养的;吝啬的
+illicit
+=>a. 不法的;不正的;禁止的
+illimitable
+=>a. 无限的;无边际的
+illinois
+=>n. 伊利诺州
+illiteracy
+=>n. 文盲
+illiterate
+=>n. 文盲@a. 目不识丁的;没受教育的
+illness
+=>n. 疾病;生病
+illogical
+=>a. 不合逻辑的;不合理的
+illogicality
+=>n. 不合理;不和逻辑;矛盾
+illume
+=>vt. 照明;点亮;启发
+illuminance
+=>n. 照明度
+illuminant
+=>a. 发光的@n. 光源;发光体
+illuminate
+=>vt. 照明;阐明;说明;使灿烂;用灯装饰@vi. 照亮
+illumination
+=>n. 照明;阐明;启发
+jab
+=>vt.vi. 刺;戳;猛击@n. 刺;戳;猛击
+jabber
+=>vt.vi. 快而含糊地说;吱吱喳喳地叫;闲聊@n. 快而含糊不清的话
+jabiru
+=>n. 鹳属大涉禽之一种
+jabot
+=>n. 胸部装饰
+jacal
+=>n. 小茅屋
+jacaranda
+=>n. 紫威科树木;其木材
+jacinth
+=>n. 风信子石;橘红色
+jack
+=>n. 插座;千斤顶;男人@vt. 抬起;提醒;扛举;增加;提高;放弃@a. 雄的
+jackal
+=>n. 狐狼;帮凶;走狗@vi. 当走狗
+jackanapes
+=>n. 无礼的男人;顽童;猿
+jackaroo
+=>n. 实习;无经验者;新手@vi. 实习;当新手
+jackass
+=>n. 公驴;愚蠢的人;傻瓜
+jackboot
+=>n. 长统靴
+jackdaw
+=>n. 寒鸦
+jacket
+=>n. 夹克;外套;护套@vt. 给...穿夹克;给...装护套
+jacketed
+=>adj. 加套的
+jackhammer
+=>n. 手提钻
+jackknife
+=>n. 大折合式刀;镰刀式跳水@vi. 弯身@vt. 用大折刀切
+jackleg
+=>a. 未成熟的;不正直的;代用的
+jacklight
+=>n. 照明灯@vi. 用照明灯渔猎
+jackscrew
+=>n. 螺旋起重机
+jackson
+=>n. 杰克森
+jacksrew
+=>n. 插口螺旋
+jackstraw
+=>n. 稻草人;小木片;骨
+jacob
+=>n. 男人名;雅各
+jacobean
+=>a. James一世时代的;黑橡木色的@n. James一世时代的政治家
+jacobinism
+=>n. Jacobin 党的主义;激进共和主义
+jacobus
+=>n. James 一世时代的金币
+jaconet
+=>n. 薄棉布
+jaculate
+=>vt. 向前掷
+jade
+=>n. 玉;翡翠;老马@a. 绿色的;玉制的@vt.vi. (使)疲倦
+jaded
+=>a. 疲倦不堪的;厌倦的
+jadeite
+=>n. 硬玉的一种
+jag
+=>n. 缺口;突出端;小量负荷;小伙子@vt. 使成缺口;使成锯齿状@vi. 刺;戳
+jagged
+=>a. 锯齿状的
+jaggery
+=>n. 粗糖
+jaggies
+=>计算机] 走样
+jaguar
+=>n. 美洲虎
+jail
+=>n. 监牢;监狱;拘留所@vt. 监禁;下狱
+jailbird
+=>n. 囚犯;累犯;恶痞
+jailed
+=>adj. 监禁的
+jailer
+=>n. 看守监狱的人;狱卒
+jailor
+=>n. 看守监狱的人;狱卒
+jake
+=>a. 满意的;上等的@n. 乡下佬;家伙
+jakes
+=>n. 厕所
+jalap
+=>n. 泻药
+jalousie
+=>n. 百叶窗
+jam
+=>n. 果酱;拥塞之物;堵塞;困境@vt. 挤进;使塞满;混杂;压碎;使堵塞@vi. 堵塞;轧住;拥挤
+jamaica
+=>n. 牙买加;牙买加甜酒
+jambalaya
+=>n. 什锦菜肴
+james
+=>n. 詹姆士
+jammed
+=>pp. 拥塞
+jammer
+=>n. 干扰机
+jamming
+=>n. 干扰台;人为干扰
+jan
+=>n. 一月
+jane
+=>n. 珍
+jangle
+=>vi.vt. 吵架;(使)发出刺耳声@n. 吵嚷;刺耳声;空谈
+jangling
+=>adj. 吵闹的
+janitor
+=>n. 守卫;门警;管理人
+janitress
+=>n. 女性的守卫;女性的门警
+janizary
+=>n. 土耳其士兵;亲信
+january
+=>n. 一月
+janus
+=>n. 两面神
+japan
+=>n. 日本
+japanese
+=>n. 日本人;日文@a. 日本的;日本语的
+japanize
+=>vt. 使成日本式;使日本化;置于日本影响下
+japanology
+=>n. 日本学;日本研究
+jape
+=>n. 戏言;笑料;嘲弄@vi. 开玩笑@vt. 嘲弄
+japonica
+=>n. 日本产植物
+jar
+=>n. 广口瓶;震动;刺耳声@vi. 震惊;冲突;发刺耳声;不一致@vt. 震动;刺激
+jargon
+=>n. 专门术语;行话;梦话;土语
+jargonelle
+=>n. 一种早熟的梨子
+jarovize
+=>vt. 实施人工方法使植物早熟
+jarring
+=>a. 辗轧的;刺耳的;不和谐的@n. 辗轧声;震动;冲突
+jasmine
+=>n. 茉莉;淡黄色
+jasper
+=>n. 碧玉;绿色装饰用宝石
+jato
+=>n. 喷射机起飞促进
+jaundice
+=>n. 黄疸;偏见;乖僻@vt. 使患黄疸;使怀偏见
+jaundiced
+=>a. 患黄疸病的;有偏见的;嫉妒的
+jaunt
+=>n. 远足;徒步旅游@vi. 远足;徒步旅游
+jauntily
+=>ad. 快活地;活泼地;洋洋得意地
+jauntiness
+=>n. 快活;活泼;得意洋洋
+jaunty
+=>a. 快活的;活泼的;轻快的
+java
+=>n. 爪哇;爪哇产的咖啡;咖啡
+javanese
+=>a. 爪哇的;爪哇人的;爪哇语的@n. 爪哇人;爪哇岛人;爪哇语
+javelin
+=>n. 标枪
+jaw
+=>n. 颚;颌@vt.vi. 闲谈;教训;唠叨
+jawbone
+=>n. 颚骨;下颚骨;信用@vi.vt. 赊买
+jawboning
+=>n. 州长向劳工界界领袖发出的劝告
+jawbreaker
+=>n. 难发音的字
+jaws
+=>n. 口;狭口;咽喉;险地
+jay
+=>n. 鸟;喋喋不休的人;傻瓜
+jaywalk
+=>vi. 擅自穿越马路
+jaywalker
+=>n. 不守交通规则
+jazz
+=>n. 爵士乐;喧闹@a. 爵士乐的;喧吵的@vi. 演奏爵士乐;跳爵士乐;游荡@vt. 奏爵士乐;使活泼
+jazzily
+=>ad. 爵士地;奔放地;激烈地
+jazzman
+=>n. 爵士音乐家
+jazzy
+=>a. 爵士的;奔放的;激烈的
+jcl
+=>n. 作业控制语言
+jealous
+=>a. 嫉妒的;羡慕的;留心的;戒备的
+jealousy
+=>n. 妒忌;猜忌;羡慕
+jean
+=>n. 牛仔裤;牛仔布;斜纹棉布
+jeans
+=>n. 牛仔裤
+jeep
+=>n. 吉普车@vi. 乘吉普车@vt. 用吉普车运
+jeer
+=>n. 嘲笑;讥讽;戏弄;@vt.vi. 嘲弄;揶揄;戏弄
+jeeringly
+=>ad. 嘲弄地
+jeffersonian
+=>a. Jefferson 派的@n. Jefferson 的支持者
+jehu
+=>n. 开快车者;出租车司机
+jejune
+=>a. 贫弱的;不毛的;无味干燥的;不成熟的
+jejunum
+=>n. 空肠
+jekyll
+=>n. 吉柯博士
+jell
+=>vt.vi. (使)成胶状@n. 果子冻
+jellied
+=>a. 凝成胶状的;涂凝胶物的
+jellify
+=>vt.vi. (使)成凝胶状
+jelly
+=>n. 果冻;果冻甜食;胶状物@vt.vi. (使)结冻;(使)成胶状
+jellyfish
+=>n. 水母;海蜇;意志薄弱的人
+jennet
+=>n. 西班牙种小马
+jeopardize
+=>vt. 危害;使受危困;使陷危地
+jeopardy
+=>n. 危难;危险
+jerboa
+=>n. 跳鼠
+jeremiad
+=>n. 悲叹;悲痛话;怨恨
+jeremiah
+=>n. 耶利米;耶利米书
+jerk
+=>n. 性情古怪的人;急拉;肌肉抽搐;牛肉干@vi. 痉挛;急拉;急推@vt. 猛拉
+jerkin
+=>n. 男用无袖短上衣;短上衣
+jerkiness
+=>n. 急动;抽筋
+jerkwater
+=>a. 微小的
+jerky
+=>a. 急动的;抽筋的;抽筋性的@n. 牛肉干
+jerry
+=>a. 草率的;偷工减料的
+jersey
+=>n. 运动衫
+jerusalem
+=>n. 耶路撒冷
+jess
+=>n. 鹰的脚带@vt. 系以脚带
+jesse
+=>n. 男人名;耶西
+jest
+=>n. 笑柄;笑话@vi. 讲笑话;嘲笑;开玩笑@vt. 嘲笑
+jester
+=>n. 讲笑话的人;小丑
+jesuit
+=>n. 耶稣会信徒;阴险的人;阴谋家
+jesuitical
+=>a. 耶稣会的;狡猾的;阴险的
+jesuitism
+=>n. 耶稣会的教义;狡猾;阴谋
+jesus
+=>n. 耶稣
+jet
+=>n. 喷射;喷出;黑玉@vt.vi. 射出;迸出;喷射@a. 黑玉色的;墨黑的
+jetliner
+=>n. 喷气客机
+kaaba
+=>n. 建于 Mecca 之回教寺院内的圣堂
+kabob
+=>n. 烤肉
+kabyle
+=>n. 卡拜尔人;其语言
+kaddish
+=>n. 祈祷
+kaiser
+=>n. 皇帝
+kaka
+=>n. 橄榄色鹦鹉之一种
+kakapo
+=>n. 鹦鹉的一种
+kakistocracy
+=>n. 恶人政治
+kale
+=>n. 无头甘蓝类;甘蓝类蔬菜;甘蓝汤
+kaleidoscope
+=>n. 万花筒
+kaleyard
+=>n. 菜园
+kalong
+=>n. 大蝙蝠
+kame
+=>n. 堆积物;梳篦;刷马的梳子
+kamptulicon
+=>n. 橡皮地毯
+kanaka
+=>n. 夏威夷及南洋群岛的土人
+kangaroo
+=>n. 袋鼠
+kansan
+=>a. 堪萨斯州的@n. 堪萨斯州
+kansas
+=>n. 堪萨斯州
+kantian
+=>a. 康德的;康德哲学的@n. 康德学派的人
+kaon
+=>n. K 中间子@NUM
+kapok
+=>n. 木棉花;木丝棉
+kappa
+=>n. 希腊文字母第 10字@NUM
+karakorum
+=>n. 古代蒙古帝国旧都遗迹@NUM
+karat
+=>n. 克拉@NUM
+karate
+=>n. 空手道@NUM
+karst
+=>n. 石灰岩地区常见的地形
+kart
+=>n. 小型赛车@NUM
+kasbah
+=>n. 城;土民区@NUM
+katabatic
+=>a. 下降的@NUM
+kate
+=>n. Catherine 的昵称@NUM
+kathion
+=>n. 阴向离子@NUM
+katydid
+=>n. 纺织娘
+kay
+=>n. K 字
+kayak
+=>n. 爱斯基摩人用的皮船;皮船
+kayo
+=>n. 击倒@vt. 击倒
+kazoo
+=>n. 一种木制或金属制玩具笛子
+kb
+=>n. 千字节(1024字节)
+kea
+=>n. 食肉鹦鹉
+keck
+=>v. 想吐;作呕;极为讨厌
+kedge
+=>vt.vi. 抛小锚移船@n. 小锚
+keel
+=>n. 龙骨;平底船@vt. 装以龙骨;使倾覆@vi. 倾覆
+keelage
+=>n. 停泊税;入港税
+keelboat
+=>n. 一种河船
+keelhaul
+=>vt. 使爬进船底;严责
+keelless
+=>a. 无龙骨的;无龙骨瓣的;无龙骨突起的
+keen
+=>a. 锋利的;敏锐的;强烈的;敏捷的;热心的;渴望的@n. 唱挽歌;痛哭@vt.vi. 唱挽歌;痛哭
+keenly
+=>ad. 锐利地;敏捷地;激烈地
+keenness
+=>n. 锐利;尖锐;敏感
+keep
+=>n. 生计;维持;保持@vt. 保持;保存;遵守;看守;整理;维持;履行;瞻养;经营;拘留;记帐@vi. 保持;继续不断
+keeper
+=>n. 监护人;管理人;看守人
+keeping
+=>n. 保管;供养;一致
+keepsake
+=>n. 纪念品
+kef
+=>n. 吸毒后的陶醉状态;采自印度大麻的麻药
+keg
+=>n. 小桶
+kegler
+=>n. 保龄球比赛者
+kelp
+=>n. 一种大海草;巨藻;海草灰
+kelson
+=>n. 内龙骨
+kelvin
+=>n. 绝对温标;开氏温标
+kemp
+=>n. 冠军
+ken
+=>n. 视野范围;知识范围;见地
+kennedy
+=>n. 肯尼迪
+kennel
+=>n. 狗舍;狗屋;阴沟@vt. 置于狗舍;宿于狗舍@vi. 进狗窝
+kenning
+=>n. 比喻的复合辞
+keno
+=>n. 一种赌博
+kenosis
+=>n. 神性放弃
+kent
+=>n. 英国东南部州名
+kentuckian
+=>a. Kentucky 的@n. Kentucky 人
+kentucky
+=>n. 肯塔基州
+kenya
+=>n. 肯亚
+kepi
+=>n. 法国军用平顶帽
+kept
+=>vbl. keep的过去式和过去分词
+keratin
+=>n. 角质素
+keratitis
+=>n. 角膜炎
+keratose
+=>a. 角质的@n. 角质物质
+kerb
+=>n. 街头的边石
+kerchief
+=>n. 头巾;围巾;手帕
+kerf
+=>n. 劈痕;截口;切口
+kern
+=>计算机] 紧排
+kernel
+=>n. 核心;中心;精髓@n. 内核
+kerning
+=>n. 字距调整
+kerosene
+=>n. 煤油;火油;灯油
+kerry
+=>n. 黑色的小乳牛
+kestrel
+=>n. 一种鹰
+ketch
+=>n. 一种双桅船
+ketchup
+=>n. 蕃茄酱等
+ketone
+=>n. 酮类
+ketosis
+=>n. 酮症
+kettle
+=>n. 茶壶;罐
+kettledrum
+=>n. 半球形铜鼓;午后茶会
+kevel
+=>n. 盘绳栓
+key
+=>n. 钥匙;键;解答;关键;要害;基调;线索;答案;暗礁@vt. 调音;锁上;提供线索@vi. 使用钥匙@n. 键
+keyage
+=>n. 码头使用费
+keyboard
+=>n. 键盘
+keyed
+=>v. 键入;vbl. 键入
+keyer
+=>n. 电键器
+keyhole
+=>n. 键孔;栓孔;锁眼@a. 显示内情的
+keying
+=>n. 按键
+keyless
+=>a. 无键的;转柄上发条的
+keymaker
+=>n. 一种加密软件
+keynote
+=>n. 主调音;基音;基调@vt. 说明基本政策;定基调
+keynoter
+=>n. 政党方针的演说人
+keypad
+=>n. 键区
+keypunch
+=>vi. 用打孔机打孔
+keyset
+=>n. 键盘
+keystoke
+=>n. 按键
+keystone
+=>n. 拱心石;楔石;重点
+keystroke
+=>n. 键击
+keyway
+=>n. 扁形钥孔;键沟
+keyword
+=>n. 关键字
+keywords
+=>n. 关键字
+khaki
+=>a. 卡其色的;土黄色的@n. 卡其色;卡其色军服
+khan
+=>n. 可汗;商队的宿店
+khanate
+=>n. 可汗的领土;可汗的地位
+khedive
+=>n. 埃及总督
+khrushchev
+=>n. 赫鲁晓夫
+kiangsu
+=>pla. 江苏
+kibble
+=>vt. 粗磨
+kibbutz
+=>n. 以色列的集体农场
+kibe
+=>n. 冻疮;蹦裂
+kibitz
+=>vi. 管闲事;乱插嘴@vt. 乱提意见
+kibosh
+=>n. 胡说
+kick
+=>n. 踢;反冲;后座力;凹底@vi. 踢;反抗;反冲@vt. 踢;朝...反冲
+kickback
+=>n. 回答;反扑;退还
+kicker
+=>n. 踢者;善踢的人;爱踢的马
+kickoff
+=>n. 开球;开始;肇始
+kickup
+=>n. 骚动
+kid
+=>n. 小山羊;小山羊肉;小孩;欺骗@a. 小山羊皮制的@vt.vi. 哄骗;嘲弄
+l
+=>n. 字母l
+laager
+=>n. 车阵@vt. 布车阵@vi. 宿营于车阵中
+lab
+=>n. 实验室;研究室;
+labefaction
+=>n. 动摇;衰弱;衰微
+label
+=>n. 标签;签条;商标@vt. 贴标签于;指...为;分类@n. 标志@v. 标注@n. DOS命令:加上或修改磁盘的标签
+labelled
+=>v. 贴上标签;vbl. 贴上标签
+labellum
+=>n. 唇瓣
+labial
+=>a. 唇的;嘴唇的;唇音的@n. 唇音;风琴管
+labialize
+=>vt. 使唇音化;用唇发音
+labiate
+=>a. 唇形的@n. 唇形科植物
+labile
+=>a. 不安定的;易发生变化的
+labium
+=>n. 唇;阴唇;下唇
+labor
+=>n. 劳动;努力;工作;劳工;分娩@vi. 劳动;努力;苦干@vt. 详细分析;麻烦
+laboratory
+=>n. 实验室;研究室;化工厂
+laborer
+=>n. 劳动者;劳工
+laborering
+=>adj. 劳动的
+laborious
+=>a. 艰苦的;费劲的;勤劳的
+laborite
+=>n. 工党党员
+laborsaving
+=>a. 节省劳力的;省力气的
+labour
+=>n. 劳动;努力;工作;劳工;工人;分娩@vi. 劳动;努力;苦干@vt. 详细分析;麻烦
+labret
+=>n. 唇饰
+laburnum
+=>n. 金链花
+labyrinth
+=>n. 迷宫;难解的事物;迷路
+lac
+=>n. 紫胶;十万;十万卢比;许多
+laccolith
+=>n. 岩盘
+lace
+=>n. 饰带;花边;缎带;鞋带@vt. 结带子;饰以花边@vi. 缚带子
+lacedaemonian
+=>a. 古代斯巴达的@n. 古代斯巴达的别称
+lacerable
+=>a. 撕得碎的
+lacerate
+=>vt. 划破;割破;使痛心;撕碎@a. 撕碎的;受折磨的
+laceration
+=>n. 划破;割破;裂伤撕碎
+lacewing
+=>n. 草蜻蛉
+laches
+=>n. 懈怠;疏忽
+lachrymal
+=>a. 泪的;流泪的;啜泣的;泪腺的@n. 泪壶;泪腺
+lachrymation
+=>n. 流泪
+lachrymator
+=>n. 催泪瓦斯
+lachrymatory
+=>n. 泪壶@a. 泪的;催泪的
+lachrymose
+=>a. 爱哭的;悲哀的
+lacily
+=>ad. 有穗边地
+lack
+=>n. 缺乏;无;不足@vt. 缺乏;短少;不足;需要@vi. 缺乏
+lackadaisical
+=>a. 懒洋洋的;愁闷的;感伤的
+lackaday
+=>int. 悲哉!;哀哉!
+lackey
+=>n. 仆人;侍从;马屁精@vt. 服侍;侍候;奉承
+lacking
+=>a. 缺乏的;不足的
+lacklustre
+=>a. 无光泽的;无生气的@n. 无光泽;无生气
+laconic
+=>a. 简洁的;简明的
+laconically
+=>ad. 简洁地
+lacquer
+=>n. 瓷漆;漆;漆器@vt. 涂漆
+lacquerer
+=>n. 漆匠
+lacrosse
+=>n. 长曲棍球
+lactate
+=>vi. 分泌乳汁;授乳@n. 乳酸盐
+lactation
+=>n. 分泌乳汁;授乳;哺乳
+lacteal
+=>a. 乳的;乳状的;输入乳糜的@n. 乳糜管
+lacteous
+=>a. 乳的;乳状的
+lactic
+=>a. 乳的;乳汁的;由乳汁取得的
+lactiferous
+=>a. 输送乳汁的;生乳液的
+lactobacillus
+=>n. 乳酸菌
+lactometer
+=>n. 检乳器
+lactose
+=>n. 乳糖
+lacuna
+=>n. 空白;空隙;阙文
+lacy
+=>a. 丝带的;花边的;花边状的
+lad
+=>n. 青年;少年;老友
+ladder
+=>n. 梯;进身的阶梯@vi. 袜子抽丝;装设梯子
+laddic
+=>n. 多孔磁心
+lade
+=>vt. 装;装载;使载@vi. 装货
+laden
+=>a. 充满的;负载的;苦恼的@vbl. lade的过去分词
+lading
+=>n. 装载;装船;船货
+ladle
+=>n. 杓子;长柄杓@vt. 以杓舀取;以杓掬;不分对象予以赠送
+ladleful
+=>n. 满杓
+lady
+=>n. 淑女;女士;贵妇
+ladybug
+=>n. 瓢虫
+ladyfinger
+=>n. 松脆饼
+ladyhood
+=>n. 贵妇之身分或风度
+ladylike
+=>a. 娴淑的;如淑女的;高雅的
+ladylove
+=>n. 情人;情妇
+ladyship
+=>n. 夫人的身分;夫人;小姐
+lag
+=>n. 落后;囚犯;迟延;桶板;防护套@a. 最后的@vi. 落后;蹒跚;缓缓而行;滞后@vt. 落后于;押往监狱;加上外套
+lager
+=>n. 酿造后再贮藏熟成的啤酒
+laggard
+=>n. 迟钝者;落后者@a. 迟钝的;落后的
+lagging
+=>n. 迟钝;落后;防护套@a. 迟钝的;落后的
+lagniappe
+=>n. 免费赠品
+lagomorph
+=>n. 兔类动物
+lagos
+=>n. 尼日利亚的首都
+lah
+=>n. 长音阶的第 6 音
+laic
+=>n. 凡人;俗人;外行@a. 凡人的;俗人的;外行的
+laicism
+=>n. 政权归还俗人主义
+laid
+=>vbl. lay的过去式和过去分词
+lain
+=>vbl. lie的过去分词
+lair
+=>n. 兽穴;兽窝;泥潭@vi. 进入兽穴;在泥中打滚@vt. 放于穴中;使陷入泥潭
+laird
+=>n. 地主;领主
+laity
+=>n. 俗人;外行
+lake
+=>n. 湖;池;色淀@vt.vi. (使)血球溶解
+lakelet
+=>n. 小湖
+lakh
+=>n. 十万;十万卢比;多数
+laky
+=>a. 深红色颜料的;深红色的;湖泊的
+lallation
+=>n. 将 r 音发成 l 音
+lam
+=>vt.vi. 打;鞭笞;逃脱@n. 逃亡
+lama
+=>n. 喇嘛
+lamaism
+=>n. 喇嘛教
+lamasery
+=>n. 喇嘛庙
+lamb
+=>n. 小羊;羔羊@vi.vt. 生小羊
+lambaste
+=>vt. 痛打;严责
+lambda
+=>n. 希腊字母的第 11个字
+lambency
+=>n. 柔光;轻妙
+lambent
+=>a. 轻轻摇曳的;柔和而光亮的;轻妙的
+lambert
+=>n. 朗伯
+lambskin
+=>n. 小羊皮;羊皮纸
+lame
+=>a. 跛足的;僵痛的;不完全的;金属薄片;不知内情的人@vi. 变跛;瘸行@vt. 使成残废;使无用
+lamebrain
+=>n. 笨蛋;呆子
+lamella
+=>n. 薄板;薄层;薄片
+lamellate
+=>a. 有薄层的;薄片形的
+lamely
+=>ad. 一瘸一拐地;不完全地
+lameness
+=>n. 跛;瘸;残废
+lament
+=>n. 悲叹;悔恨;恸哭;挽歌;悼词@vt. 哀悼@vi. 悔恨;悲叹
+lamentable
+=>a. 可悲的;哀伤的;可怜的
+lamentation
+=>n. 悲叹;哀悼
+lamia
+=>n. 女怪;妖妇
+lamina
+=>n. 薄板;薄片;薄层;叶片
+laminate
+=>vt. 制成薄板;制成箔@vi. 分成薄片@a. 薄板状的@n. 积层塑胶板;薄片制品
+laminated
+=>n. 叠片
+lamination
+=>n. 制成薄板;积层;薄板
+laminator
+=>n. 制板机
+laminography
+=>n. 见sectional rediography
+lamp
+=>n. 灯@vt. 照亮
+lampblack
+=>n. 油烟;煤烟;灰尘
+lamplight
+=>n. 灯火
+lamplighter
+=>n. 点燃街灯的灯夫;点灯用具
+lampoon
+=>n. 讽刺文@vt. 讽刺
+lamppost
+=>n. 街灯柱
+lamprey
+=>n. 八日鳗
+lan
+=>n. 局部区域网络;局域网;本地网
+m
+=>n. 字母m
+mac
+=>n. 媒体存取控制
+macabre
+=>a. 以死亡为主题的;可怕的
+macadam
+=>n. 碎石;碎石路
+macadamize
+=>vt. 简易地铺装;以碎石铺
+macaque
+=>n. 短尾猿
+macaroni
+=>n. 通心面;纨绔子弟
+macaroon
+=>n. 蛋白杏仁饼干
+macaw
+=>n. 金刚鹦鹉;美国棕榈
+mace
+=>n.钉头锤;权标;权杖;执权标者
+macedonian
+=>a. 马其顿的@n. 马其顿人
+macerate
+=>vi. 浸软;消瘦@vt. 把...浸软;使消瘦
+machete
+=>n. 弯刀@NUM@NUM
+machiavellian
+=>a. 马基雅弗利的;权谋术的@n. 权谋政治家
+machicolate
+=>vt. 开牒眼(枪眼)
+machinable
+=>a. 可机加工的
+machinate
+=>vt.vi. 图谋;策划
+machination
+=>n. 阴谋;图谋;策划
+machinator
+=>n. 策划者;阴谋家
+machine
+=>n. 机器;机械装置;机构;设计;机械般工作的人@vt. 以机器制造
+machinelike
+=>a. 机器般的
+machinery
+=>n. 机器;机关;结构
+machinist
+=>n. 机械师;机械安装修理工;机械工
+machism
+=>n. 马赫主义
+machismo
+=>n. 男子气概
+macho
+=>adj. 男性化
+macintosh
+=>n. 涂橡胶防水布;防水套@n. APPLE公司的一种计算机型号
+mackerel
+=>n. 鲭
+mackinaw
+=>n. 方格纹毛毯;由该毛毯制成的短衣
+mackintosh
+=>n. 橡皮布;橡皮布防水衣;雨衣
+macle
+=>n. 双晶;斑点
+macrame
+=>n. 丝结的饰缘;花边
+macro
+=>a. 巨大的;大量使用的@n. 宏
+macrobian
+=>a. 长寿的@n. 长寿的人
+macrobiotics
+=>n. 长寿法
+macrocephalic
+=>a. 大头的;巨头的
+macrocosm
+=>n. 大宇宙;大世界;全域;整体
+macroeconomic
+=>n. 整体经济
+macrolibrary
+=>n. 巨程式库
+macromolecule
+=>n. 巨大分子;高分子
+macroparameter
+=>n. 巨参数
+macroscopical
+=>a. 肉眼可见的;宏观的
+macrospore
+=>n. 大胞子
+macrostructure
+=>n. 宏观结构
+macula
+=>n. 斑点;污点;黑点;太阳黑子;斑疹
+macular
+=>a. 有斑点的;有污点的
+maculate
+=>a. 有斑点的;有污点的@vt. 使有斑点;使有污点
+maculation
+=>n. 斑点;污点;玷污
+mad
+=>a. 疯狂的;发疯的;生气的;愚蠢的;狂欢的@n. 狂怒
+madam
+=>n. 女士;夫人
+madarosis
+=>n. 睫毛脱落
+madcap
+=>a. 鲁莽的;狂妄的@n. 鲁莽;狂妄
+madden
+=>vt. 使发狂;激怒@vi. 发狂;发怒
+maddening
+=>a. 令人发狂的;激怒的;使人气极的
+madder
+=>n. 西草属的植物;洋西;人造西草染料
+madding
+=>a. 发狂的;狂乱的
+made
+=>a. 已制成的;成功的;创造的@vbl. make的过去式和过去分词
+madeira
+=>n. 大西洋的群岛名;该地产的白葡萄酒
+madhouse
+=>n. 精神病院;极为吵闹的场所
+madistor
+=>n. 磁控电浆半导体元件
+madly
+=>ad. 发狂地;精神失常地;愚蠢地
+madman
+=>n. 疯子;精神病患者
+madness
+=>n. 疯狂;愚蠢的行为
+madonna
+=>n. 圣母玛利亚;圣母像
+madras
+=>n. 一种薄棉布
+madrid
+=>n. 马德里
+madrigal
+=>n. 情歌;小调;重唱歌曲
+madwoman
+=>n. 狂女;疯女
+maelstrom
+=>n. 大漩涡;挪威近海的大漩涡;漩涡
+maenad
+=>n. Bacchus 的女侍;狂女
+maffia
+=>n. 黑手党;秘密政党
+mafia
+=>n. 黑手党;秘密政党
+mafioso
+=>n. 黑手党成员;秘密政党成员
+mag
+=>n. Margaret 的昵称
+magazine
+=>n. 杂志;仓库;弹盒;胶卷盒
+magdalene
+=>n. 从良的妓女
+magenta
+=>n. 红紫色;洋红
+maggot
+=>n. 狂想;空想;蛆
+maggoty
+=>a. 狂想的;多蛆的
+magic
+=>n. 魔术;魔法@a. 魔术的;有魔力的;不可思议的
+magical
+=>a. 魔术的;有魔力的;不可思议的
+magician
+=>n. 魔术家;幻术家;术士
+maginot line
+=>n. 马其诺防线
+magisterial
+=>a. 长官的;严然的;有权威的
+magisterium
+=>n. 教权
+magistracy
+=>n. 长官的职位;地方行政长官
+magistral
+=>a. 教师的;长官的;独断的
+magistrate
+=>n. 长官;法官;推事
+magma
+=>n. 岩浆;糊剂;糊
+magnadur
+=>n. 铁钡永磁合金;马格那多尔磁性合金
+magnanimity
+=>n. 宽宏大量
+magnanimous
+=>a. 宽宏大量的;有雅量的
+magnate
+=>n. 大官;巨头
+magnesia
+=>n. 苦土;氧化镁
+magnesian
+=>a. 氧化镁的;镁的
+magnesium
+=>n. 镁
+magnet
+=>n. 磁铁;有吸引力之人;有吸引力之物
+magnetic
+=>a. 有磁性的;有吸引力的;催眠术的
+magnetics
+=>n. 磁学
+magnetism
+=>n. 磁性;吸引力;磁学;催眠术
+magnetite
+=>n. 磁铁矿
+magnetization
+=>n. 磁化
+magnetize
+=>vt. 使带磁力;吸引@vi. 受磁
+magnetizer
+=>n. 磁化器
+magneto
+=>n. 磁发电机
+magnetometer
+=>n. 磁力计
+magneton
+=>n. 磁子
+magnetron
+=>n. 磁电管
+magnification
+=>n. 扩大;夸张;赞美
+magnificence
+=>n. 富丽堂皇;华丽;宏大
+magnificent
+=>a. 华丽的;高尚的;丰富的
+magnificient
+=>adj. 壮丽
+magnifico
+=>n. 贵族;大官;显要人物
+magnifier
+=>n. 放大镜;放大器
+magnify
+=>vt. 放大;扩大;赞美;夸大@vi. 有放大能力
+magniloquence
+=>n. 夸张的话;大言;豪语
+magniloquent
+=>a. 使用夸大文句的;夸张的;吹牛的
+magnitude
+=>n. 巨大;重大;重要;大小;数量;光度
+magnolia
+=>n. 木兰;玉兰类的植物
+magpie
+=>n. 鹊;鸽的一种;绕舌的人@a. 斑驳的;有收集癖的;混杂的
+maguey
+=>n. 龙舌兰;其纤维
+magus
+=>n. 魔术家;占星家
+magyar
+=>n. 马札儿人;马札儿语@a. 马札儿人的;匈牙利人的
+mahatma
+=>n. 大圣;超人
+mahjong
+=>n. 麻将
+mahogany
+=>n. 桃花心木;其木材;红褐色
+mahout
+=>n. 象夫
+maid
+=>n. 少女;未婚女子;女仆
+maiden
+=>n. 年轻未婚女子;少女;处女@a. 未婚的;处女的;初次的;无经验的
+maidenhair
+=>n. 过坛龙;石长生;孔雀草
+maidenhood
+=>n. 处女性;处女时代
+maidenliness
+=>n. 象处女;谨慎;稳静
+maidenly
+=>a. 象处女的;谨慎的;稳静的
+maidservant
+=>n. 女仆;女佣
+mail
+=>n. 邮件;邮政;邮递;盔甲@vt.邮寄;给...穿盔甲
+mailable
+=>a. 可邮寄的
+mailbag
+=>n. 邮袋
+mailbox
+=>n. 邮筒;邮箱
+mailer
+=>n. 邮寄者;邮船;邮件发送机
+mailing
+=>n. 邮寄;投递;邮件;农场租金
+maillot
+=>n. 紧身衣
+n
+=>n. 字母n
+nab
+=>vt. 捉住;逮捕;抢夺
+nabe
+=>n. 居住区内的电影院
+naboth
+=>n. 拿伯
+nacarat
+=>n. 桔红色
+nacelle
+=>n. 飞机的引擎机舱;飞机的驾驶员室;吊篮
+nacre
+=>n. 珠母贝;真珠质
+nacred
+=>a. 真珠质的
+nacreous
+=>a. 真珠质的;有光彩的
+nadir
+=>n. 天底;最底点;最低点
+naevus
+=>n. 痔
+nag
+=>n. 小马;驽马;竞赛马;唠叨@vt.vi. 不断地唠叨;恼人
+nagging
+=>a. 唠叨的;责备挑剔的@n. 唠叨;责备挑剔
+nahum
+=>n. 希伯莱的先知;那鸿书
+naiad
+=>n. 水中的仙女;女游泳家
+nail
+=>n. 钉子;指甲@vt. 用钉钉牢;使固定;使集中于;揭露
+nailed
+=>pp. 驻住
+nailer
+=>n. 制钉者;敲打工人;自动敲钉机
+nailhead
+=>n. 钉头;钉头装饰
+nailing
+=>a. 敲钉的;极好的;出色的
+nairobi
+=>n. 奈洛比
+naive
+=>a. 天真的;纯真的;朴素的
+naivete
+=>n. 天真烂漫;无邪;纯真
+naked
+=>a. 裸体的;无装饰的;无保护的;坦白的
+nakedly
+=>adv. 赤裸裸
+nakedness
+=>n. 裸;明显;赤裸裸
+nakhodka
+=>n. 临日本海之西伯利亚的不冻港
+namable
+=>a. 可定名的;可命名的;可指名的;著名的
+name
+=>n. 名字;名称;姓名;名义;名誉;名词@vt. 命名;称呼;任命;提名;列举@a.姓名的;据以取名的@n. 名称;文件名;姓名
+named
+=>v. 命名;称呼;任命;vbl. 命名;称呼;任命
+nameless
+=>a. 无名的;匿名的;不可名状的
+namely
+=>ad. 即;就是;换句话说
+nameplate
+=>n. 名牌;标示牌
+namer
+=>n. 命名者;指名者
+namesake
+=>n. 同名的人;同名物
+nametag
+=>n. 名牌
+naming
+=>n. 命名
+nancy
+=>n. Ann 的昵称;女性化的男人@a. 女性化的;同性恋的
+nand
+=>n. 反及
+nanking
+=>n. 南京
+nanny
+=>n. Ann 的昵称
+nano
+=>n. 简写为n.十亿分之一的意思
+nanosecond
+=>n. 十亿分之一秒
+nanovoltmeter
+=>n. 其灵敏度足以读出千分之一微伏的伏特计
+nantz
+=>n. 白兰地酒
+nap
+=>n. 小睡;稍睡;细毛;孤注一掷@vi. 小睡;疏忽@vt. 使拉毛;修整;预测...为获胜马
+napalm
+=>n. 汽油胶化剂;凝固汽油@vt. 用凝固汽油炸
+nape
+=>n. 项;颈背
+napery
+=>n. 抹布
+naphtha
+=>n. 挥发油
+naphthol
+=>n. 柰酚
+napkin
+=>n. 餐巾;餐巾纸;尿布
+naples
+=>n. 那不勒斯
+napoleon
+=>n. 拿破仑
+nappe
+=>n. 越过水坝落下的水;叠层结构;等分半圆锥
+napper
+=>n. 打盹的人;拉毛工人
+nappy
+=>n. 尿布;菜盆@a. 起毛的;多毛的;酒精含量高的
+nara
+=>n. 奈良
+narc
+=>n. 缉查麻药的刑警
+narceine
+=>n. 罂粟碱
+narcissism
+=>n. 自我陶醉;自恋
+narcissist
+=>n. 自我陶醉者
+narcissistic
+=>n. 孤芳自赏
+narcisssus
+=>n. 水仙
+narcissus
+=>n. 水仙
+narcoanalysis
+=>n. 麻醉分析
+narcolepsy
+=>n. 嗜眠发作
+narcomania
+=>n. 麻醉剂狂
+narcosis
+=>n. 昏迷状态;麻醉
+narcotherapy
+=>n. 麻醉疗法
+narcotic
+=>n. 麻醉药;镇静剂@a. 麻醉的;催眠的
+narcotine
+=>n. 那可汀
+narcotism
+=>n. 麻醉状态
+narcotize
+=>vt. 麻醉;使昏迷@vi. 起麻醉作用
+nard
+=>n. 甘松;甘松香
+naris
+=>n. 鼻孔
+nark
+=>n. 警察的线民;密探@vt.vi. 作线民;密告
+narrate
+=>vt.vi. 说故事;说明;叙述
+narration
+=>n. 叙述;故事;叙述文
+narrative
+=>n. 叙述;故事@a. 叙述的;叙事的;故事体的
+narrow
+=>n. 狭窄部分;海峡;隘路@a. 狭窄的;精密的;有限的;勉强的;眼光短浅的;气量小的@vi. 变窄@vt. 使变狭窄
+narrowness
+=>n. 狭小;小气
+nartb
+=>n. 国际无线电和电视广播协会的简写
+nasa
+=>n. 国际航空和太空总署的同义字
+nasal
+=>a. 鼻的;鼻声的;护鼻的@n. 鼻音;鼻音字
+nasality
+=>n. 鼻音性;鼻声
+nasalization
+=>n. 鼻音化
+nasalize
+=>vi. 用鼻音发声@vt. 使鼻音化
+nasally
+=>ad. 鼻地;鼻声地;护鼻地
+nascence
+=>n. 发生;起源
+nascent
+=>a. 发生中的;开始存在的;初期的
+nask
+=>n. 面具
+nastily
+=>ad. 污秽地;不洁地;污秽地
+nastiness
+=>n. 污秽;不洁;污秽
+nasturtium
+=>n. 旱金莲属植物
+nasty
+=>a. 污秽的;下流的;险恶的
+natal
+=>a. 出生的;诞生的
+natality
+=>n. 出生率
+natant
+=>a. 浮在水上的;漂浮的;游泳的
+natation
+=>n. 游泳
+natatory
+=>a. 游泳的
+nation
+=>n. 国家;民族
+national
+=>a. 国家的;国立的;全国性的;国家主义的
+nationalism
+=>n. 民族主义;民族之特性
+nationalist
+=>n. 国家主义者;民族主义者
+nationalistic
+=>a. 国家主义的
+nationalities
+=>n. 民族
+nationality
+=>n. 国籍;国家;民族性
+nationalization
+=>n. 同化;归化;国有化
+nationalize
+=>vt. 使归化;使国有化;使成国家;使民族化
+nationally
+=>ad. 以国民立场;举国一致;全国性
+nationals
+=>n. 侨民
+nationhood
+=>n. 作为一个国家的地位
+nationwide
+=>a. 全国性的
+native
+=>n. 本地人;土产;土人@a. 本国的;与生俱来的;自然的
+natively
+=>ad. 生来地;天然地
+nativism
+=>n. 先天论;天性论;本土主义
+nativist
+=>n. 先天论者;天性论者;本土主义者
+natrium
+=>n. 钠
+natron
+=>n. 天然碳酸钠
+natter
+=>vi. 絮叨不休;唠叨;瞎扯
+nattily
+=>ad. 整洁地;帅地
+nattiness
+=>n. 整洁;帅
+natty
+=>a. 整洁的;帅的;清楚的;敏捷的
+natural
+=>n. 天生的白痴@a. 自然的;自然界的;本能的;天然的;天生的;物质的;正常的@;蒙昧的;自然数的;本位的
+naturalism
+=>n. 自然主义;本能行动
+naturalist
+=>n. 自然主义者;博物学者
+naturalistic
+=>a. 自然的;自然主义的;博物学的
+naturalization
+=>n. 归化;移入;移植
+naturally
+=>ad. 自然地;以自然力;天生地
+naturalness
+=>n. 自然;当然;本然
+nature
+=>n. 自然;大自然;本性;性格;性质
+naturopathy
+=>n. 物理疗法
+naught
+=>n. 无;零@a. 无价值的;无用的
+naughty
+=>a. 顽皮的;没规矩的;不适当的;下流的
+nausea
+=>n. 反胃;晕船;恶心;极度的不快
+nauseate
+=>vi. 作呕;产生恶感;厌恶@vt. 使厌恶;使恶心
+nauseating
+=>a. 作呕的;呕心的;厌恶的
+nauseous
+=>a. 令人作呕的;厌恶的
+nautch
+=>n. 舞蹈
+nautical
+=>a. 海上的;航海的;船员的
+nautilus
+=>n. 鹦鹉螺;缸鱼;鹦鹉螺号
+navaglobe
+=>n. 航海球
+navaid
+=>n. 助航系统
+oaf
+=>n. 呆子;畸形儿
+oafish
+=>a. 痴呆的;畸形的
+oak
+=>n. 橡树;橡木@a. 橡木制的
+oaken
+=>a. 橡木制的
+oaklet
+=>n. 小橡树
+oakum
+=>n. 填絮
+oar
+=>n. 桨;桨手;小艇@vi. 划桨@vt. 划动
+oarage
+=>n. 划桨;划艇;划桨装置
+oarsman
+=>n. 划手
+oases
+=>n. 绿洲
+oasis
+=>n. 绿洲;舒适的地方
+oast
+=>n. 干燥窑
+oat
+=>n. 燕麦;麦片粥
+oatcake
+=>n. 燕麦硬饼
+oaten
+=>a. 燕麦的;麦杆制的
+oath
+=>n. 誓约;誓言;咒骂
+oatmeal
+=>n. 燕麦片;燕麦粥
+oats
+=>n. 燕麦
+obbligato
+=>n. 伴奏@a. 不可缺少的
+obdurability
+=>n. 物质的坚固性;强韧性
+obduracy
+=>n. 顽固;执拗;冷酷
+obdurate
+=>a. 顽固的;执拗的;冷酷的
+obeah
+=>n. 非洲黑人间奉行的巫术;该巫术所奉的物神
+obedience
+=>n. 服从;顺从;忠实
+obedient
+=>a. 服从的;顺从的;孝顺的
+obeisance
+=>n. 敬礼;鞠躬;顿首
+obelisk
+=>n. 方尖石塔;短剑号;疑问记号
+obese
+=>a. 肥胖的;肥大的
+obesity
+=>n. 肥胖;肥大
+obey
+=>vt. 服从;遵从;顺从@vi. 服从
+obeyient
+=>adj. 很顺从
+obfuscate
+=>vt. 弄暗;使模糊;使迷乱
+obfuscation
+=>n. 昏迷;困惑
+obi
+=>n. 宽腰带
+obituarese
+=>n. 讣闻的语调;象哀悼文章般的颂扬
+obituary
+=>a. 死亡的@n. 讣闻;死亡报导;死者名簿
+object
+=>n. 物体;目标;目的;对象;宾语;客体@vi. 反对;拒绝;抗议@vt. 提出...来反对@n. 对象
+objection
+=>n. 异议;反对;缺点;缺陷;妨碍;拒绝之理由
+objectionable
+=>a. 该反对的;有异议的;讨厌的
+objective
+=>n. 目的;受格;实物@a. 客观的;外在的;受词的
+objector
+=>n. 反对者;提出异议的人
+objurgate
+=>vt. 申斥;非难
+objurgation
+=>n. 叱责;非难
+oblate
+=>n. 献身于修道院生活的人@a. 奉为神圣的;扁平的;扁圆的
+oblation
+=>n. 供奉;奉献;牲礼
+oblatory
+=>a. 奉献的;供奉物的
+obligate
+=>vt. 使负义务;强制;预留;施恩惠于@a. 有责任的
+obligation
+=>n. 义务;责任;约束;契约;恩惠
+obligations
+=>n. 义务
+obligatory
+=>a. 义不容辞的;义务的;必须的
+oblige
+=>vt. 强制;施恩惠于;束缚;使感激@vi. 表示好意
+obliged
+=>v. 强制;赐;恩惠;vbl. 强制;赐;恩惠
+obligee
+=>n. 权利人;债权人;受恩惠的人
+obliging
+=>a. 亲切的;体贴的;殷勤的;有礼貌的
+obligor
+=>n. 义务人;债务人
+oblique
+=>a. 斜的;倾斜的;间接的;不坦率的;无诚意的
+obliquitous
+=>a. 倾斜的;交叉的;倾角的
+obliquity
+=>n. 倾斜;交叉;倾角;不坦率;暧昧
+obliterate
+=>vt. 涂去;擦去;删除;使湮没
+obliterated
+=>pp. 阻塞
+obliteration
+=>n. 涂去;抹消;删除
+oblivion
+=>n. 遗忘;忘却;湮没;大赦;赦免
+oblivious
+=>a. 易忘的;遗忘的;忘却的;健忘的
+oblong
+=>n. 长方形;椭圆形@a. 长方形的;椭圆形的
+obloquy
+=>n. 漫骂;叱骂;毁谤
+obmutescence
+=>n. 死不吭声
+obnoxious
+=>a. 可憎的;不愉快的;讨厌的
+oboe
+=>n. 双簧管
+oboist
+=>n. 双簧管吹奏者
+obol
+=>n. 古代希腊的银币
+obscene
+=>a. 淫秽的;猥亵的
+obscenity
+=>n. 淫秽;猥亵
+obscur
+=>计算机] 遮蔽
+obscurant
+=>n. 反启蒙主义者;反对开化论者
+obscurantism
+=>n. 反启蒙主义;反开化论;文盲政策
+obscuration
+=>n. 黑暗化;暧昧化;掩星;蒙昧
+obscure
+=>a. 微暗的;难解的;含糊的;晦涩的;偏僻的;不著名的@vt. 使阴暗;隐藏;使含糊
+obscurity
+=>n. 阴暗;不分明;朦胧;含糊;晦涩;偏僻;隐匿;身份低微
+obsecration
+=>n. 恳求;恳求连祷句
+obsequies
+=>n. 葬礼
+obsequious
+=>a. 谄媚的;奉承的;顺从的
+observability
+=>计算机] 可观察性
+observably
+=>ad. 显著地;醒目地
+observance
+=>n. 遵守;仪式;惯例
+observation
+=>n. 观察;注目;观测
+observatory
+=>n. 天文台;气象台;了望台
+observe
+=>vt. 观察;遵守;注意到;纪念@vi. 注意;评论
+observer
+=>n. 观察者;遵守者;评论者
+observing
+=>a. 注意的;留心的
+obsess
+=>vt. 迷住;使困扰
+obsessed
+=>adj. 沉迷的
+obsession
+=>n. 迷住;困扰
+obsidian
+=>n. 黑曜石;十胜石
+obsolescence
+=>n. 荒废;退化
+obsolescent
+=>a. 荒废的
+obsolete
+=>a. 荒废的;成废物的;陈旧的@n. 废词;陈腐的人;废物
+obstacle
+=>n. 障碍;妨害物;阻碍
+obstetric
+=>a. 产科的
+obstetrician
+=>n. 产科医师
+obstetrics
+=>n. 产科学
+obstinacy
+=>n. 倔强;顽固;固执
+obstinate
+=>a. 倔强的;顽固的
+obstreperous
+=>a. 吵闹的;喧嚣的;乱闹的;任性的
+obstruct
+=>vt. 阻隔;妨碍;阻塞@vi. 设障碍
+obstruction
+=>n. 障碍;妨碍;闭塞
+obstructive
+=>a. 妨害的;阻碍的;妨碍的@n. 妨碍物;妨碍物
+obstructor
+=>n. 妨害者;妨碍物;阻碍者
+obtain
+=>vt. 获得;达到@vi. 流行
+obtained
+=>v. 获得;vbl. 获得
+obtest
+=>vt. 恳请;传唤作证@vi. 恳求;抗议
+obtestation
+=>n. 恳请;抗议
+obtrude
+=>vt. 逼使;强迫;冲出@vi. 打扰
+obtrusion
+=>n. 强迫接受;强制;莽撞
+obtrusive
+=>a. 强迫人的;冒失的;莽撞的;伸出的
+obtund
+=>vt. 使迟钝;使缓和
+obtuse
+=>a. 钝的;不尖的;圆头的
+obverse
+=>n. 表面;正面;反面@a. 尖端阔大的;正面的;对应面的
+obversion
+=>n. 将表面反过来;换置法
+obvert
+=>vt. 将...之正面转向;将换置
+obviate
+=>vt. 除去;排除;回避;预防;避免
+obviation
+=>n. 除去;回避
+obvious
+=>a. 明显的;明白的;显然的
+ocarina
+=>n. 陶制的卵形笛
+occasion
+=>n. 场合;时机;机会;诱因;理由@vt. 致使;惹起;引起
+occasional
+=>a. 偶然的;临时的;备不时之需的
+occasionally
+=>ad. 有时候;偶而
+occident
+=>n. 西洋;欧美;西欧诸国
+occidental
+=>n. 西洋人;西方人@a. 西洋的;西方的
+occipital
+=>a. 后头部的;枕骨的@n. 枕骨
+occiput
+=>n. 后头部;枕骨部
+occlude
+=>vt. 使闭塞;封闭;关闭;逐出@vi. 咬合;臼合
+occlusion
+=>n. 闭塞;吸收;吸藏
+occlusive
+=>a. 闭塞的;咬合的
+occult
+=>a. 神秘的;不可思议的;超自然的@vt.vi. 掩蔽;隐藏@n. 神秘之事
+occultation
+=>n. 掩蔽;消失;躲藏
+occultism
+=>n. 神秘主义;神秘研究
+p
+=>n. 字母p
+pabulum
+=>n. 食物;营养;精神食粮
+pace
+=>n. 速度;步调;步法@vi. 踱步;缓慢的走@vt. 用步测;踱步于
+pacemaker
+=>n. 带步人;标兵;起搏器
+pacemaking
+=>n. 定步速;当标兵
+pacer
+=>n. 步测器
+pachisi
+=>n. 印度双骰游戏
+pachyderm
+=>n. 厚皮类动物;迟钝的人
+pachydermatous
+=>a. 厚皮类动物的;迟钝的
+pachyrhizus
+=>n. 地瓜
+pacifiable
+=>a. 可被调解的
+pacific
+=>n. 太平洋@a. 太平洋的;太平洋沿岸的@a. 爱好和平的;安静的
+pacifically
+=>ad. 和平地
+pacification
+=>n. 讲和;绥靖;平定
+pacifier
+=>n. 慰抚者;调解人;橡皮奶头;镇静剂
+pacifism
+=>n. 和平主义;反战论;不抵抗主义
+pacifist
+=>n. 和平主义者;反战论者;不抵抗主义者
+pacifistic
+=>a. 和平主义的
+pacify
+=>vt. 使平静;安慰;绥靖
+pack
+=>n. 包裹;一群;一副;背包;包装@vt. 包装;捆扎;塞满;压紧;挑选@vi. 包装货物;挤;群集;被包装
+package
+=>n. 包裹;套装软件;包;包装用物@vt. 包装;打包@a. 一揽子的@n. 包;软件包;包装
+packaged
+=>adj. 包装的
+packaging
+=>n. 包装
+packed
+=>adj. 包装的
+packet
+=>n. 储存器;封套;小包@vt. 打包;装进小包
+packhorse
+=>n. 驮马
+packing
+=>n. 包装;填垫材料;封函;行李
+packman
+=>n. 小贩
+packsaddle
+=>n. 驮鞍
+packtrain
+=>n. 驮运货物的动物行列
+pact
+=>n. 契约;协定;条约
+pad
+=>n. 填补;衬垫;印色盒;路@vt. 填补;走;夸大@vi. 步行
+padded
+=>v. 填补;vbl. 填补
+padding
+=>n. 垫充;垫塞;填料
+paddle
+=>n. 桨;划桨;明轮翼@vi. 划桨;戏水;涉水@vt. 用桨划;搅;拌
+paddock
+=>n. 围场
+paddy
+=>n. 稻;谷;爱尔兰人;警察
+padishah
+=>n. 国王;君主
+padlock
+=>n. 挂锁;关闭;禁止进入
+padre
+=>n. 神仆;牧师;随军牧师
+paean
+=>n. 欢乐歌;赞美歌
+paediatrician
+=>n. 儿科医师
+pagan
+=>n. 异教徒;无宗教信仰者@a. 异教的;异教徒的
+pagandom
+=>n. 异教徒的世界;异教徒
+paganish
+=>a. 异教的;信奉异教的
+paganism
+=>n. 异教;异教信仰;偶像崇拜
+paganize
+=>vt.vi. (使)异教化
+page
+=>n. 页;记录;事件;专栏;小听差@vt. 标明...的页数;翻...的书页;呼叫;侍候@vi. 翻书页;当听差
+pageant
+=>n. 盛会;游行;虚饰;露天表演
+pageantry
+=>n. 壮观;华丽
+pageboy
+=>n. 头发内卷;小听差
+pager
+=>n. 呼叫器
+paginal
+=>a. 页的;由页形成的;每页的
+paginate
+=>vt. 标页数
+pagination
+=>n. 标记页数@n. 分页
+paging
+=>n. 页转移
+pagoda
+=>n. 宝塔
+paid
+=>a. 受雇的;付清的@vbl. pay的过去式和过去分词
+pail
+=>n. 桶;提桶
+pailful
+=>n. 满桶;一桶
+paillette
+=>n. 亮片
+pain
+=>n. 痛苦;疼痛;辛苦@vt. 使痛苦;痛苦@vi. 作痛;疼
+pained
+=>a. 痛的;苦恼的;伤感情的
+painful
+=>a. 痛苦的;困难的;令人烦恼的
+painfully
+=>ad. 痛苦地;苦恼地;费力地
+painfulness
+=>n. 痛;痛苦;可怜
+painless
+=>a. 无痛的;不痛的
+pains
+=>n. 辛苦(痛苦)
+painstaking
+=>n. 辛苦;苦心;工夫@a. 辛苦的;勤勉的;小心的
+paint
+=>n. 油漆;颜料;绘画作品;涂漆@vt. 油漆;绘;画;描绘;装饰;点缀@vi. 绘画
+paintbrush
+=>n. 画笔;漆刷@n. 画笔
+painted
+=>a. 描画的;着色的;刷上油漆的
+painter
+=>n. 画家;油漆匠
+painting
+=>n. 画;绘画;油漆
+painty
+=>a. 颜料的;涂过颜料的;用涂料沾污的
+pair
+=>n. 一双;一对;一副@vt.vi. (使)成对
+pairing
+=>n. 成对
+pais
+=>n. 对
+pajamas
+=>n. 睡衣;宽长裤
+pakistan
+=>n. 巴基斯坦
+pakistani
+=>a. 巴基斯坦的@n. 巴基斯坦人
+pal
+=>n. 朋友;伙伴;同志@vi. 结为友
+palace
+=>n. 宫;宫殿;华丽之大厦
+paladin
+=>n. 战士;查理大帝
+palaestra
+=>n. 角力学校;体育场
+palatable
+=>a. 美味的;好吃的;可口的
+palatal
+=>n. 上颚音
+palate
+=>n. 上颚;味觉;趣味
+palatial
+=>a. 宏伟的;堂皇的;庄严的
+palatine
+=>a. 巴拉汀伯爵的;在领地内行使王权的;上颚的@n. 巴拉汀伯爵;宫廷官;毛皮围巾
+palatogram
+=>n. 口盖图
+palaver
+=>n. 谈判;交涉;洽商@vi. 唠叨;拍马屁;用花言巧语骗人@vt. 笼络;哄骗
+pale
+=>n. 栅栏;界线;范围@a. 苍白的;暗淡的;无力的@vi.变苍白;变暗;失色@vt.使变苍白;使失色;用栅栏围
+paleface
+=>n. 白人
+palely
+=>ad. 苍白地;青青地;淡色地
+paleness
+=>n. 变青;苍白;淡薄
+paleocene
+=>n. 古新纪
+paleographer
+=>n. 古文书学家
+paleographic
+=>a. 古文书学的
+paleography
+=>n. 古文书;古文书学
+paleontologist
+=>n. 古生物学者
+paleontology
+=>n. 古生物学
+paleozoic
+=>a. 古生代的@n. 古生代
+palestine
+=>n. 巴勒斯坦
+palestinian
+=>pn. 巴勒斯坦
+palestinians
+=>pn. 巴勒斯坦人
+palestra
+=>n. 体育学校;摔角场;体育
+palette
+=>n. 调色板;颜料@n. 调色板
+palfrey
+=>n. 骑用的马;妇女骑用的小马
+palimpsest
+=>n. 重写本
+palindrome
+=>n. 回文
+paling
+=>n. 木栅;围篱
+palingenetic
+=>a. 新生的;轮回
+palinode
+=>n. 翻案诗
+palisade
+=>n. 木栅@vt. 用栅栏围护
+palisades
+=>n. 栅栏
+palish
+=>a. 稍微苍白的
+pall
+=>n. 棺罩;遮盖物@vi. 走味@vt. 覆盖;使平淡无味
+palladium
+=>n. 钯
+pallbearer
+=>n. 护柩者;棺侧送葬者
+pallet
+=>n. 草铺;简陋的小床;调色板;棘爪
+palliate
+=>vt. 减轻;缓和;辩解
+palliation
+=>n. 缓和;辩解;减轻
+palliative
+=>a. 缓和的;减轻的;掩饰的@n. 辩解;可斟酌的事情
+pallid
+=>a. 苍白的;暗淡的
+pallium
+=>n. 大披肩;大脑皮层
+pallor
+=>n. 苍白
+pally
+=>a. 亲密的
+q
+=>n. 字母q
+qa
+=>n. 质量保证;问题和回答
+qbasic
+=>n. Qbasic语言
+qedit
+=>n. 由SemWare公司推出的英文编辑软件
+qtam
+=>n. 排队;远程处理
+qua
+=>prep. 作为
+quack
+=>n. 鸭叫声;庸医;冒充内行之人@a. 庸医的@vt.vi. 嘎嘎叫;当庸医;夸大广告
+quackery
+=>n. 骗人的治疗;大吹牛;骗子的行为
+quacksalver
+=>n. 密医;庸医;骗子
+quad
+=>n. 线组
+quadrangle
+=>n. 四角形;四边形;中院
+quadrangular
+=>a. 四边形的
+quadrant
+=>n. 四分圆;象限;四分仪
+quadrantal
+=>a. 四分圆的;象限的
+quadrat
+=>n. 嵌块
+quadrate
+=>a. 正方形的;方形的@n. 正方形;方形骨@vt. 使适合;使一致
+quadratic
+=>a. 二次的@n. 二次方程式;二次方程式论
+quadrature
+=>n. 求面积;矩;弦
+quadric
+=>a. 二次的@n. 二次曲面
+quadriceps
+=>n. 四头肌
+quadrilateral
+=>a. 四边形;四边地;四角地
+quadrille
+=>n. 四人用四十张纸牌玩的牌戏;四对舞;四对舞曲
+quadrinomial
+=>a. 四项的@n. 四项式
+quadripartite
+=>a. 分成四组的;由四部组成的
+quadripuntal
+=>n. 四孔
+quadrivium
+=>n. 四门学科
+quadroon
+=>n. 白人与半白人之混血儿;四分之一的混血儿
+quadruped
+=>n. 四足动物
+quadruple
+=>a. 四倍的;四重的;四部组成的@n. 四倍数@vt. 使成四倍@vi. 成为四倍
+quadruplet
+=>n. 四组;四套;四胞胎中之一
+quadruplex
+=>n. 四工
+quadruplication
+=>n. 一式四份
+quadrupole
+=>n. 四极
+quaff
+=>vt.vi. 一口气喝干;大口地喝@n. 一饮而尽;痛饮
+quag
+=>n. 沼地;湿地
+quagga
+=>n. 斑驴
+quaggy
+=>a. 沼地的;湿地的
+quail
+=>n. 鹌鹑@vi. 胆怯;畏缩
+quaint
+=>a. 古雅的;离奇有趣的;奇怪的
+quake
+=>n. 地震
+quaker
+=>n. 教友派信徒
+quaky
+=>a. 震动的;战栗的
+qualification
+=>n. 资格;条件;限制
+qualifications
+=>n. 资格
+qualified
+=>a. 有资格的
+qualifier
+=>n. 给与资格的人;限定物;限定句
+qualify
+=>vi. 取得资格;有资格@vt. 使有资格;使合格;限定;限制;准予
+qualitative
+=>a. 性质上的;质的;定性的
+quality
+=>n. 品质;特质;才能;质量@a. 优质的@n. 品质
+qualm
+=>n. 晕眩;不安;疑虑
+qualmish
+=>a. 使人恶心;不安的;受良心责备的
+quandary
+=>n. 困惑;迷惑;为难
+quant
+=>n. 船桨
+quanta
+=>n.pl. 量子
+quantic
+=>n. 同次整关数;多项式
+quantify
+=>vt. 定量;表示份量;称量
+quantitative
+=>a. 数量的;定量的
+quantity
+=>n. 量;数量;总数
+quantivalence
+=>n. 原子价
+quantization
+=>n. 量子化;量化
+quantize
+=>n. 数值化;数字转换
+quantum
+=>n. 分配量;额;量;量子
+quarantine
+=>n. 隔离;封锁交通;检疫期间@vt. 检疫;停止交涉
+quarrel
+=>n. 吵架;反目;怨言;方形的东西@vi. 吵架;争论;挑剔
+quarrelsome
+=>a. 喜欢吵架的;好争论的;怒气冲冲的
+quarry
+=>n. 采石场;猎物;追求物;出处@vt. 挖出;苦心找出@vi. 费力地找
+quart
+=>n. 夸脱
+quartan
+=>a. 每四天的@n. 四日热
+quartation
+=>n. 四分法
+quarter
+=>n. 四分之一;一刻钟;季度;地区@vt. 四等分;四肢分解@vi. 驻扎;住宿
+quarterback
+=>n. 四分卫@vi. 担任四分卫
+quarterfinal
+=>a. 四分之一决赛的@n. 四分之一决赛
+quarterfinalist
+=>n. 四分之一决赛选手
+quartermaster
+=>n. 军需官
+quarters
+=>n. 住处;岗位
+quartersaw
+=>vt. 把原木锯成四块
+quartet
+=>n. 四重奏
+quartic
+=>a. 四次的@n. 四次式
+quartile
+=>n. 四分位数
+quarto
+=>n. 四开;四开大的书本
+quartz
+=>n. 石英
+quartzite
+=>n. 石英岩;矽岩
+quasar
+=>n. 恒星状球体;半星球体;类星球体
+quash
+=>vt. 撤消;镇定;镇压
+quasi
+=>a. 类似的;外表的
+quassia
+=>n. 苦木科植物;由其采取之苦味液
+quaternion
+=>n. 四个一组;四人一组;四元数
+quaternity
+=>n. 四个一组;四人一组;四位一体
+quatrain
+=>n. 四行诗
+quatre
+=>n. 四红;四点
+quatrefoil
+=>n. 四瓣花;四叶片之叶;四叶饰
+quaver
+=>vi. 发颤音;震动@vt. 颤声说话;用颤声歌唱@n. 震音;颤声;八分音符
+quavery
+=>a. 震音的;颤声的
+quay
+=>n. 码头;突堤;岸壁
+quayage
+=>n. 码头税;系船费;码头用地
+quayside
+=>n. 码头周围
+quean
+=>n. 轻佻的女人
+queasily
+=>ad. 令人恶心地
+queasiness
+=>n. 恶心
+queasy
+=>a. 催吐的;动荡的;使人呕吐的;反胃的
+quebracho
+=>n. 南美产漆树科乔木;其木材和树皮
+queen
+=>n. 皇后;女王;王妃@vt. 立为女王@vi. 做女王
+queening
+=>n. 苹果之一种
+queenliness
+=>n. 象女王;适合当女王
+queenly
+=>a. 女王的
+queer
+=>n. 同性恋者@a. 奇怪的;不舒服的;可疑的@vt. 搞糟
+queerly
+=>ad. 奇妙地;奇怪地
+queerness
+=>n. 奇妙;不快
+quell
+=>vt. 压制;平息;减轻
+quench
+=>vt. 熄灭;结束;冷浸;淬火@vi. 熄灭;平息
+quencher
+=>n. 弄熄的人;冷却器;饮料
+quenching
+=>n. 淬熄
+quenchless
+=>a. 难熄灭的;难镇静的;难压制的
+quercetin
+=>n. 橡黄素
+querimonious
+=>a. 易发牢骚的
+querist
+=>n. 询问者;质问者
+quern
+=>n. 手推磨
+querulous
+=>a. 鸣不平的;发牢骚的;易怒的
+query
+=>n. 疑问;疑问号;质问@vt.vi. 询问;质问@n. 查询
+quest
+=>n. 探索;寻求;调查@vt.vi. 寻找;找;追寻猎物
+question
+=>n. 问题;疑问;疑问句@vt.vi. 询问;审问;怀疑@n. 询问
+questionable
+=>a. 可疑的
+questioner
+=>n. 质问者;发问者
+questioning
+=>ing. 质疑
+questionless
+=>a. 无疑的
+questionnaire
+=>n. 调查表;问卷;调查表
+queue
+=>n. 辫子;长队@vt. 梳成辫子@vi. 排队@n. 队列
+rabbet
+=>n. 槽口;榫头;槽口接缝处@vt. 开槽口接合;嵌接@vi. 槽口接合
+rabbi
+=>n. 犹太的法学博士;法师;先生
+rabbinism
+=>n. 犹太的法学博士的教导;犹太的法学博士的语风
+rabbit
+=>n. 兔子@vi. 猎兔@vt. 该死
+rabble
+=>n. 乌合之众;起哄的群众;下层社会;拨火棍@vt. 聚众闹事;用拨火棍搅动
+rabic
+=>a. 狂犬病的
+rabid
+=>a. 猛烈的;热烈的;急进的;狂怒的;固执的;疯狂的
+rabidity
+=>n. 猛烈;热烈;急进;狂怒
+rabies
+=>n. 狂犬病;恐水病
+raccoon
+=>n. 浣熊;其毛皮
+race
+=>n. 种族;人种;赛跑;比赛;急流;姜根@vi. 赛跑;竞赛;疾走@vt. 与...赛跑;使疾走;使空转
+raceabout
+=>n. 竞赛用游艇
+raceball
+=>n. 赛马时举行的跳舞会
+racehorse
+=>n. 赛马
+raceme
+=>n. 总状花序
+racemose
+=>a. 总状花序的;总状排列的;葡萄状的
+racer
+=>n. 比赛者;一种黑蛇
+racetrack
+=>n. 跑道
+raceway
+=>n. 水沟;屋内配管
+rachitic
+=>a. 佝偻病的
+rachitis
+=>n. 佝偻病;脊柱炎
+racial
+=>a. 人种的;种族的
+racialism
+=>n. 种族主义;人种偏见
+racially
+=>ad. 按人种;人种上
+racily
+=>ad. 保持原味地;津津有味地;爽快地;痛快地;生动地
+raciness
+=>n. 痛快;爽快;风味好
+racing
+=>n. 赛马的嗜好;赛车的嗜好;赛马;赛车;空转
+racism
+=>n. 种族主义;人种偏见
+racist
+=>n. 种族主义者
+racket
+=>n. 球拍;喧闹;杂乱无章@vi. 喧闹@vt. 用球拍打
+racketeer
+=>n. 敲诈者;获取不正当钱财的人@vt.vi. 诈骗钱财
+rackety
+=>a. 喧扰的;喧闹的;喜欢吵闹的
+racoon
+=>n. 浣熊
+racquet
+=>n. 球拍;拍球戏之一种;球拍型雪鞋
+racy
+=>a. 保持原味的;活泼的;生动的;适于赛跑的
+radar
+=>n. 雷达;电波探测器
+radarscope
+=>n. 电波映像镜;雷达示波器
+raddle
+=>n. 红赭石@vt.涂赭色;涂胭脂色;把... 交织;编
+raddled
+=>a. 浓妆的;昏乱的;坏掉的;衰弱的
+radial
+=>a. 光线的;光线状的;放射状的;半径的;径向的@n. 光线;射线
+radialized
+=>a. 辐射状的;放射的
+radian
+=>n. 弧度
+radiance
+=>n. 光辉;闪烁;容光焕发
+radiant
+=>a. 发光的;明亮的;辐射的;容光焕发的
+radiate
+=>vt. 放射;散发;辐射;传播;广播@vi. 发光;辐射;流露@a. 有射线的;辐射状的
+radiation
+=>n. 放射线
+radiative
+=>a. 发光的;放热的;放射的
+radiator
+=>n. 暖气炉;冷却器;辐射体
+radical
+=>n. 激进分子;语根;基础@a. 激进的;根本的;基本的;根的
+radicalism
+=>n. 激进主义
+radicalize
+=>vt. 使激进
+radically
+=>ad. 根本地;完全地
+radicand
+=>n. 被开方数
+radicate
+=>vt. 使生根;确立
+radii
+=>n.pl. 半径
+radio
+=>n. 无线电;收音机;无线电报;无线电广播;无线电台@vt.vi. 用无线电发送
+radioactive
+=>a. 放射性的;有放射能的
+radioactivity
+=>n. 放射能
+radiobiology
+=>n. 放射性生物学
+radiobroadcast
+=>vt. 无线电广播@n. 无线电广播
+radiocarbon
+=>n. 放射性炭素;炭素的放射性同位元素
+radiochemistry
+=>n. 放射能化学
+radioelement
+=>n. 放射性元素
+radiogenic
+=>a. 由放射能产生的;适于无线电广播的
+radiogramophone
+=>n. 收音电唱机
+radiograph
+=>n. X 光照片;放射线照片@vt. 拍 X 光线照片
+radiographer
+=>n. 放射线技师
+radiographic
+=>a. X 光线照相术的
+radiography
+=>n. X 光线照相术;放射线照相术
+radioisotope
+=>n. 放射性同位元素
+radiological
+=>a. 放射线学的
+radiologist
+=>n. 放射线学者
+radiology
+=>n. X 光线学;放射线学;X 光线科
+radiometallography
+=>n. 放射金属结构学
+radiometer
+=>n. 辐射计;放射计
+radiometry
+=>n. 辐射线测定
+radiopaque
+=>a. 辐射透不过的
+radiophone
+=>n. 无线电话;光线电话机
+radioscopy
+=>n. 放射线透视;X 光透视
+radiosensitive
+=>a. 对放射线敏感的
+radiotelegraphic
+=>a. 无线电报的;用无线电报的
+radiotelegraphy
+=>n. 无线电报
+radiotelephone
+=>n. 无线电话@vt.vi. 打无线电话
+radiotelephony
+=>n. 无线电话
+radiotherapist
+=>n. 放射线治疗医师
+radiotherapy
+=>n. 放射线疗法
+radiovision
+=>n. 无线电视
+radish
+=>n. 小萝卜
+radium
+=>n. 镭
+radius
+=>n. 半径;范围;辐射光线
+radix
+=>n. 基;根;基数;根源
+radome
+=>n. 天线罩
+radon
+=>n. 氡
+raffia
+=>n. 酒榔;其叶的纤维
+raffish
+=>a. 名誉不好的;无赖的;卑鄙的;艳俗的
+raffle
+=>n. 抽彩售货;废物@vt. 抽彩售货@vi. 抽彩
+raft
+=>n. 筏;救生艇;大量@vi. 乘筏@vt. 筏运;制成筏
+rafter
+=>n. 椽;椽架屋顶;筏夫@vt. 装椽于
+raftsman
+=>n. 撑筏者
+rag
+=>n. 碎布;抹布;碎片;碎屑;少量;破旧衣服;石板瓦@vt. 揶揄;戏弄;欺负@vi. 喧闹
+ragamuffin
+=>n. 衣裳褴褛的人;无赖;寒酸样子的孩子
+ragbag
+=>n. 装破布袋
+rage
+=>n. 愤怒;情绪激动;狂暴@vi. 大怒;狂吹;风行
+ragged
+=>a. 衣衫褴褛的;参差的;不协调的;粗糙的;刺耳的
+ragger
+=>n. 恶作剧者;新闻记者
+ragi
+=>n. 鸭脚稗
+raging
+=>a. 愤怒的;狂暴的;猛烈的;使极痛的
+raglan
+=>n. 套袖大衣
+ragman
+=>n. 收买破烂的人
+ragout
+=>n. 蔬菜炖肉片
+ragtag
+=>n. 社会的垃圾;下层社会;无赖
+ragtime
+=>n. 拉格泰姆旋律;其拍子@a. 滑稽的
+ragwort
+=>n. 刘寄奴属植物
+raid
+=>n. 袭击;突袭;搜捕@vt.vi. 奇袭;搜捕
+raider
+=>n. 奇袭者;侵入者;特别攻击队
+rail
+=>n. 横杆;围栏;栏杆;铁轨;扶手;秧鸡@vt. 以横木围栏;铺铁轨@vi. 责骂;抱怨
+railcar
+=>n. 气动车
+railer
+=>n. 斥责者;骂人者
+railing
+=>n. 扶手;栏干;抱怨
+raillery
+=>n. 开玩笑;逗趣
+railroad
+=>n. 铁路;铁路公司@vt. 铺设铁路;用铁路运输@vi. 在铁路工作
+railway
+=>n. 铁路;轨道@vi. 乘火车旅行
+raiment
+=>n. 衣服
+rain
+=>n.雨;雨水;下雨;雨天@vi. 下雨@vt. 使大量落下;大量地给
+rainbow
+=>n. 彩虹@a. 五彩缤纷的
+raincoat
+=>n. 雨衣
+raindrop
+=>n. 雨滴;雨点
+rained
+=>v. 下雨;vbl. 下雨
+rainfall
+=>n. 降雨;降雨量
+s
+=>n. 字母s
+sabbath
+=>n. 安息日
+sabbatical
+=>a. 安息日的;周期性休息的
+saber
+=>n. 军刀;骑兵;骑兵队@vt. 以军刀斩
+sabin
+=>n. 吸音量的计算单位
+sable
+=>n. 黑貂;黑貂皮;丧服@a. 黑貂皮的;黑的;昏暗的
+sabot
+=>n. 木鞋;木底皮鞋;弹底板
+sabotage
+=>n. 怠工;破坏活动;破坏@vi. 从事破坏活动@vt. 妨害;破坏
+saboteur
+=>n. 从事破坏活动者;怠工者
+sabulous
+=>a. 多沙的;多沉渣的;有粒状物的
+saccade
+=>n. 急速勒马;眼睛飞快扫视
+saccate
+=>a. 囊状的;有囊的
+saccharify
+=>vt. 使糖化
+saccharin
+=>n. 糖精
+sacerdotal
+=>a. 僧侣的;祭司的;祭司制度的
+sachem
+=>n. 酋长;Tammany 派的干部;政党领袖
+sachet
+=>n. 香袋;香料袋;香粉
+sack
+=>n. 麻布袋;洗劫@vt. 装入袋;洗劫
+sackbut
+=>n. 低音喇叭;竖琴的一种
+sackcloth
+=>n. 制袋用粗麻布;粗布衣;麻衣
+sacker
+=>n. 垒手;掠夺者;装袋者
+sackful
+=>n. 满袋;多量
+sacking
+=>n. 袋布;制袋用粗麻布;帆布
+sacque
+=>n. 宽大上衣
+sacral
+=>a. 祭典的;圣礼的;荐骨的
+sacrament
+=>n. 圣礼;圣事;誓言@vt. 使立誓;使宣誓
+sacred
+=>a. 神圣的;上帝的;庄严的;祭祀的
+sacrifice
+=>n. 牺牲;供俸;祭品@vt. 牺牲;祭祀;贱卖@vi. 献祭
+sacrificial
+=>a. 牺牲的;献祭的;具有牺牲性的
+sacrilege
+=>n. 亵渎圣物;冒渎;悖理逆天的行为
+sacrilegious
+=>a. 冒渎的;该受天谴的
+sacrist
+=>n. 教堂圣器收藏室的管理人;教堂的看守人
+sacristan
+=>n. 教堂圣器收藏室的管理人;教堂的看守人
+sacristy
+=>n. 圣器收藏室;圣器安置所
+sacroiliac
+=>a. 骶骨间的@n. 骶骨关节病
+sacrosanct
+=>a. 极神圣的
+sacrosanctity
+=>n. 神圣不可侵犯;至圣
+sacrum
+=>n. 荐骨;骶骨
+sad
+=>a. 忧愁的;悲哀的
+saddam
+=>n. 苏丹
+sadden
+=>vt. 使忧愁;使悲哀@vi. 忧愁;悲哀
+sadder
+=>a. 悲哀的;可怜的
+saddest
+=>a. 悲哀的;可怜的
+saddle
+=>n. 鞍;马鞍;车座;拖具@vt. 装以马鞍;使负担@vi. 跨上马鞍
+saddlebag
+=>n. 鞍囊;毛纤维布料之一种
+saddlebow
+=>n. 鞍的前穹
+saddlecloth
+=>n. 鞍褥
+saddler
+=>n. 制造马鞍的人;马具商;乘用之马
+sadhu
+=>n. 圣人
+sadiron
+=>n. 熨斗
+sadism
+=>n. 虐待狂;病态的残忍
+sadist
+=>n. 虐待狂者
+sadistic
+=>a. 虐待狂的;残酷成性的
+sadly
+=>ad. 悲痛地;悲惨地;悲伤地
+sadness
+=>n. 悲哀;悲伤
+safari
+=>n. 旅行;旅行队;旅行队及装备
+safe
+=>n. 保险箱;冷藏室@a. 安全的;可靠的;平安的;无害的;稳健的;有把握的
+safecracker
+=>n. 保险箱窃贼
+safecraker
+=>n. 保险箱窃贼
+safeguard
+=>n. 保卫;保护措施;防护设施@vt. 保卫;保护
+safekeeping
+=>n. 保护;保管;警卫
+safely
+=>ad. 安全地;确实地
+safer
+=>a. 安全的;ad. 安全地
+safest
+=>a. 安全的;ad. 安全地
+safety
+=>n. 安全;保险;平安;安全设备;保险机@vt. 保护;防护
+safflower
+=>n. 红花;红花染料
+saffron
+=>n. 番红花;此花的花茎;番红花色@a. 番红花色的
+sag
+=>vi. 下垂;倾斜;萎靡;萧条;乏味@vt. 使下垂@n. 下垂;倾斜;萧条
+saga
+=>n. 传说;英雄事迹;冒险故事
+sagacious
+=>a. 睿智的;聪明的;贤明的
+sagacity
+=>n. 睿智;聪敏
+sagamore
+=>n. 酋长
+sage
+=>n. 圣人;哲人;鼠尾草@a. 贤明的;明智的
+sagely
+=>ad. 贤能地;贤明地
+saggar
+=>n. 烧箱;耐火粘土@vt. 用烧箱烘
+sagging
+=>ing. 松弛
+saggy
+=>a. 松懈的;下垂的
+sagittate
+=>a. 镞型的;箭头形的
+sago
+=>n. 西米;西米椰子
+saguaro
+=>n. 仙人掌之一种
+sahib
+=>n. 大人;阁下;先生
+said
+=>vbl. say的过去式和过去分词@a. 上述的
+sail
+=>n. 帆;篷;船只;航程;航行;帆状物@vi. 航行;启航;张帆而行@vt. 航行于;驾船
+sailboat
+=>n. 帆船
+sailcloth
+=>n. 帆布
+sailer
+=>n. 船
+sailfish
+=>n. 旗鱼
+sailing
+=>n. 航行;航海术;启航@a. 航行的
+sailor
+=>n. 水手;船员;海员
+sailorly
+=>a. 海员般的
+saint
+=>n. 圣徒;圣人@a. 神圣的
+sainted
+=>a. 成为圣人的;上天堂的;德高的
+sainthood
+=>n. 圣徒的地位;圣徒
+saintlike
+=>a. 圣徒一般的;德高的;气质高尚的
+saintly
+=>a. 圣洁的
+saith
+=>v. say 的第三人称;单数;直说法
+sake
+=>n. 缘故;理由
+saker
+=>n. 鹰的一种
+sal
+=>n. 波罗双树;盐
+salaam
+=>n. 额手之礼;问安;敬礼@vt.vi. 行额手礼
+salability
+=>n. 适于销售;畅销;可售性
+salable
+=>a. 适于销售的;价格适当的;畅销的
+salacious
+=>a. 好色的;猥亵的;黄色的
+salacity
+=>n. 好色;猥亵
+salad
+=>n. 色拉
+salamander
+=>n. 火蜥蜴;火怪;耐火的人
+salami
+=>n. 意大利腊肠
+salary
+=>n. 薪水@vt. 给...加薪
+sale
+=>n. 出售;卖;拍卖;销售额
+saleratus
+=>n. 重碳酸钠;小苏打
+salesclerk
+=>n. 商店里的店员
+salesgirl
+=>n. 女店员
+salesman
+=>n. 售货员;推销员
+salesmen
+=>n. 推销员
+salesperson
+=>n. 售货员
+salesroom
+=>n. 门市部;拍卖场
+saleswoman
+=>n. 女售货员;女店员
+salicin
+=>n. 水杨素
+salicylic
+=>a. 得自水杨酸的;水杨酸的
+salience
+=>n. 显著;卓越;突出;突起
+salient
+=>a. 显著的;突出的;跳跃的@n. 凸角;突出部分
+salina
+=>n. 盐水湖;盐沼
+saline
+=>a. 盐的;苦涩的;由碱金属或含镁之盐类而成的@n. 盐湖;盐田;装盐所
+salinity
+=>n. 盐分;盐度
+salinometer
+=>n. 盐量计
+saliva
+=>n. 唾液;唾沫;涎
+salivary
+=>a. 唾液的;分泌唾液的
+salivate
+=>vi. 分泌唾液;流涎@vt. 使分泌唾液
+salivation
+=>n. 分泌唾液;流涎症
+sallet
+=>n. 盔的一种
+sallow
+=>a. 灰色的;苍白的;气色不好的@vt.vi. (使)成菜色@n. 柳属植物;柳枝
+sallowish
+=>a. 带灰黄色的
+sally
+=>n. 突击;出击;远足@vi. 突击;出击;出发
+t
+=>n. 字母t
+ta
+=>n. 终端介面
+tab
+=>n. 制表[键];标号;调整片;小报;短小突出部;监督;记录;帐单@n. 标签;制表符;TAB键@n. 制表[键]@;标号;卡片设备
+tabard
+=>n. 纹章战袍;传令所穿衣服;一种粗大衣
+tabasco
+=>n. 塔巴斯哥辣酱油
+tabby
+=>n. 平纹;斑猫@vt. 使起波纹@a. 平纹组织的;起波纹的
+tabefaction
+=>n. 衰弱
+tabernacle
+=>n. 临时房屋;帐篷;身体;礼拜堂;神龛;壁龛@vt. 使住于临时房屋@vi. 给于住宿;暂居
+tabid
+=>a. 衰弱的;憔瘦的
+table
+=>n. 桌子;餐桌;工作台;石板;铭文;表格;表;高原;平地层@vt. 搁置;嵌合;制表@n. 表格;模拟运算表
+tableau
+=>n. 生动的场面;戏剧性局面
+tablecloth
+=>n. 桌巾
+tableland
+=>n. 高原
+tablespoon
+=>n. 大汤匙
+tablet
+=>n. 平板;门牌;笔记簿;碑;匾
+tabletop
+=>n. 桌面
+tableware
+=>n. 餐具
+tabloid
+=>n. 小报;小型画报;药片;文摘;@a. 轰动性的;扼要的;缩略的;小报式的
+taboo
+=>n. 禁忌;禁止接近;禁止使用@a. 禁忌的;忌讳的@vt. 禁忌;禁制;禁止
+taboos
+=>n. 禁忌
+tabor
+=>n. 小鼓@vi. 敲小鼓
+taboret
+=>n. 小凳子;绣框
+tabour
+=>n. 小鼓@vi. 敲小鼓
+tabouret
+=>n. 小凳子;绣框
+tabs
+=>n. 跳格设定;制表符
+tabular
+=>a. 制成表的;扁平的;表格式的;平坦的
+tabulate
+=>vt. 作成表;作成一览表;使成平面@a. 平板状的;平面的
+tabulation
+=>n. 作表;表格
+tabulator
+=>n. 作表的人;定位装置
+tache
+=>n. 痔;斑点
+tachometer
+=>n. 转速计;流速计
+tachycardia
+=>n. 心动过速
+tacit
+=>a. 沉默寡言的;心照不宣的;缄默的
+taciton
+=>n. 闸流管（新式）
+taciturn
+=>a. 沉默寡言的;不太说话的;无言的
+taciturnity
+=>n. 沉默寡言;无言;不太说话
+tacitus
+=>n. 泰西塔斯
+tack
+=>n. 大头钉;粗缝;行动方针;食物@vt. 以大头针钉住;附加;跟随
+tacker
+=>n. 敲平头顶的人;敲平头钉器
+tackle
+=>n. 工具;复滑车;滑车;装备;扭倒@vt. 固定;处理;抓住@vi. 扭倒
+tackling
+=>n. 扭住;抱住;卷起
+tacky
+=>a. 发粘的;胶粘的;寒酸的;俗气的
+taconite
+=>n. 角岩
+tact
+=>n. 机智;手法;老练
+tactful
+=>a. 机智的;老练的;委婉的
+tactic
+=>n. 战略;策略@a. 顺序的;排列的
+tactical
+=>a. 战术的;用兵上的;策略的;机灵的
+tactician
+=>n. 战术家;策士
+tactics
+=>n. 用兵学;战术;兵法
+tactile
+=>a. 触觉的;有触觉的;能触知的
+tactility
+=>n. 触知性;触感
+tactless
+=>a. 无机智的;不机敏的;不得体的
+tactual
+=>a. 触觉的;触觉器官的;凭触觉的
+tadpole
+=>n. 蝌蚪
+tael
+=>n. 两
+taenia
+=>n. 装饰头部的带;带;绳
+taffrail
+=>n. 船尾上部;船尾栏杆
+taffy
+=>n. Wales人;太妃糖;阿谀
+tag
+=>n. 标签;附属物;名称;碎片;结束语;口头禅;陈词滥调;附加语;浑名;残片@;标记;标记@vt. 附以签条;尾随;添饰;起浑名;连接@vi. 紧紧跟随@n. 标记@n. 标记;标记符
+tagalong
+=>n. 追随学样者
+tagboard
+=>n. 标签纸
+tagger
+=>n. 垂下物;尾随者;薄铁片;附加物
+tahiti
+=>n. 大溪地岛
+taichung
+=>pla. 台中
+taiga
+=>n. 针叶树林地带
+tail
+=>n. 尾部;后部;辫子;排的长队;随员;特务;燕尾服;踪迹;限定继承权@a. 在后面的;从后面而来的;限定继承的@vt. 为...装尾;附于其后;尾随;使架住;使搭牢;跟踪;监视@vi. 成为散乱的行列;跟踪;嵌入;船尾搁浅@a. 尾部的;后部的;后面来的
+tailboard
+=>n. 可取下的尾板
+tailcoat
+=>n. 燕尾服
+tailgate
+=>n. 后挡板
+tailing
+=>n. 装尾巴;嵌入墙中砖石突出部;屑
+taillight
+=>n. 尾灯
+tailor
+=>n. 裁缝师;成衣匠@vt. 缝制;制作;定制@vi. 做裁缝
+tailpiece
+=>n. 末片;附属物;补白图片
+tailspin
+=>n. 旋尾降落
+tainan
+=>pla. 台南
+taint
+=>n. 污点;耻辱;感染@vt. 污染;使腐败;沾染;腐蚀
+taipei
+=>n. 台北
+taiwan
+=>n. 台湾
+taiwanese
+=>a. 台湾的;台湾人的@n. 台湾人
+take
+=>vt. 拿;取;抓;带领;获得;就座;接受;吃;喝;吸收;采取;乘;需要;花费;产生;对@待@vi. 拿;取;起作用;变得@n. 拿;取;收成
+takedown
+=>n. 拆抑
+taken
+=>vbl. take的过去分词
+takeoff
+=>n. 起飞
+takeout
+=>n. 外带
+takeover
+=>adj. 取代
+taking
+=>n. 取得;捕获;售得金额@a. 迷人的;可爱的;会传染的
+talbot
+=>n. 猎狗的一种
+talc
+=>n. 滑石;云母@vt. 用滑石粉擦;用滑石粉处理
+talcum
+=>n. 滑石
+tale
+=>n. 谎言;谣言;蜚语;故事;传说;叙述
+talebearer
+=>n. 说小话的人;搬弄是非者;散播谣言者
+talebearing
+=>n. 说小话;散布谣言
+talent
+=>n. 才能;有才干的人;天才;天资
+talentless
+=>a. 无能的
+tales
+=>n. 候补陪审员召集令
+talesman
+=>n. 候补陪审员
+taletelling
+=>n. 讲故事;搬弄是非
+talisman
+=>n. 护身符;辟邪物;法宝
+talk
+=>n. 谈话;交谈;会谈;讲话;演讲;空谈;谣言;方言;语言@vi. 讲话;演讲;说话;谈话;通话;闲聊;说闲话@vt.讲;说;讨论;谈论
+talkative
+=>a. 喜欢说话的;饶舌的;多嘴的
+talker
+=>n. 说话的人;健谈者;饶舌者;空谈者
+talkie
+=>n. 有声电影
+talking
+=>a. 说话的;多嘴的;富有表情的@n. 讲话;谈论
+talky
+=>a. 多嘴的;多对话的
+tall
+=>a. 高的;长的;夸大的@ad. 夸大地
+tallboy
+=>n. 高脚橱;双层衣橱
+tallest
+=>adj. 最高
+tallish
+=>a. 稍高的;身材较高的
+tallness
+=>n. 高;高度
+tallow
+=>n. 牛脂;动物脂@vt. 涂牛脂于
+tally
+=>n. 符木;记账;得分;比分;计数器;标签;符合;对应物@vt. 点数;计算;记录;加标签于;使符合@vi. 符合;吻合;记分
+talmud
+=>n. 犹太法典
+talmudic
+=>a. 犹太法典的
+talmudist
+=>n. 犹太法典编著者
+talon
+=>n. 爪;如爪的手;魔爪;鸽胸雕花
+talons
+=>n. 钩爪
+talus
+=>n. 距骨;踝;斜面
+tamable
+=>a. 可驯服的
+tamale
+=>n. 墨西哥烹调之一种
+tamarack
+=>n. 落叶松之一种
+tamarind
+=>n. 罗望子;其果实
+tamarisk
+=>n. 撑柳
+tambour
+=>n. 鼓;绷圈@vt. 在绷圈上刺绣@vi. 用绷圈刺绣
+tambourin
+=>n. 法国南部所用的一种鼓;用此种鼓的舞蹈
+tambourine
+=>n. 小手鼓
+tame
+=>a. 驯服的;柔顺的;被开垦的;顺从的;乏味的;平淡的@vt. 驯养;驯服;制服;使变得平淡@vi. 变得驯服
+tamely
+=>ad. 驯熟地;温顺地;没有骨气地
+tameness
+=>n. 驯熟;温顺;无气力
+tamer
+=>n. 驯服手
+u
+=>n. 字母u
+ubiety
+=>n. 在一定的场所;所在;位置
+ubiquitous
+=>a. 到处存在的;遍在的
+ubiquity
+=>n. 到处存在;遍在;耶稣的遍在
+udder
+=>n. 乳房
+ufo
+=>n. 不明飞行物
+ufologist
+=>n. 不明飞行物研究家
+ugliest
+=>adj. 最丑的
+uglify
+=>vt. 使丑;弄成难看;糟蹋;丑化
+uglily
+=>ad. 丑;丑陋地;难看地
+ugliness
+=>n. 丑陋
+ugly
+=>a. 丑陋的;邪恶的;险恶的;不祥的@n. 丑陋的东西
+ukase
+=>n. 敕令;法令;布告
+ukulele
+=>n. 夏威夷的四弦琴
+ulcer
+=>n. 溃疡;腐烂物
+ulcerate
+=>vt. 使溃疡;使腐败@vi. 溃烂;腐败
+ulceration
+=>n. 溃疡
+ulcerous
+=>a. 溃疡性的;患溃疡的
+ullage
+=>n. 缺量;不足量;损耗
+ulna
+=>n. 尺骨
+ulnar
+=>a. 尺骨的
+ulterior
+=>a. 在那边的;将来的;隐蔽的
+ultima
+=>a. 最后的;最终的@n. 最后一个音节
+ultimate
+=>n. 终极;根本;顶点;基本原理@a. 终极的;根本的;极限的;最远的;最后的;最大的
+ultimatum
+=>n. 最后的话;最后通牒;基本原理
+ultra
+=>a. 过度的;过激的;极端的@n. 过激论者;急进论者
+ultracentrifuge
+=>n. 用超高速离心器
+ultrafashionable
+=>a. 极端时髦的
+ultrafax
+=>n. 电视传真电报
+ultraism
+=>n. 激进论;极端主义
+ultraist
+=>n. 过激论者;极端主义者
+ultramicrometer
+=>n. 超微计
+ultramodern
+=>a. 超现代的;最新的;极时髦的
+ultramontanism
+=>n. 教皇绝对权力主义
+ultranationalism
+=>n. 超国家主义
+ultrasonic
+=>n. 超声波@a. 超音速的
+ultraviolet
+=>a. 紫外线的
+ululant
+=>a. 吠的;呜呜叫的
+ululate
+=>vi. 啼;叫;鸣;悲泣
+ululation
+=>n. 吠声;啼声;泣声
+uma
+=>n. 上端内存区
+umbel
+=>n. 伞状花序
+umbelliferous
+=>a. 有伞状花的;伞状花科的
+umber
+=>n. 棕土;焦茶色@a. 棕色的;棕土的@vt. 涂红棕色于
+umbilical
+=>a. 脐带的;脐的;脐状的;母系的
+umbilicate
+=>a. 有肚脐的;脐状的
+umbilicus
+=>n. 脐;中心
+umbles
+=>n. 鹿的内脏
+umbra
+=>n. 影;本影;暗影;蚀时的地球
+umbrage
+=>n. 不快;愤怒;阴影;树荫;怀疑
+umbrageous
+=>a. 成荫的;阴翳的;多荫的
+umbral
+=>a. 有荫影的;阴暗的;本影的
+umbrella
+=>n. 伞;雨伞;保护伞@a. 伞的;机构庞大的@vt. 用伞遮盖
+umbriferous
+=>a. 成荫的;投影的
+umlaut
+=>n. 元音变音@vt. 使变音
+ump
+=>n. 裁判员@vi. 当裁判
+umpire
+=>n. 裁判员;仲裁人;决定性的事物@vt. 仲裁;裁判@vi. 当裁判
+umpteen
+=>a. 无数的
+un
+=>pron. 家伙;东西
+unabashed
+=>a. 不脸红的;不害羞的;脸皮厚的
+unabated
+=>a. 不衰退的;不减弱的
+unabbreviated
+=>a. 未经缩写的;未经简略的
+unable
+=>a. 不能;不会
+unabridged
+=>a. 未经删节的;完整的
+unabroken
+=>a. 无破损的;完整的
+unaccented
+=>a. 无重音的;无抑扬的;没有重音的
+unacceptable
+=>a. 无法接受的;不受欢迎的
+unaccommodated
+=>a. 不适应的;不适合的;无必需品的
+unaccommodating
+=>a. 不随和的
+unaccompanied
+=>a. 无伴侣的;不伴随...的;无伴奏的
+unaccountable
+=>a. 无法解释的;无责任的
+unaccounted
+=>a. 未说明的;未解释的
+unaccustomed
+=>a. 不习惯的;不惯的;异乎惯例的;奇怪的
+unacknowledged
+=>a. 不被承认的;未公开承认的;未答复的
+unacquainted
+=>a. 不知道的;不认识的;陌生的
+unactuated
+=>a. 未开动的;未经激励的
+unadaptable
+=>a. 不能适应的;不能改编的
+unadapted
+=>a. 不适应的;未经改编的
+unadmitted
+=>a. 不让进入的;未被承认的
+unadopted
+=>a. 未被采纳的;非公路的;私人所有道路的
+unadulterated
+=>a. 无搀杂的;道地的;纯粹的;真正的
+unadvisable
+=>a. 不妥当的;不明智的;不受劝告的
+unadvised
+=>a. 欠思虑的;轻率的;未受劝告的
+unadvisedly
+=>ad. 鲁莽地;不顾前后地;欠思虑的
+unaffected
+=>a. 不矫揉造作的;自然的;不装饰的;未受影响的;未被感动的
+unafraid
+=>a. 不怕的
+unaided
+=>a. 未受协助的
+unaligned
+=>a. 不结盟的
+unallowed
+=>a. 不允许的
+unalloyed
+=>a. 未搀杂的;纯粹的;真正的;非合金的
+unalterable
+=>a. 不能改变的;不变的;坚定不移的
+unaltered
+=>a. 未被改变的;不变的;照旧的;依然如此的
+unambiguous
+=>a. 不含糊的;明确的
+unambitious
+=>a. 无名利心的;无野心的;不显眼的;谦虚的
+unamiable
+=>a. 不和蔼的;不友好的
+unaneled
+=>a. 未受临终涂油礼的
+unanimity
+=>n. 无异议;同意;一致
+unanimous
+=>a. 意见一致的;无异议的
+unannounced
+=>a. 未经宣布的
+unanswerable
+=>a. 无法回答的;没有责任的
+unanswered
+=>a. 未答复的;无反应的
+unappealable
+=>a. 不可上诉的
+unappealing
+=>a. 无吸引力的
+unappeasable
+=>a. 无法平息的;不能满足的
+unappreciated
+=>a. 未被欣赏的
+unappreciative
+=>adj. 不识抬举
+unapprehensive
+=>a. 理解力差的;不怀疑的
+unapproachable
+=>a. 不易接近的;不可亲的;无与伦比的
+unapproved
+=>a. 未经同意的;未经批准的
+unapt
+=>a. 不恰当的;不至于的;笨拙的
+unarguable
+=>a. 无可争辩的
+unarm
+=>vt. 缴械@vi. 放下武器
+unarmoured
+=>a. 非装甲的
+unartificial
+=>a. 非人工的;自然的
+unartistic
+=>a. 非艺术的;与艺术无关的
+unashamed
+=>a. 不羞耻的;不知耻的;厚脸无耻的;问心无愧的
+unasked
+=>a. 未受请求的;未受请托的;主动提出的
+unassailable
+=>a. 攻不破的;不容置疑的;无懈可击的
+unassertive
+=>a. 不武断的;谦虚的;害羞的
+unassisted
+=>a. 无助的;独力的
+unassuming
+=>a. 谦逊的;不装腔作势的
+unassured
+=>a. 未得保证的;无把握的;不安全的;未保险的
+unattached
+=>a. 无关系的;无隶属的;独立的;未婚的;未被逮捕的;未任命的;不连接的
+unattainable
+=>a. 难到达的;难得到的
+unattended
+=>a. 无随员的;无侍从的;无伴的;未被注意的;无人出席的
+unattractive
+=>a. 无魅力的;乏味的;不美的
+unauthorized
+=>a. 未经认可的
+unavailable
+=>a. 得不到的;不近便的;不能利用的;无用的
+unavailing
+=>a. 无益的;无用的;无效的;徒劳的
+unavoidable
+=>a. 不可避免的;不得已的;不能作废的
+unawakened
+=>a. 未醒的;潜伏的
+unaware
+=>a. 不知道的
+unawares
+=>ad. 没想到;不料;不知不觉地
+unbacked
+=>a. 无靠背的;未驯服的;无助的;无支持的
+v
+=>n. 字母v
+vacancy
+=>n. 空;空白;空缺;空虚;空闲;茫然所失
+vacant
+=>a. 空的;空白的;空灵的;空闲的;茫然的;空缺的
+vacation
+=>n. 假期;休假
+vaccinal
+=>a. 疫苗的;牛痘的;接种的
+vaccinate
+=>vt.vi. 预防接种
+vaccination
+=>n. 接种疫苗;种痘
+vaccine
+=>n. 疫苗@a. 疫苗的;牛痘的
+vaccinia
+=>n. 牛痘
+vacillate
+=>vi. 游移不定;踌躇;犹豫;摇摆
+vacillation
+=>n. 游移不定;踌躇;不果断
+vacuity
+=>n. 空虚;空白;愚蠢;茫然若失;无聊
+vacuole
+=>n. 空泡;液泡
+vacuous
+=>a. 空的;空虚的;心灵空虚的
+vacuum
+=>n. 真空;空间;真空吸尘器@a. 真空的;产生真空的;利用真空的@vt. 用吸尘器打扫
+vacuumize
+=>vt. 真空包装;抽真空
+vagabond
+=>n. 流浪汉;浪子;流氓@vi. 到处流浪@a. 流浪的;漂泊的;浪荡的;流浪者的
+vagarious
+=>a. 越出常规的;奇特的;心气不定的;异想天开的
+vagary
+=>n. 奇特;好奇;奇特行为;奇想
+vagina
+=>n. 鞘;阴道;叶鞘
+vaginal
+=>a. 叶鞘的;似叶鞘的;阴道的
+vaginate
+=>a. 有鞘的;似鞘的
+vagrancy
+=>n. 漂泊;流浪;离题
+vagrant
+=>n. 流浪汉;漂泊者;无赖@a. 漂泊的;流浪的;游荡的
+vague
+=>a. 含糊的;不清楚的;茫然的
+vaguely
+=>ad. 含糊地;暧昧地
+vagueness
+=>n. 暧昧;含糊
+vagus
+=>n. 迷走神经
+vain
+=>a. 徒然的;虚荣的;空虚的;自负的;愚蠢的
+vainglorious
+=>a. 自以为了不起的;非常自负的;虚荣心强的
+vainglory
+=>n. 自夸;自负;虚荣
+vainly
+=>ad. 枉然的;无益地;徒然
+vainness
+=>n. 无益;徒然;自负
+vair
+=>n. 松鼠的皮;毛皮纹
+valance
+=>n. 帷幔;装饰窗帘
+vale
+=>n. 谷;溪谷;再见@int. 再见
+valediction
+=>n. 告别;告别词
+valedictory
+=>a. 告别的@n. 告别词
+valence
+=>n. 原子价
+valency
+=>n. 原子价
+valerian
+=>n. 颉草属植物;自其根茎采制之镇静剂
+valet
+=>n. 贴身男仆@vt. 伺候
+valetudinarian
+=>a. 有病的;虚弱的;过分担心健康的@n. 病弱的人;过分担心健康的人
+valiant
+=>a. 英勇的@n. 勇敢的人
+valib
+=>n. 有效
+valid
+=>a. 有确实根据的;有效的;正当的;正确的
+validate
+=>vt. 使有效;使生效;确认;证实@v. 验证
+validating
+=>vbl. 确认
+validation
+=>n. 确认
+validity
+=>n. 有效性;正确性
+validly
+=>ad. 正当地;妥当地
+valley
+=>n. 山谷;溪谷;流域;凹地
+valor
+=>n. 英勇;刚勇;勇猛
+valorization
+=>n. 物价稳定措施
+valorize
+=>vt. 规定价格;稳定物价
+valorous
+=>a. 勇敢的;勇武的;刚勇的
+valour
+=>n. 英勇;刚勇;勇猛
+valuable
+=>a. 有价值的;贵重的;宝贵的;可估价的
+valuables
+=>n. 贵重物品
+valuably
+=>ad. 有价值地;有益地
+valuation
+=>n. 评价;估价;价值判断
+valuator
+=>n. 评价者;估价者
+value
+=>n. 价值;重要性;价格;购买力;评价;估价@vt. 评价;估价;重视@n. 计算结果
+valued
+=>a. 贵重的;尊贵的;尊重的
+valueless
+=>a. 无价值的;不值钱的;不足道的
+valuer
+=>n. 评价者;价格核定人
+valuta
+=>n. 币值
+valvate
+=>a. 有阀的;以阀开的;有阀的功能的
+valve
+=>n. 活瓣;阀;活门@vt.vi. 装阀;用阀调节
+valvular
+=>a. 活门的;心脏瓣膜的;瓣形的;有阀门的
+vamoose
+=>vt.vi. 匆匆离开
+vamp
+=>n. 鞋面;荡妇@vt. 修补;拼凑;捏造;勾引@vi. 即席伴奏;勾引
+vamper
+=>n. 补靴;即席伴奏者
+vampire
+=>n. 吸血鬼
+van
+=>n. 货车;篷车;先锋;前驱;前卫@vt. 用车搬运
+vanadium
+=>n. 钒
+vandalism
+=>n. 对艺术的破坏
+vandalize
+=>vt. 摧残;破坏
+vandyke
+=>n. 锯齿状饰边
+vane
+=>n. 风向标;风信旗;变化不定的事物
+vanguard
+=>n. 前锋;先锋;先驱
+vanilla
+=>n. 香草;香子兰
+vanish
+=>vi.消失;不见;成为零
+vanity
+=>n. 虚荣心;虚无;自负;空虚;手袋
+vanquish
+=>vt. 打败;征服;克服
+vantage
+=>n. 优势;有利情况
+vanward
+=>a. 向前的;先锋的@ad. 向前方
+vapid
+=>a. 乏味的;走了气味的;无生气的;无趣味的
+vapidity
+=>n. 乏味;走气;无生气;无趣
+vapor
+=>n. 水汽;水蒸气@vi. 蒸发@vt. 使蒸发
+vaporization
+=>n. 蒸发;汽化
+vaporize
+=>vt.vi. (使)蒸发
+vapour
+=>n. 水汽;水蒸气@vi. 蒸发;自夸@vt. 使蒸发;使汽化
+vapoury
+=>a. 含蒸汽的;模糊的
+var
+=>n. 变容体@n. 变量;变容体
+variability
+=>n. 易变;变化性;变异性
+variable
+=>n. 变数;可变物@a. 可变的;不定的;易变的;变量的
+variables
+=>n. 变数
+variably
+=>ad. 易变地;不定地;能变地
+variance
+=>n. 不一致;变化;变异;分歧;不和
+variant
+=>n. 变体;异体@a. 不同的;差别的
+variation
+=>n. 变更;变化;变种;变奏
+variational
+=>a. 变化的;变化性的;起自变动的
+variations
+=>n. 变更
+varicap
+=>n. 看Varactor.变容体
+varicocele
+=>n. 精索静脉曲张
+varicosity
+=>n. 静脉曲张
+varied
+=>a. 不同的;杂色的;各式各样的
+variegate
+=>vt. 使成斑驳;使多样化
+variegated
+=>a. 杂色的;斑驳的;富于变化的
+variegation
+=>n. 上色;彩色;杂色
+varietal
+=>a. 变化的;多种的;变种的
+variety
+=>n. 多样;种类;变种;杂耍
+variform
+=>a. 有多种形态的;形状不同的
+variorum
+=>a. 有诸家注解的;集注的@n. 集注本
+various
+=>a. 不同的;各种的;多方面的;许多的;个别的;杂色的
+varistor
+=>n. 变阻体
+varlet
+=>n. 恶棍
+varmint
+=>n. 流氓;恶棍@NUM@NUM
+varnish
+=>n. 油漆;清漆;掩饰;光泽面@vt. 粉饰;涂油漆于;装饰;使有光泽
+vary
+=>vt. 改变;使多样化@vi. 变化;不同;违反
+vascular
+=>a. 脉管的;有脉管的;血管的
+vascularity
+=>n. 由脉管形成;维管性
+vasculum
+=>n. 植物采集箱;采集用囊;小管
+vase
+=>n. 花瓶;瓶
+vasectomy
+=>n. 输精管切除
+vaseline
+=>n. 凡士林;凡士林的商标名
+vasoconstrictor
+=>a. 血管收缩的@n. 血管收缩神经
+vasodilator
+=>a. 血管扩张的@n. 血管扩张神经
+vasomotor
+=>a. 血管收缩的;血管收缩神经的
+vassal
+=>n. 诸侯;奴仆@a. 诸侯的;奴仆的
+vast
+=>a. 巨大的;广大的;非常的;大量的
+vastitude
+=>n. 广大;广漠无际;广阔
+vastly
+=>ad. 广大地;许多;钜大
+vastness
+=>n. 巨大;广大;广漠
+vasty
+=>a. 巨大的;广大的;广漠无际的
+vat
+=>n. 大桶@vt. 装入大桶;在大桶里处理
+vatic
+=>a. 预言的
+vatican
+=>n. 梵谛冈;罗马教廷
+vaticination
+=>n. 预言
+vaudeville
+=>n. 轻歌舞剧;轻音乐喜剧;杂耍
+vaudevillian
+=>n. 杂耍演员
+vault
+=>n. 窖;地下室;撑竿跳;圆顶@vt. 做成圆拱形;撑竿跳跃@vi. 成穹状弯曲;跳跃
+w
+=>n. 字母w
+wack
+=>n. 古怪的人;怪人;奇特之人
+wacke
+=>n. 玄土
+wacky
+=>a. 古怪的
+wad
+=>n. 圆团;小块;一卷;填料;大量@vt. 揉成圆团;小块;填塞
+wadable
+=>a. 可涉水过的
+wadding
+=>n. 填塞物;填棉;软纸
+waddy
+=>n. 棍棒;牧童@vt. 用棍棒打
+wade
+=>vi. 跋涉@vt. 涉水@n. 跋涉;浅滩
+wader
+=>n. 步涉者;涉禽类;钓鱼用的防水长靴
+wadi
+=>n. 河道;谷;溪流
+wading
+=>adj. 涉水的
+wafer
+=>n. 晶片;圆片;薄饼;干胶片@vt. 用干胶片封
+wafery
+=>a. 薄的
+waffle
+=>vi. 闲聊;胡扯@n. 华夫饼干;无聊话
+waft
+=>vt. 吹送;使飘荡@vi. 飘荡@n. 吹送;飘荡
+waftage
+=>n. 吹送;飘荡
+wag
+=>vt. 摇摆;摇动;饶舌@vi. 摆动;喋喋不休@n. 摇摆;小丑
+wage
+=>n. 薪水;工资;报应;报偿;代价@vt. 开展;进行@vi. 在进行中
+wager
+=>n. 赌;赌博;赌物@vt. 下赌注;保证@vi. 打赌
+wages
+=>n. 工资
+waggery
+=>n. 开玩笑;滑稽;诙谐
+waggish
+=>a. 爱开玩笑的;滑稽的
+waggle
+=>vt.vi. 摇动;摇摆@n. 摇动;摇摆
+wagon
+=>n. 四轮马车;货车
+wagoner
+=>n. 车夫;御夫座
+wagtail
+=>n. 一种鸟
+wahoo
+=>n. 火树的一种
+waif
+=>n. 无主物;飘流物;流浪者;信号旗
+wail
+=>n. 悲叹;哀号;痛快@vi. 悲叹;哀号;嚎啕
+wailful
+=>a. 悲叹的;哀悼的
+wain
+=>n. 运货马车;北斗七星
+wainscot
+=>n. 壁板;腰板@vt. 装上壁板
+wainwright
+=>n. 制造运货马车
+waist
+=>n. 腰部;腰
+waistband
+=>n. 腰带;束腰带
+waistcoat
+=>n. 背心
+waistline
+=>n. 腰围
+wait
+=>n. 等候;埋伏@vt. 等候;期待;延缓;伺候;推迟@vi. 等;等候;耽搁;伺候用餐
+waiter
+=>n. 侍者
+waiting
+=>n. 等候;服侍@a. 等候的;服侍的
+waitress
+=>n. 女服务生
+waive
+=>vt. 免除;放弃;推迟考虑;丢弃
+waiver
+=>n. 放弃;弃权;弃权证书
+wake
+=>vt. 叫醒;激发@vi. 醒来;醒着;警觉;振奋@n. 醒;守夜;尾迹;痕迹
+waken
+=>vt. 唤醒;使觉醒;激发@vi. 觉醒;醒来
+wale
+=>n. 条痕;鞭痕;凸纹;精华;选择@vt. 使有鞭条痕;织成棱纹;挑选;撑住@vi. 挑选
+walk
+=>n. 散步;步行;竞走;活动场所@vi. 走路;步行;处世@vt. 走过;使走;走步
+walkable
+=>a. 适于步行的;可以走去的
+walkaway
+=>n. 轻易得到的胜利
+walker
+=>n. 徒步者
+walking
+=>n. 步行;步态@a. 能行走的;步行的
+walkout
+=>n. 联合罢工;罢工;离去
+walkway
+=>n. 走道;散步道;工作人员通道
+wall
+=>n. 墙;墙壁;垣;内壁;分界物;屏障@a. 墙的@vt. 禁闭;围住@n. 背景墙
+wallaby
+=>n. 小袋鼠;澳洲土人
+wallboard
+=>n. 人造壁板;壁板用板
+walled
+=>adj. 以墙围绕的
+wallet
+=>n. 皮夹
+wallless
+=>a. 无墙壁的
+wallop
+=>vi. 乱窜;猛冲@vt. 猛击;击溃@n. 重击;冲击力;乐趣
+wallow
+=>vi. 打滚;沉迷;颠簸@n. 打滚;泥坑;堕落
+wallpaper
+=>n. 壁纸;墙纸@vt.vi. 贴墙纸@n. 壁纸
+walls
+=>n. 墙壁
+wally
+=>a. 好的;第一流的
+walnut
+=>n. 胡桃
+walrus
+=>n. 海象
+waltz
+=>n. 华尔兹舞;圆舞曲@a. 华尔兹舞的;圆舞曲的@vi. 跳华尔兹舞;旋转@vt. 硬拖;与...跳华尔兹舞
+wampee
+=>n. 黄皮
+wan
+=>a. 苍白的;无血色的;病态的;暗淡的@vt.vi. (使)变苍白@n. 广域网
+wand
+=>n. 棒;棍;杖
+wander
+=>vi. 游荡;漫步;徘徊;迷路;离题;蜿蜒@vt. 漫游
+wanderer
+=>n. 流浪者;徘徊者
+wandering
+=>a. 徘徊的;流浪的;蜿蜒的@n. 流浪;梦话
+wanderlust
+=>n. 旅行热潮;流浪癖
+wane
+=>n. 衰微;亏缺;月亏@vi. 变小;亏缺;衰落;呈下弦;消逝;退潮
+wang
+=>n. 王;王安
+wangle
+=>vi. 设法脱身;使诡计@vt. 挤出;哄骗;虚饰@n. 哄骗;假造
+wanna
+=>aux. 要
+want
+=>n. 缺乏;贫困;需要@vt. 要;希望;必须;缺少;征求@vi. 需要;缺少
+wanting
+=>a. 欠缺的;不足的;不够格的@prep. 没有;缺少;除了
+wanton
+=>n. 荡妇;水性杨花的女人@a. 荒唐的;嬉戏的;繁茂的;肆意的@vi. 嬉戏;闲荡;放肆@vt. 挥霍
+wapentake
+=>n. 小邑
+wapiti
+=>n. 麋鹿
+war
+=>n. 战争;战术;军事;冲突;斗争;竞争@vi. 作战;打仗;战斗@a. 战争的;战时的
+warble
+=>n. 鸟啭;颤声@vt.vi. 鸟鸣;用柔和的颤声唱
+warbler
+=>n. 啭鸟;鸣鸟;歌手;用颤音歌唱的人
+ward
+=>n. 守卫;保卫;保护;监护;病房;牢房;行政区;锁孔@vt. 守护;保卫;防止;挡住;躲开
+warden
+=>n. 典狱官;看守人;学监;区长
+warder
+=>n. 看守;守卫;看门人
+wardress
+=>n. 女典狱官
+wardrobe
+=>n. 衣橱;衣室;全部衣服
+wardroom
+=>n. 军官室;军官
+wardship
+=>n. 监护;保护
+ware
+=>n. 制品;器具;货物;商品;陶器@vt. 留心;小心@a. 知道的;意识到的
+warehouse
+=>n. 仓库;货栈;大商店@vt. 储入仓库
+warfare
+=>n. 战斗;交战;战争;斗争;竞争
+warhead
+=>n. 弹头
+warily
+=>ad. 留心地;小心地
+wariness
+=>n. 注意;小心
+warlike
+=>a. 战争的;好战的;尚武的;军事的
+warlord
+=>n. 军阀;督军
+warm
+=>a. 暖和的;暖的;温暖的;热烈的;兴奋的;激烈的;多情的;色@情的@vt. 使温暖;弄热;使兴奋;使热烈;@vi. 变暖和;变温暖;激动;同情;爱好@n. 暖;保暖物
+warmer
+=>n. 使热的人;温热装置
+warmhearted
+=>a. 热心肠的;温情的;亲切的
+warmish
+=>a. 稍为温暖的
+warmly
+=>ad. 亲切地;温暖地;热心地
+warmonger
+=>n. 战争贩子;好战者;主战论者
+warmth
+=>n. 温暖;温情;暖和;激动;生气
+warn
+=>vt. 警告;注意;通知@vi. 发出警告
+warning
+=>n. 警告;预告;通知
+warp
+=>n. 弯曲;歪曲;乖僻;偏差;偏见;乖戾@vt. 弄歪;翘曲;使不正常;歪曲;使有偏见@vi. 变弯;变歪
+warpaint
+=>n. 征战前涂身涂
+warplane
+=>n. 军用机
+warrant
+=>n. 正当理由;根据;证明;批准;凭证;许可证;委任状@vt. 保证;辩解;担保;批准;使有正当理由
+warrantable
+=>a. 可保证的;可承认的;正当的
+warrantee
+=>n. 被保证人
+warranter
+=>n. 保证人
+warranty
+=>n. 担保;保证;根据
+warren
+=>n. 养兔场;拥挤的地方
+warrior
+=>n. 战士;勇士;武士;战斗;尚武
+xanthate
+=>n. 黄酸盐
+xanthippe
+=>n. 悍妇
+xanthochroic
+=>a. 金发白种人的
+xanthous
+=>a. 黄色的;黄色人种的;蒙古人种的
+xebec
+=>n. 小型三桅船
+xenix
+=>n. (计算机)XENIX操作系统
+xenogamy
+=>n. 异花受粉
+xenogenetic
+=>a. 无生源说的
+xenon
+=>n. 氙;稀有气体元素;符号Xe
+xenophobic
+=>a. 前字的形容词
+xeric
+=>a. 环境干躁的;好干性的;沙漠的
+xerography
+=>n. 静电印刷法
+xerophilous
+=>a. 好干燥的;生于热带干燥地的
+xerophthalmia
+=>n. 眼球干燥症
+xerophyte
+=>n. 干燥地带植物
+xeroradiogrphy
+=>n. 干式放射照相法
+xerox
+=>vt.vi. 复印@n. 施乐(全录)商标
+xiphoid
+=>n. 剑状软骨;剑状突起@a. 剑状的
+xla
+=>文件格式
+xls
+=>Excel文件格式
+xmas
+=>n. 圣诞节
+xwindow
+=>一种WINDOW系统
+xx
+=>b. 不可分离
+xxx
+=>n. 紧急信号
+xylem
+=>n. 木质部
+xylene
+=>n. 二甲苯
+xylograph
+=>n. 木版;木版画;木版印刷
+xylography
+=>n. 木版术;木版印刷法
+xylophagous
+=>a. 蚀木的;蚀木穿孔的
+xylophone
+=>n. 木琴
+xylophonist
+=>n. 木琴演奏家
+xylose
+=>n. 木糖;木荃糖
+xylotomy
+=>n. 木材解剖术
+xyst
+=>n. 室内运动场;散步小径;有林荫的行人道
+xyster
+=>n. 刮骨刀
+yabber
+=>n. 饶舌
+yacht
+=>n. 游艇@vi. 驾游艇;乘游艇
+yachtsman
+=>n. 游艇驾驶者;游艇所有者
+yager
+=>n. 狙击兵
+yah
+=>int. 表示不愉快;嘲笑之声音
+yak
+=>n. 牦牛;饶舌;废话;能帮忙的朋友@vi. 饶舌;流畅的说
+yale
+=>n. 耶鲁
+yam
+=>n. 山药;洋芋
+yamaha
+=>n. 雅马哈(山叶)商标
+yammer
+=>vi. 叹息;哭泣@vt. 抱怨@n. 哭诉;无聊话
+yang
+=>n. 杨
+yank
+=>vt.vi.n. 猛拉
+yankee
+=>n. 美国人
+yannigan
+=>n. 一个队的第二班球手
+yap
+=>vi. 狂吠;唠叨;吵嚷@n. 狂吠;狂吠声;废话;无赖
+yapped
+=>a. 卷边装钉的
+yard
+=>n. 码;庭院;工作场
+yardarm
+=>n. 桁端
+yardmaster
+=>n. 调车长;场内管理主管
+yards
+=>n. 码
+yardstick
+=>n. 码尺;准绳
+yare
+=>a. 敏捷的;灵敏的
+yarn
+=>n. 纱;纱线;故事
+yarrow
+=>n. 西洋蓍草
+yashmak
+=>n. 双重面纱;面纱
+yaw
+=>vi. 偏航@n. 偏航;侧滑
+yawl
+=>n. 船载小艇;舰载杂用船;一种小帆船
+yawn
+=>n. 哈欠@vi. 打哈欠;张口@vt. 打着哈欠说
+yawp
+=>vi. 大声叫嚷;大声喊叫;说反对的话@n. 叫声;喊声;喧闹;不满意
+yclept
+=>a. 名叫...的
+yea
+=>n. 肯定;赞成;赞成票
+year
+=>n. 年;年度;年龄
+yearbook
+=>n. 年鉴
+yearling
+=>n. 一岁崽
+yearly
+=>a. 每年的@ad. 每年
+yearn
+=>vi. 渴望;想念;怀念
+yearning
+=>n. 渴念;热念@a. 热望的;渴望的;怀念的;向往的
+years
+=>n. 年
+yeast
+=>n. 酵母;发酵粉
+yeastiness
+=>n. 发酵;起泡;不安
+yeasty
+=>a. 酵母的;会发酵的;起泡沫的
+yegg
+=>n. 抢劫金库者;强盗
+yell
+=>vi. 大叫;忍不住笑@vt. 叫着说@n. 叫声;喊声
+yellow
+=>n. 黄色@a. 黄色的
+yellowish
+=>a. 微黄色的
+yellowlegs
+=>n. 黄足鹞
+yelp
+=>n. 叫吠;叫喊声@vi. 叫吠;叫喊@vt. 叫喊着说
+yeltsin
+=>pn. 叶尔钦
+yen
+=>n. 日圆;瘾@vi. 渴望
+yeoman
+=>n.pl. 自耕农;仆人
+yeomen
+=>n. 自耕农
+yerba
+=>n. 巴拉圭茶
+yes
+=>ad. 是的;是@n. 是;同意@vt.vi. 同意
+yesterday
+=>n. 昨天@ad. 昨天
+yet
+=>ad. 仍然;已经;然而@conj. 然而
+yeti
+=>n. 雪人
+yew
+=>n. 紫杉;水松
+yid
+=>n. 犹太人
+yield
+=>n. 生产量;投资收益@vt. 生产;给予;同意;被迫放弃;放纵@vi. 出产;屈服;投降;同意
+yielding
+=>a. 屈从的;柔顺的;生产的
+yip
+=>n. 犬吠;叫喊@vi. 犬吠;叫喊
+yippee
+=>int. 开心;快乐等时叫起来的感叹词
+yock
+=>n. 大笑
+yodel
+=>n. 岳得尔歌@vt. 用岳得尔歌调唱@vi. 唱岳得尔歌
+yoga
+=>n. 瑜珈
+yoghurt
+=>n. 酸乳酪
+yoke
+=>n. 轭;牛轭;束缚@vt. 给...上轭;连接;结合;使成配偶@vi. 结合;配合
+yokefellow
+=>n. 同事;配偶;伙伴
+yokemate
+=>n. 同事;配偶;伙伴
+yokohama
+=>pla. 横滨
+yolk
+=>n. 蛋黄
+yonder
+=>a. 那边的@ad. 在那边@pron. 那边
+yorker
+=>n. 投出恰好落于球拍下面之球
+you
+=>pron. 你;你们
+young
+=>a. 年轻的;无经验的;朝气蓬勃的@n. 青年们;崽;仔
+younger
+=>n. 年纪较小者@a. 较年轻的
+youngling
+=>n. 年轻人;新手@a. 年轻的
+youngster
+=>n. 年青人;少年
+your
+=>pron. 你的;你们的
+yours
+=>pron. 你的;你们的
+yourself
+=>pron. 你自己
+yourselves
+=>pron.pl. 你们自己
+youth
+=>n. 年轻人;年轻;青年;青春
+youthful
+=>a. 年轻的;青年的
+youths
+=>n. 青少年
+yow
+=>int. 痛苦;惊讶时所发出的叫声
+yowl
+=>n. 号叫;吼声@vi. 号叫;吼
+ytterbia
+=>n. 氧化镱
+ytterbic
+=>a. 含有镱的
+ytterbium
+=>n. 镱
+yttria
+=>n. 氧化钇
+yttric
+=>a. 钇的;含钇的
+yttrium
+=>n. 钇;稀有金属元素;符号Y
+yuan
+=>n. 元
+yucca
+=>n. 丝兰
+yufa
+=>n. 河南省豫发电脑公司
+yule
+=>n. 耶稣圣诞节;圣诞季节
+yuletide
+=>n. 圣诞季节
+yummy
+=>a. 舒适的;愉快的;美味的
+yurt
+=>n. 圆顶帐篷
+zabaglione
+=>n. 意大利菜肴
+zabra
+=>n. 斑马
+zaftig
+=>a. 身体丰满的
+zaimuth
+=>n. 方位
+zambo
+=>n. 拉丁美州的印地安人与黑人之混血种
+zamindar
+=>n. 印度地主;mogul帝国的收税吏
+zany
+=>n. 小丑;笨人;丑角的配角@a. 滑稽的;愚蠢的
+zap
+=>vt.vi. 快速的动或杀死@n. 活力;意志;杀死@int. 咝!
+zapateado
+=>n. 西班牙舞蹈的一种
+zazen
+=>n. 禅宗之打坐
+zeal
+=>n. 热心;热衷;热诚
+zealot
+=>n. 热心者;狂热者;犹太教的狂热信徒
+zealotry
+=>n. 热狂;狂热的行为;狂言
+zealous
+=>a. 热衷的;热诚的;热心的;热情的
+zebra
+=>n. 斑马
+zebrass
+=>n. 雄斑马和雌驴交配成的杂种
+zebrawood
+=>n. 热带美洲产树木之一;其木材
+zebu
+=>n. 瘤牛
+zed
+=>n. Z字母
+zee
+=>n. Z字母
+zein
+=>n. 玉蜀黍蛋白
+zemstvo
+=>n. 地方自治组织;郡县议会
+zen
+=>n. 禅
+zenana
+=>n. 闺房;女用薄衣料
+zenith
+=>n. 顶点;顶峰;天顶
+zenithal
+=>a. 天顶的;绝顶的
+zeolite
+=>n. 沸石
+zephyr
+=>n. 西风;和风;徐风
+zero
+=>n. 零;零点;零度;无;乌有;最低点@a. 零的@vt. 调零;对准
+zeroth
+=>a. 第 0 个
+zest
+=>n. 风味;强烈的风味;热情;热心@vt. 给...调味
+zestful
+=>a. 有风味的;有风趣的;有热情的
+zeugma
+=>n. 轭式修饰法
+zibelline
+=>n. 黑貂皮@a. 黑貂的
+zibet
+=>n. 香猫
+zig
+=>n. 之字形的转折;急转@vi. 转弯
+zigzag
+=>n. 曲折;Z字形@a. 曲折的;锯齿形的@ad. 曲折地;成锯齿形地@vt. 使成之字形;使曲折@vi. 成之字形;弯曲地走路
+zilch
+=>n. 无;零;无价之物
+zillion
+=>n. 庞大的数字
+zillionaire
+=>n. 大富翁
+zinc
+=>n. 锌@vt. 涂锌于
+zincic
+=>a. 锌的;从锌得来的;含锌的
+zinciferous
+=>a. 含锌的
+zincite
+=>n. 红锌矿
+zincoid
+=>a. 锌的;似锌的
+zincous
+=>a. 锌的;含锌的;阳极的
+zine
+=>n. 锌
+zing
+=>n. 子弹声;活力@vi. 发尖啸声@vt. 对...挑剔
+zinky
+=>a. 锌制的;含锌的
+zinnia
+=>n. 百日草属植物
+zip
+=>n. 拉练;活力;飞射声@vt. 使增加活力;拉(拉链)@vi. 嘘嘘地响;拉拉链
+zipped
+=>pp. 拉上
+zipper
+=>n. 拉练
+zippier
+=>adj. 更有活力的
+zippy
+=>a. 敏捷的;活泼的
+zircon
+=>n. 锆石
+zirconia
+=>n. 氧化锆
+zirconium
+=>n. 锆
+zither
+=>n. 筝
+zitherist
+=>n. 演奏筝者
+zizz
+=>n. 瞌睡;打盹
+zloty
+=>n. Poland的货币单位;其镍币
+zmodem
+=>n. 智能MODEM通讯协议;容错性好
+zodiac
+=>n. 十二宫图;黄道带
+zoetrope
+=>n. 西洋镜
+zoisite
+=>n. 黝帘石
+zonal
+=>a. 带子的;带状的;划成地带的;分区的
+zonary
+=>a. 象带子的;带状的
+zonation
+=>n. 带状配列;动植物的生物地理学的地带分布
+zone
+=>n. 地域;地带;地区@vt. 环绕;使分成地带@vi. 分成区
+zoned
+=>a. 划成区域的;束带的
+zoning
+=>n. 分区制
+zonked
+=>a. 醉酒的;吸毒而恍惚的
+zoo
+=>n. 动物园
+zoogamy
+=>n. 有性生殖;两性生殖
+zoogeography
+=>n. 动物地理学
+zoography
+=>n. 动物志学
+zoolater
+=>n. 动物的崇拜者
+zoologic
+=>a. 动物学的;关于动物的
+zoological
+=>a. 动物学的
+zoologist
+=>n. 动物学家
+zoology
+=>n. 动物学;生态
+zoom
+=>n. 急速上升;图象电子放大;嗡嗡声@vi. 突然扩大;急速上升;摄象机移动@vt. 使摄象机移动@a. 免费的@n. 缩放
+zoomancy
+=>n. 动物占卜
+zooming
+=>ing. 放大缩小
+zoomorphism
+=>n. 动物形象;用动物之形象
+zoon
+=>n. 发育完全的个体
+zoonosis
+=>n. 动物病
+zoophilous
+=>a. 由小动物传播的;爱护动物的
+zoophysics
+=>n. 动物构造学
+zoophyte
+=>n. 植虫类
+zooplastic
+=>a. 动物组织移植术的
+zoospore
+=>n. 游走孢子
+zoril
+=>n. 南非及小亚细亚产类似臭鼬的动物
+zoroastrainism
+=>n. 拜火教
+zoster
+=>n. 带;带状疹子
+zounds
+=>int. 表示愤怒惊讶的咒骂声
+zrm
+=>n. 自然码
+zucchetto
+=>n. 无边帽
+zucchini
+=>n. 夏季产南瓜之一种
+zurich
+=>n. 苏黎士
+zwitterion
+=>n. 两性离子
+zygote
+=>n. 接合子;接合体
+zymase
+=>n. 变酒酵素
+zymogenic
+=>a. 酵素母质的;酵素原的;发酵菌的
+zymology
+=>n. 发酵学;发酵论
+zymosis
+=>n. 发酵;发酵作用;酵性病

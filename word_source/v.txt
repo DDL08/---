@@ -1,0 +1,286 @@
+vagary
+=>=>n. 奇特;好奇;奇特行为;奇想
+vacant
+=>=>a. 空的;空白的;空灵的;空闲的;茫然的;空缺的
+v
+=>=>n. 字母v
+vacancy
+=>=>n. 空;空白;空缺;空虚;空闲;茫然所失
+vacillation
+=>=>n. 游移不定;踌躇;不果断
+vaccination
+=>=>n. 接种疫苗;种痘
+vaccinal
+=>=>a. 疫苗的;牛痘的;接种的
+vacation
+=>=>n. 假期;休假
+vaccinate
+=>=>vt.vi. 预防接种
+vaccinia
+=>=>n. 牛痘
+vaccine
+=>=>n. 疫苗@a. 疫苗的;牛痘的
+vacillate
+=>=>vi. 游移不定;踌躇;犹豫;摇摆
+vacuum
+=>=>n. 真空;空间;真空吸尘器@a. 真空的;产生真空的;利用真空的@vt. 用吸尘器打扫
+vacuole
+=>=>n. 空泡;液泡
+vacuity
+=>=>n. 空虚;空白;愚蠢;茫然若失;无聊
+vacuous
+=>=>a. 空的;空虚的;心灵空虚的
+vagabond
+=>=>n. 流浪汉;浪子;流氓@vi. 到处流浪@a. 流浪的;漂泊的;浪荡的;流浪者的
+vacuumize
+=>=>vt. 真空包装;抽真空
+vagarious
+=>=>a. 越出常规的;奇特的;心气不定的;异想天开的
+vanish
+=>=>vi.消失;不见;成为零
+validly
+=>=>ad. 正当地;妥当地
+valance
+=>=>n. 帷幔;装饰窗帘
+vagueness
+=>=>n. 暧昧;含糊
+vagrancy
+=>=>n. 漂泊;流浪;离题
+vaginal
+=>=>a. 叶鞘的;似叶鞘的;阴道的
+vagina
+=>=>n. 鞘;阴道;叶鞘
+vaginate
+=>=>a. 有鞘的;似鞘的
+vague
+=>=>a. 含糊的;不清楚的;茫然的
+vagrant
+=>=>n. 流浪汉;漂泊者;无赖@a. 漂泊的;流浪的;游荡的
+vaguely
+=>=>ad. 含糊地;暧昧地
+vainglory
+=>=>n. 自夸;自负;虚荣
+vain
+=>=>a. 徒然的;虚荣的;空虚的;自负的;愚蠢的
+vagus
+=>=>n. 迷走神经
+vainglorious
+=>=>a. 自以为了不起的;非常自负的;虚荣心强的
+vainness
+=>=>n. 无益;徒然;自负
+vainly
+=>=>ad. 枉然的;无益地;徒然
+vair
+=>=>n. 松鼠的皮;毛皮纹
+valetudinarian
+=>=>a. 有病的;虚弱的;过分担心健康的@n. 病弱的人;过分担心健康的人
+valence
+=>=>n. 原子价
+valediction
+=>=>n. 告别;告别词
+vale
+=>=>n. 谷;溪谷;再见@int. 再见
+valedictory
+=>=>a. 告别的@n. 告别词
+valerian
+=>=>n. 颉草属植物;自其根茎采制之镇静剂
+valency
+=>=>n. 原子价
+valet
+=>=>n. 贴身男仆@vt. 伺候
+validate
+=>=>vt. 使有效;使生效;确认;证实@v. 验证
+valib
+=>=>n. 有效
+valiant
+=>=>a. 英勇的@n. 勇敢的人
+valid
+=>=>a. 有确实根据的;有效的;正当的;正确的
+validation
+=>=>n. 确认
+validating
+=>=>vbl. 确认
+validity
+=>=>n. 有效性;正确性
+valuta
+=>=>n. 币值
+valuables
+=>=>n. 贵重物品
+valorize
+=>=>vt. 规定价格;稳定物价
+valor
+=>=>n. 英勇;刚勇;勇猛
+valley
+=>=>n. 山谷;溪谷;流域;凹地
+valorization
+=>=>n. 物价稳定措施
+valour
+=>=>n. 英勇;刚勇;勇猛
+valorous
+=>=>a. 勇敢的;勇武的;刚勇的
+valuable
+=>=>a. 有价值的;贵重的;宝贵的;可估价的
+value
+=>=>n. 价值;重要性;价格;购买力;评价;估价@vt. 评价;估价;重视@n. 计算结果
+valuation
+=>=>n. 评价;估价;价值判断
+valuably
+=>=>ad. 有价值地;有益地
+valuator
+=>=>n. 评价者;估价者
+valueless
+=>=>a. 无价值的;不值钱的;不足道的
+valued
+=>=>a. 贵重的;尊贵的;尊重的
+valuer
+=>=>n. 评价者;价格核定人
+van
+=>=>n. 货车;篷车;先锋;前驱;前卫@vt. 用车搬运
+vamoose
+=>=>vt.vi. 匆匆离开
+valve
+=>=>n. 活瓣;阀;活门@vt.vi. 装阀;用阀调节
+valvate
+=>=>a. 有阀的;以阀开的;有阀的功能的
+valvular
+=>=>a. 活门的;心脏瓣膜的;瓣形的;有阀门的
+vamper
+=>=>n. 补靴;即席伴奏者
+vamp
+=>=>n. 鞋面;荡妇@vt. 修补;拼凑;捏造;勾引@vi. 即席伴奏;勾引
+vampire
+=>=>n. 吸血鬼
+vandyke
+=>=>n. 锯齿状饰边
+vandalism
+=>=>n. 对艺术的破坏
+vanadium
+=>=>n. 钒
+vandalize
+=>=>vt. 摧残;破坏
+vanguard
+=>=>n. 前锋;先锋;先驱
+vane
+=>=>n. 风向标;风信旗;变化不定的事物
+vanilla
+=>=>n. 香草;香子兰
+variorum
+=>=>a. 有诸家注解的;集注的@n. 集注本
+variably
+=>=>ad. 易变地;不定地;能变地
+vaporization
+=>=>n. 蒸发;汽化
+vanward
+=>=>a. 向前的;先锋的@ad. 向前方
+vanquish
+=>=>vt. 打败;征服;克服
+vanity
+=>=>n. 虚荣心;虚无;自负;空虚;手袋
+vantage
+=>=>n. 优势;有利情况
+vapidity
+=>=>n. 乏味;走气;无生气;无趣
+vapid
+=>=>a. 乏味的;走了气味的;无生气的;无趣味的
+vapor
+=>=>n. 水汽;水蒸气@vi. 蒸发@vt. 使蒸发
+var
+=>=>n. 变容体@n. 变量;变容体
+vapour
+=>=>n. 水汽;水蒸气@vi. 蒸发;自夸@vt. 使蒸发;使汽化
+vaporize
+=>=>vt.vi. (使)蒸发
+vapoury
+=>=>a. 含蒸汽的;模糊的
+variable
+=>=>n. 变数;可变物@a. 可变的;不定的;易变的;变量的
+variability
+=>=>n. 易变;变化性;变异性
+variables
+=>=>n. 变数
+varicosity
+=>=>n. 静脉曲张
+variational
+=>=>a. 变化的;变化性的;起自变动的
+variant
+=>=>n. 变体;异体@a. 不同的;差别的
+variance
+=>=>n. 不一致;变化;变异;分歧;不和
+variation
+=>=>n. 变更;变化;变种;变奏
+varicap
+=>=>n. 看Varactor.变容体
+variations
+=>=>n. 变更
+varicocele
+=>=>n. 精索静脉曲张
+variegation
+=>=>n. 上色;彩色;杂色
+variegate
+=>=>vt. 使成斑驳;使多样化
+varied
+=>=>a. 不同的;杂色的;各式各样的
+variegated
+=>=>a. 杂色的;斑驳的;富于变化的
+variety
+=>=>n. 多样;种类;变种;杂耍
+varietal
+=>=>a. 变化的;多种的;变种的
+variform
+=>=>a. 有多种形态的;形状不同的
+vassal
+=>=>n. 诸侯;奴仆@a. 诸侯的;奴仆的
+vascularity
+=>=>n. 由脉管形成;维管性
+varmint
+=>=>n. 流氓;恶棍@NUM@NUM
+varistor
+=>=>n. 变阻体
+various
+=>=>a. 不同的;各种的;多方面的;许多的;个别的;杂色的
+varlet
+=>=>n. 恶棍
+vary
+=>=>vt. 改变;使多样化@vi. 变化;不同;违反
+varnish
+=>=>n. 油漆;清漆;掩饰;光泽面@vt. 粉饰;涂油漆于;装饰;使有光泽
+vascular
+=>=>a. 脉管的;有脉管的;血管的
+vaseline
+=>=>n. 凡士林;凡士林的商标名
+vase
+=>=>n. 花瓶;瓶
+vasculum
+=>=>n. 植物采集箱;采集用囊;小管
+vasectomy
+=>=>n. 输精管切除
+vasodilator
+=>=>a. 血管扩张的@n. 血管扩张神经
+vasoconstrictor
+=>=>a. 血管收缩的@n. 血管收缩神经
+vasomotor
+=>=>a. 血管收缩的;血管收缩神经的
+vatican
+=>=>n. 梵谛冈;罗马教廷
+vastness
+=>=>n. 巨大;广大;广漠
+vastitude
+=>=>n. 广大;广漠无际;广阔
+vast
+=>=>a. 巨大的;广大的;非常的;大量的
+vastly
+=>=>ad. 广大地;许多;钜大
+vat
+=>=>n. 大桶@vt. 装入大桶;在大桶里处理
+vasty
+=>=>a. 巨大的;广大的;广漠无际的
+vatic
+=>=>a. 预言的
+vault
+=>=>n. 窖;地下室;撑竿跳;圆顶@vt. 做成圆拱形;撑竿跳跃@vi. 成穹状弯曲;跳跃
+vaudeville
+=>=>n. 轻歌舞剧;轻音乐喜剧;杂耍
+vaticination
+=>=>n. 预言
+vaudevillian
+=>=>n. 杂耍演员

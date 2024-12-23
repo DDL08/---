@@ -1,0 +1,254 @@
+qualify
+=>=>vi. 取得资格;有资格@vt. 使有资格;使合格;限定;限制;准予
+quadrat
+=>=>n. 嵌块
+quack
+=>=>n. 鸭叫声;庸医;冒充内行之人@a. 庸医的@vt.vi. 嘎嘎叫;当庸医;夸大广告
+qbasic
+=>=>n. Qbasic语言
+q
+=>=>n. 字母q
+qa
+=>=>n. 质量保证;问题和回答
+qtam
+=>=>n. 排队;远程处理
+qedit
+=>=>n. 由SemWare公司推出的英文编辑软件
+qua
+=>=>prep. 作为
+quadrangle
+=>=>n. 四角形;四边形;中院
+quacksalver
+=>=>n. 密医;庸医;骗子
+quackery
+=>=>n. 骗人的治疗;大吹牛;骗子的行为
+quad
+=>=>n. 线组
+quadrant
+=>=>n. 四分圆;象限;四分仪
+quadrangular
+=>=>a. 四边形的
+quadrantal
+=>=>a. 四分圆的;象限的
+quadruplex
+=>=>n. 四工
+quadrinomial
+=>=>a. 四项的@n. 四项式
+quadric
+=>=>a. 二次的@n. 二次曲面
+quadratic
+=>=>a. 二次的@n. 二次方程式;二次方程式论
+quadrate
+=>=>a. 正方形的;方形的@n. 正方形;方形骨@vt. 使适合;使一致
+quadrature
+=>=>n. 求面积;矩;弦
+quadrilateral
+=>=>a. 四边形;四边地;四角地
+quadriceps
+=>=>n. 四头肌
+quadrille
+=>=>n. 四人用四十张纸牌玩的牌戏;四对舞;四对舞曲
+quadroon
+=>=>n. 白人与半白人之混血儿;四分之一的混血儿
+quadripuntal
+=>=>n. 四孔
+quadripartite
+=>=>a. 分成四组的;由四部组成的
+quadrivium
+=>=>n. 四门学科
+quadruple
+=>=>a. 四倍的;四重的;四部组成的@n. 四倍数@vt. 使成四倍@vi. 成为四倍
+quadruped
+=>=>n. 四足动物
+quadruplet
+=>=>n. 四组;四套;四胞胎中之一
+quaint
+=>=>a. 古雅的;离奇有趣的;奇怪的
+quag
+=>=>n. 沼地;湿地
+quadrupole
+=>=>n. 四极
+quadruplication
+=>=>n. 一式四份
+quaff
+=>=>vt.vi. 一口气喝干;大口地喝@n. 一饮而尽;痛饮
+quaggy
+=>=>a. 沼地的;湿地的
+quagga
+=>=>n. 斑驴
+quail
+=>=>n. 鹌鹑@vi. 胆怯;畏缩
+qualification
+=>=>n. 资格;条件;限制
+quaker
+=>=>n. 教友派信徒
+quake
+=>=>n. 地震
+quaky
+=>=>a. 震动的;战栗的
+qualified
+=>=>a. 有资格的
+qualifications
+=>=>n. 资格
+qualifier
+=>=>n. 给与资格的人;限定物;限定句
+quencher
+=>=>n. 弄熄的人;冷却器;饮料
+quartile
+=>=>n. 四分位数
+quarantine
+=>=>n. 隔离;封锁交通;检疫期间@vt. 检疫;停止交涉
+quantic
+=>=>n. 同次整关数;多项式
+qualmish
+=>=>a. 使人恶心;不安的;受良心责备的
+quality
+=>=>n. 品质;特质;才能;质量@a. 优质的@n. 品质
+qualitative
+=>=>a. 性质上的;质的;定性的
+qualm
+=>=>n. 晕眩;不安;疑虑
+quant
+=>=>n. 船桨
+quandary
+=>=>n. 困惑;迷惑;为难
+quanta
+=>=>n.pl. 量子
+quantivalence
+=>=>n. 原子价
+quantitative
+=>=>a. 数量的;定量的
+quantify
+=>=>vt. 定量;表示份量;称量
+quantity
+=>=>n. 量;数量;总数
+quantize
+=>=>n. 数值化;数字转换
+quantization
+=>=>n. 量子化;量化
+quantum
+=>=>n. 分配量;额;量;量子
+quarterback
+=>=>n. 四分卫@vi. 担任四分卫
+quart
+=>=>n. 夸脱
+quarrelsome
+=>=>a. 喜欢吵架的;好争论的;怒气冲冲的
+quarrel
+=>=>n. 吵架;反目;怨言;方形的东西@vi. 吵架;争论;挑剔
+quarry
+=>=>n. 采石场;猎物;追求物;出处@vt. 挖出;苦心找出@vi. 费力地找
+quartation
+=>=>n. 四分法
+quartan
+=>=>a. 每四天的@n. 四日热
+quarter
+=>=>n. 四分之一;一刻钟;季度;地区@vt. 四等分;四肢分解@vi. 驻扎;住宿
+quarters
+=>=>n. 住处;岗位
+quarterfinalist
+=>=>n. 四分之一决赛选手
+quarterfinal
+=>=>a. 四分之一决赛的@n. 四分之一决赛
+quartermaster
+=>=>n. 军需官
+quartet
+=>=>n. 四重奏
+quartersaw
+=>=>vt. 把原木锯成四块
+quartic
+=>=>a. 四次的@n. 四次式
+quayage
+=>=>n. 码头税;系船费;码头用地
+quaternion
+=>=>n. 四个一组;四人一组;四元数
+quasar
+=>=>n. 恒星状球体;半星球体;类星球体
+quartz
+=>=>n. 石英
+quarto
+=>=>n. 四开;四开大的书本
+quartzite
+=>=>n. 石英岩;矽岩
+quasi
+=>=>a. 类似的;外表的
+quash
+=>=>vt. 撤消;镇定;镇压
+quassia
+=>=>n. 苦木科植物;由其采取之苦味液
+quatrefoil
+=>=>n. 四瓣花;四叶片之叶;四叶饰
+quatrain
+=>=>n. 四行诗
+quaternity
+=>=>n. 四个一组;四人一组;四位一体
+quatre
+=>=>n. 四红;四点
+quavery
+=>=>a. 震音的;颤声的
+quaver
+=>=>vi. 发颤音;震动@vt. 颤声说话;用颤声歌唱@n. 震音;颤声;八分音符
+quay
+=>=>n. 码头;突堤;岸壁
+queening
+=>=>n. 苹果之一种
+queasiness
+=>=>n. 恶心
+quean
+=>=>n. 轻佻的女人
+quayside
+=>=>n. 码头周围
+queasily
+=>=>ad. 令人恶心地
+quebracho
+=>=>n. 南美产漆树科乔木;其木材和树皮
+queasy
+=>=>a. 催吐的;动荡的;使人呕吐的;反胃的
+queen
+=>=>n. 皇后;女王;王妃@vt. 立为女王@vi. 做女王
+queerly
+=>=>ad. 奇妙地;奇怪地
+queenly
+=>=>a. 女王的
+queenliness
+=>=>n. 象女王;适合当女王
+queer
+=>=>n. 同性恋者@a. 奇怪的;不舒服的;可疑的@vt. 搞糟
+quell
+=>=>vt. 压制;平息;减轻
+queerness
+=>=>n. 奇妙;不快
+quench
+=>=>vt. 熄灭;结束;冷浸;淬火@vi. 熄灭;平息
+queue
+=>=>n. 辫子;长队@vt. 梳成辫子@vi. 排队@n. 队列
+query
+=>=>n. 疑问;疑问号;质问@vt.vi. 询问;质问@n. 查询
+querimonious
+=>=>a. 易发牢骚的
+quenchless
+=>=>a. 难熄灭的;难镇静的;难压制的
+quenching
+=>=>n. 淬熄
+quercetin
+=>=>n. 橡黄素
+quern
+=>=>n. 手推磨
+querist
+=>=>n. 询问者;质问者
+querulous
+=>=>a. 鸣不平的;发牢骚的;易怒的
+questioner
+=>=>n. 质问者;发问者
+question
+=>=>n. 问题;疑问;疑问句@vt.vi. 询问;审问;怀疑@n. 询问
+quest
+=>=>n. 探索;寻求;调查@vt.vi. 寻找;找;追寻猎物
+questionable
+=>=>a. 可疑的
+questionless
+=>=>a. 无疑的
+questioning
+=>=>ing. 质疑
+questionnaire
+=>=>n. 调查表;问卷;调查表

@@ -1,0 +1,428 @@
+dapper
+=>=>a. 整洁的;整齐的;短小精悍的
+dak
+=>=>n. 驿站
+dactylic
+=>=>a. 长短短格的
+dac
+=>=>n. 数模转换器
+dabble
+=>=>vi. 玩水;泼溅;涉猎@vt. 溅湿
+dab
+=>=>n. 少量;轻拍;比目鱼;熟手@vt.vi. 轻拍;轻擦
+dabber
+=>=>n. 轻拍的人;敷墨具
+dabbler
+=>=>n. 戏水者;业余家
+dacron
+=>=>n. 涤纶
+dachshund
+=>=>n. 一种短腿长身的德国种猎犬
+dace
+=>=>n. 一种鱼
+dacoit
+=>=>n. 强盗帮员;土匪
+dactyl
+=>=>n. 强弱弱格;长短短格
+dago
+=>=>n. 意大利人;西班牙人
+dado
+=>=>n. 护墙板;台座腰部
+dadaist
+=>=>n. 达达主义的艺术家
+dad
+=>=>n. 爸爸;爹爹
+dactylology
+=>=>n. 手语法
+dada
+=>=>n. 爸爸;达达主义
+daddy
+=>=>n. 爸爸
+daft
+=>=>a. 愚笨的;癫狂的;狂闹的
+daffodil
+=>=>n. 水仙花@a. 水仙花色的
+daemon
+=>=>后台驻留程序
+daffy
+=>=>a. 愚笨的;疯狂的
+dagger
+=>=>n. 匕首@vt. 用剑刺
+dag
+=>=>n. 石墨的简写
+daggle
+=>=>vi. 拖曳;拖脏;@vt. 使肮脏
+daintily
+=>=>ad. 优美爽口;难以取悦地;讲究
+daily
+=>=>a. 每日的;日常的@ad. 每日地;日常地@n. 日报
+dahlia
+=>=>n. 大丽花
+daguerreotype
+=>=>n. 银板照相法@vi.vt. 银板照相
+dahomey
+=>=>n. 达荷美共和国
+daimler
+=>=>n. 英国的高级汽车名
+dairy
+=>=>n. 乳酪农场;酪农业;牛奶场
+dainty
+=>=>n. 适口的食物@a. 优美的;讲究的;适口的
+daintiness
+=>=>n. 优美;美味;过分的讲究
+daiquiri
+=>=>n. 一种鸡尾酒
+dais
+=>=>n. 台;讲台
+dairymaid
+=>=>n. 酪农场的女工
+daisy
+=>=>n. 雏菊;一流的人物@a. 第一流的
+dampish
+=>=>a. 含湿气的;稍湿的
+damgling
+=>=>n. 悬  选择
+damageable
+=>=>a. 易损害的
+dally
+=>=>vi. 戏耍;玩弄;赋闲@vt. 浪费@n. 达尔马西亚的移民@a. 达尔马希亚的
+dali
+=>=>n. 达利
+dale
+=>=>n. 小谷;溪谷
+dalliance
+=>=>n. 调戏;调情
+dam
+=>=>n. 水坝;障碍@vt.vi. 控制;筑坝
+dalmatian
+=>=>a. 达尔马提亚的@n. 达尔马提亚人;达尔马提亚狗
+damage
+=>=>n. 损害;伤害@vt.vi. 损害
+damagingly
+=>=>ad. 很;非常地
+damages
+=>=>n. 损害赔长
+damaged
+=>=>a. 被损坏的
+damaging
+=>=>vbl. 损坏
+damask
+=>=>n. 缎子;斜纹布;大马士革钢铁@a. 缎的;淡红色的;@vt. 使织出花纹@vi. 织花纹
+damascus
+=>=>n. 大马士革
+dame
+=>=>n. 夫人
+damning
+=>=>n. 诅咒@a. 受永罚的;毁灭的;咒骂的
+damnation
+=>=>n. 非难;被罚下地狱;诅咒@int. 糟了! 该死! 完了!
+damnable
+=>=>a. 可诅咒的;该死的
+damn
+=>=>n. 一点;诅咒;丝毫@vt. 诅咒;下地狱
+damnably
+=>=>ad. 可恨地;厉害地
+damnification
+=>=>n. 损伤;损害
+damned
+=>=>a. 被咒骂的;该死的@ad. 非常
+damnify
+=>=>vt. 损伤;损害
+damped
+=>=>adj. 阻尼的
+damocles
+=>=>n. 为 Syracuse 的国王 Dionysius 的臣下
+damoclean
+=>=>a. Damocles 的;象 Damocles 一样的
+damp
+=>=>n. 湿气@a. 潮湿的@vt. 使潮湿;阻尼;抑止@vi. 变潮湿;衰减
+damper
+=>=>n. 爱挑毛病的人;讥诮话;增湿器;阻尼器
+dampen
+=>=>vt. 弄湿;使衰减@vi. 变湿;丧气
+damping
+=>=>n. 阻尼
+dandyism
+=>=>n. 喜好修饰;时髦
+dancing
+=>=>n. 舞蹈
+damson
+=>=>n. 西洋李子;其树
+damsel
+=>=>n. 年轻女人;闺女
+damply
+=>=>ad. 潮湿地;衰减地
+damselfly
+=>=>n. 灯心蜻蜓
+dance
+=>=>n. 跳舞;舞蹈;舞会@vt.vi. 跳舞
+dan
+=>=>n. 浮标;担
+dancery
+=>=>n. 舞厅
+dandify
+=>=>vt. 打扮得时髦
+dander
+=>=>n. 生气;头皮屑
+dandelion
+=>=>n. 蒲公英
+dandified
+=>=>a. 打扮得华丽的
+dandruff
+=>=>n. 头皮屑
+dandle
+=>=>vt. 抱着逗弄;宠;娇养@NUM@NUM
+dandy
+=>=>n. 花花公子@a. 服装华丽的;极好的
+dangler
+=>=>n. 吊着晃来晃去的东西;耳环;追逐女人的男人
+dangdang
+=>=>n. 当当
+danegeld
+=>=>n. 丹麦税赋
+dane
+=>=>n. 丹麦人
+danelaw
+=>=>n. 丹麦律法;丹麦律法施行地区
+dangerous
+=>=>a. 危险的
+danger
+=>=>n. 危险;威胁
+dangle
+=>=>vi. 摇晃地悬挂着;追求@vt. 使摇晃地悬挂@n. 摇晃地悬挂
+danseuse
+=>=>n. 女芭蕾舞演员
+danish
+=>=>n. 丹麦文@a. 丹麦的;丹麦人的;丹麦文的
+daniel
+=>=>n. 男子名;丹尼尔;丹尼尔书
+dank
+=>=>a. 透水的;潮湿的@NUM@NUM
+danube
+=>=>n. 多瑙河
+dantean
+=>=>n. 但丁研究家;但丁崇拜者@a. 但丁的
+daphnia
+=>=>n. 水蚤
+dawdler
+=>=>n. 游手好闲的人;懒人
+dastard
+=>=>n. 懦夫;卑鄙的人@a. 怯懦的;卑劣的
+darling
+=>=>n. 亲爱的;可爱的人;可爱的物@a. 可爱的;亲爱的
+darkened
+=>=>adj. 昏黑
+daredevil
+=>=>n. 铤而走险的人;不怕死的人@a. 蛮勇的;不怕死的
+dappled
+=>=>a. 斑纹的;花的
+dapple
+=>=>n. 斑纹;花马@a. 有斑纹的@vt.vi. (使)起斑纹
+dare
+=>=>n. 挑战;挑动;大胆@vt.vi. 敢;胆敢
+dark
+=>=>n. 黑暗;夜;黄昏;模糊@a. 黑暗的;暗的;隐密的;模糊的;无知的
+daring
+=>=>a. 大胆的
+darken
+=>=>vt. 弄暗;使模糊@vi. 暗下来;颜色变深
+darkly
+=>=>ad. 暗;黑;呈黑
+darkle
+=>=>vi. 潜藏暗中;呈显带黑;变暗
+darkish
+=>=>a. 微暗的;浅黑的
+darkling
+=>=>ad. 在暗中@a. 黑暗的;令人可怕的
+darksome
+=>=>a. 微暗的;阴暗的;含糊的
+darkroom
+=>=>n. 暗房
+darky
+=>=>n. 黑人
+darwinian
+=>=>a. 达尔文的;达尔文学说的@n. 达尔文学徒;进化论者
+darner
+=>=>n. 缝补的人;缝补针;缝补台
+darned
+=>=>a. 岂有此理的;可恨的;非常@ad. 岂有此理地;可恨地;非常
+darn
+=>=>n.vt.vi. 织补
+darnel
+=>=>n. 毒麦
+dart
+=>=>n. 飞镖;投射@vt. 投射@vi. 疾走;突进
+darning
+=>=>n. 织补物
+darwin
+=>=>n. 达尔文
+dashed
+=>=>n. 虚线
+dash
+=>=>n. 冲撞;破折号@vi. 猛掷;冲撞@vt. 泼溅;使猛撞;搀加;使破灭;使沮丧;匆忙完成
+darwinism
+=>=>n. 达尔文学说;进化论
+dashboard
+=>=>n. 仪表板;挡泥板
+dashing
+=>=>a. 活跃的;浮华的
+dasher
+=>=>n. 猛冲者;气宇轩昂的男子;搅拌装置
+dashpot
+=>=>n. 缓冲筒
+dauber
+=>=>n. 涂抹者;拙劣的画匠;涂抹工具
+dated
+=>=>a. 有日期的;陈旧的
+datable
+=>=>a. 可确定时代的@n. 按日计工资
+data
+=>=>n.pl. 资料;数据
+dat
+=>=>n. DOS文件扩展名:数据文件
+database
+=>=>n. 资料库
+dataset
+=>=>n. 资料组
+datamation
+=>=>n. 资料自动化
+date
+=>=>n. 日期;约会;枣椰子@vt. 约会;定日期@vi. 注明日期;过时@n. DOS命令:显示或设置系统日期
+dative
+=>=>a. 与格的@n. 与格;与格语
+datemark
+=>=>n. 日戳
+dateline
+=>=>n. 日期变更线;日界线;日期栏
+dating
+=>=>ing. 约会
+datura
+=>=>n. 曼陀罗属的植物
+datum
+=>=>n. 材料;资料;已知数
+daub
+=>=>vt.vi. 涂抹;画拙劣的画;弄脏@n. 被涂抹的东西;劣画;画法或手法笨拙的画
+dauphiness
+=>=>n. 法国皇太子的妃
+daunt
+=>=>vt. 威吓;难倒;使气馁
+daughter
+=>=>n. 女儿@a. 女儿的
+dauby
+=>=>a. 粘性的;乱涂的
+daughterly
+=>=>a. 女儿的;女儿似的
+dauntless
+=>=>a. 不屈不挠的;大胆的
+daunting
+=>=>a. 使人畏缩的
+dauphin
+=>=>n. 法国皇太子
+davit
+=>=>n. 吊艇柱;吊柱
+david
+=>=>n. 大卫
+davenport
+=>=>n. 一种书桌;兼做卧床的长椅
+davis
+=>=>n. 戴维斯
+daw
+=>=>n. 穴鸟
+davy
+=>=>n. David 的昵称@n. 宣誓书
+dawdle
+=>=>vi.vt. 游手好闲;混日子
+dead
+=>=>a. 死的;不活泼的;麻木的;熄灭的@n. 死者@ad. 完全地;突然地
+daze
+=>=>vt. 使茫然;发昏;使眼花缭乱@n. 迷乱;眼花缭乱
+daydreamer
+=>=>n. 空想家
+daybed
+=>=>n. 坐卧两用长椅
+dawning
+=>=>n. 晓;黎明;东
+dawn
+=>=>n. 破晓;黎明@vi. 破晓@NUM@NUM
+day
+=>=>n. 天;日子;白天;工作日
+daybreak
+=>=>n. 黎明;拂晓
+daybook
+=>=>n. 日记簿;交易日记帐
+daydream
+=>=>n. 白日梦@vi. 做白日梦
+days
+=>=>n. 天;时期@ad. 每天;在白天
+daylight
+=>=>n. 白昼;日光;破晓@a. 白昼的@vt. 引入日光@vi. 提供日光
+dayfly
+=>=>n. 蜉蝣
+daylong
+=>=>a. 终日的;一整天的@ad. 终日;一整天
+daystart
+=>=>n. 一天开始;晨间
+daystar
+=>=>n. 晨星
+daytime
+=>=>n. 白天;日间
+dc
+=>=>n. 直流电
+dazzling
+=>=>a. 眼花缭乱的;耀眼的
+dazzle
+=>=>vt.vi. (使)眼花;眩耀@n. 耀眼@NUM@NUM
+dazed
+=>=>a. 头昏的;眼花的
+dazzled
+=>=>adj. 眼花撩乱
+dbk
+=>=>n. 相对于一仟瓦的分贝
+db
+=>=>n. 分贝decibel的简写
+dbms
+=>=>n. 数据库管理系统
+deacon
+=>=>n. 副主祭;执事;公会会长@vt. 朗读;摆得好看些
+ddl2
+=>李南北
+deaccentuator
+=>=>n. 频率校正电路
+deactivate
+=>=>vt. 解除动员;复员;使无效;使不活动
+deaconess
+=>=>n. 女执事;牧师的女助手
+deactivation
+=>=>n. 无动化
+deadwood
+=>=>n. 枯枝;朽木;碎屑
+deadlight
+=>=>n. 舷窗盖
+deadening
+=>=>n. 隔音材料
+deadborn
+=>=>a. 死产的
+deadbeat
+=>=>n. 赖债不还的人;饭桶;食客
+deaden
+=>=>vt. 使减弱;消除@vi. 减弱
+deadfall
+=>=>n. 陷阱的一种;交错倒下的树木积堆
+deadeye
+=>=>n. 三孔滑车
+deadhead
+=>=>n. 免费乘客;免费入场者
+deadly
+=>=>a. 致命的;致死的@ad. 非常地;如死一般地
+deadliness
+=>=>n. 致命的
+deadline
+=>=>n. 死线;原稿截止时间;截止期限
+deadlock
+=>=>n. 僵局;停顿@vt.vi. (使)停顿;(使)相持不下
+deadpan
+=>=>a. 无表情的脸
+deadness
+=>=>n. 死;死一样的状态;无生气@NUM@NUM
+deadweight
+=>=>n. 死重;重货

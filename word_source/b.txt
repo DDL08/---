@@ -1,0 +1,414 @@
+backbit
+=>=>vbl. backbite的过去式
+babbler
+=>=>n. 爱唠叨的人
+baal
+=>=>n. 太阳神
+baa
+=>=>n. 羊叫声@vi. 叫
+b
+=>=>n. 字母B
+babbitt
+=>=>n. 市侩
+baas
+=>=>n. 老板
+baalism
+=>=>n. 巴尔神崇拜;偶像崇拜
+bab
+=>=>n. Barbara 的昵称
+babble
+=>=>vi. 呀呀学语;喋喋不休@vt. 唠叨;吐露
+baccalaureate
+=>=>n. 学士学位;告别讲话
+baby
+=>=>n. 婴孩
+baboon
+=>=>n. 狒狒
+babel
+=>=>n. 巴别塔
+babe
+=>=>n. 小孩;缺乏经验的人
+baboo
+=>=>n. 先生
+babs
+=>=>n. 瞎盲接近指标系统
+babouche
+=>=>n. 无后鞋跟的套鞋;拖鞋
+babushka
+=>=>n. 头巾
+babylonia
+=>=>n. 巴比伦尼亚
+babyish
+=>=>a. 幼稚的;稚气的;愚蠢的
+babyhood
+=>=>n. 婴儿时代;婴儿;幼稚
+babylon
+=>=>n. 巴比伦;罪恶
+babysit
+=>=>v. 临时替人看顾小孩
+babylonian
+=>=>a. 巴比伦的;罪恶的
+bacca
+=>=>n. 浆果
+bachelorhood
+=>=>n. 独身;独身生活
+bacchic
+=>=>a. 酒神的;酒醉的;喧闹的
+bacchanalian
+=>=>a. 酒神节的;狂饮作乐的@n. 发酒疯的人
+bacchanal
+=>=>a. 酒神的;酒神节的;发酒疯的@n. 酒神的信徒;狂饮作乐;酒神节
+bacchantic
+=>=>a. 崇拜酒神的;狂饮作乐的
+bach
+=>=>n. bachelor 之略语@vi. 过独身生活
+bacchus
+=>=>n. 酒神
+bachelor
+=>=>n. 单身汉;学士
+bacillus
+=>=>n. 杆状菌;细菌
+bacili
+=>=>n.pl. 细菌;杆菌
+bachelorship
+=>=>n. 独身;学士资格
+bacilli
+=>=>n. 杆菌
+backache
+=>=>n. 背痛
+back
+=>=>a. 后面的@vt. 后退;支持@vi. 倒退;背靠@ad. 向后地@n. 背部;后面
+backbencher
+=>=>n. 后座议员
+bakery
+=>=>n. 面包店
+backwater
+=>=>n. 死水;滞水;停滞;回水
+backlit
+=>=>n. 背光式
+backer
+=>=>n. 援助者;支持者
+backbone
+=>=>n. 脊椎;志气;骨干;支柱
+backbitten
+=>=>vbl. backbite的过去分词
+backbiter
+=>=>n. 背后诽谤者
+backbite
+=>=>vt.vi.n. 背后诽谤;背后中伤
+backbiting
+=>=>n. 诽谤;中伤
+backboard
+=>=>n. 后板;背板;靠背板;篮板
+backdoor
+=>=>a. 秘密的
+backchat
+=>=>n. 回嘴;顶嘴;诙谐的交谈
+backbreaking
+=>=>a. 非常辛劳的
+backdate
+=>=>vt. 回溯
+backdrop
+=>=>n. 背景幕;背景
+backhand
+=>=>n. 反手拍;反手抽击;左斜体@v. 反手抽击
+backgammon
+=>=>n. 西洋双陆棋戏
+backfill
+=>=>vt. 装填
+backfall
+=>=>n. 将对方压制倒地背着垫子以取胜的手法
+backfire
+=>=>n. 逆火;回火;放火@vi. 放逆火;预先放火;发生意外
+background
+=>=>n. 背景@n. 背景;后台
+backlash
+=>=>n. 反斜线;后座
+backing
+=>=>n. 衬背;后援;支持者
+backhanded
+=>=>a. 反手拍击的;间接的
+backkward
+=>=>ad. 向后地
+backlist
+=>=>n. 库存书籍目录@vt. 列入重版目录
+backspace
+=>=>vi. 退后一格@n. 退格
+backseat
+=>=>n. 后座;次要位置
+backroom
+=>=>a. 在密室中的
+backpack
+=>=>v. 挑运;n. 挑运
+backmost
+=>=>a. 最后面的
+backrest
+=>=>n. 靠背
+backscatter
+=>=>n. 反散射
+backslap
+=>=>vt.vi. 拍背以示友好
+backside
+=>=>n. 背部;背后;后方
+backslidden
+=>=>vbl. backslide的过去分词
+backslid
+=>=>vbl. backslide的过去式
+backslide
+=>=>vi.n. 堕落;退步;背离宗教
+backtalk
+=>=>n. 工作联络交谈
+backstitch
+=>=>n. 倒缝@vt.vi. 倒缝
+backstairs
+=>=>n. 后面楼梯;厨房门@a. 诡密的;秘密的
+backstage
+=>=>ad. 在后台;向后台
+backstay
+=>=>n. 后部撑物
+backstroke
+=>=>n.vi. 还击;反手拍击;仰泳@vt. 用反手击
+backstop
+=>=>n. 挡球网;捕手
+backswing
+=>=>n. 背向摆动
+backward
+=>=>ad.a. 向后地(的);相反地(的)
+backtracking
+=>=>n. 回索
+backtrack
+=>=>vi. 返回;退走;撤退;放弃
+backup
+=>=>n. 后援;支持;阻赛@vt. 做备份@a. 候补的;支持性的@n. 备份@n. DOS命令:备份;将文件从一个磁盘复制到另一个磁盘上
+backwards
+=>=>ad. 向后
+backwardation
+=>=>n. 交割延期费
+backwash
+=>=>n. 以橹反推的水;浪涛;逆流;反响
+baggage
+=>=>n. 行李
+bade
+=>=>vbl. bid的过去式
+bactericide
+=>=>n. 杀菌剂
+bacon
+=>=>n. 熏猪肉
+backwoodsman
+=>=>n. 住在边远地区的人
+backwoods
+=>=>n. 未开垦地;边远地区的人
+backyard
+=>=>n. 后院;后庭
+bacterial
+=>=>a. 细菌的
+bacteria
+=>=>n. 细菌
+bactericidal
+=>=>a. 杀菌的
+bacteriophage
+=>=>n. 抗菌素
+bacteriologist
+=>=>n. 细菌学家
+bacteriological
+=>=>a. 细菌学的;细菌学上的
+bacteriology
+=>=>n. 细菌学
+bacteroid
+=>=>n. 假细菌@a. 细菌状的
+bacterium
+=>=>n. 细菌
+bad
+=>=>a. 坏的
+baedeker
+=>=>n. 旅行指南;入门手册
+badly
+=>=>ad. 严重地;恶劣地;极度地
+badger
+=>=>n. 獾;獾皮毛@vt. 纠缠
+badge
+=>=>n. 半自动防空警戒管制组织;徽章;标记
+badland
+=>=>n. 荒地
+badmintoon
+=>=>n. 羽毛球
+badminton
+=>=>n. 羽毛球
+badness
+=>=>n. 坏;恶;不良
+bagasse
+=>=>n. 甘蔗渣
+baffling
+=>=>a. 阻碍的;使困惑的;不可理解的
+baffle
+=>=>vt. 困惑;为难;使挫折@vi. 徒作挣扎@n. 迷惑;挡板
+bag
+=>=>n. 袋子;袋状物@vt. 装袋;猎获
+bagel
+=>=>n. 炸圈型的硬面包
+bagatelle
+=>=>n. 琐事;小事;弹子球戏的一种
+bagful
+=>=>n. 满口袋
+bailable
+=>=>a. 可保释的;可交保的
+bagpipe
+=>=>n. 风笛
+baggy
+=>=>a. 袋状的;松垂的
+bagger
+=>=>n. 装袋工;垒打
+bagged
+=>=>a. 松弛下垂的
+bagging
+=>=>n. 装袋;制袋材料
+bagman
+=>=>n. 推销员;中间人
+baghdad
+=>=>n. 巴格达
+bagnio
+=>=>n. 意大利或土耳其的澡堂;牢狱;妓院
+bah
+=>=>int. 呸!
+bagwig
+=>=>n. 袋装假发
+bagpiper
+=>=>n. 吹风笛的人;风笛手
+bagworm
+=>=>n. 结草虫
+baht
+=>=>n. 泰国货币单位
+bahaism
+=>=>n. 大同教;一种穆斯林教派
+bail
+=>=>n. 保释;把手;杓;桶箍;栅栏@vt. 保释;汲水;舀水@vi. 跳伞
+bairn
+=>=>n. 小孩
+bailiwick
+=>=>n. 执行官之职;范围
+bailie
+=>=>n. 市参事会员
+bailee
+=>=>n. 守托者
+bailiff
+=>=>n. 执行官;法庭监守;镇长
+bailor
+=>=>n. 寄托人
+bailment
+=>=>n. 寄托;保释
+bailsman
+=>=>n. 保释保证人
+bake
+=>=>vt. 烘焙;烤@vi. 烤面包@n. 烘焙;烤
+baize
+=>=>n. 厚羊毛毯;粗呢
+bait
+=>=>n. 饵@vt. 以饵引诱;欺负@vi. 中途休息
+bak
+=>=>n. DOS文件扩展名:备份文件
+bakelite
+=>=>n. 人造树胶;胶木
+baked
+=>=>adj. 烘焙的
+baker
+=>=>n. 面包师
+balladeer
+=>=>n. 民谣歌手
+baldly
+=>=>ad. 率直地;露骨地;无隐饰地
+balancer
+=>=>n. 秤称的人;平衡器;走绳索者
+balalaika
+=>=>n. 俄式三弦琴
+baking
+=>=>n. 烘焙;一次烘焙的量
+bakeshop
+=>=>n. 面包厂;西点面包店
+balaam
+=>=>n. 不可靠的预言人;补白
+balance
+=>=>n. 平衡;差额@vi. 平衡;相等@vt. 称;权衡;比较;使平衡;结算;抵消
+balame
+=>=>n. 平衡;平平;v. 平衡
+balanced
+=>=>adj. 均衡
+bald
+=>=>a. 秃头;光秃的;单调的;赤裸的
+balbriggan
+=>=>n. 棉织物的一种;棉质袜子
+balboa
+=>=>n. 巴拿马的银币
+balcony
+=>=>n. 阳台;包厢
+balderdash
+=>=>n. 胡言乱语;梦呓
+baldachin
+=>=>n. 织锦;天盖;庙盖
+baldhead
+=>=>n. 秃头的人;鸽的一种
+bali
+=>=>n. 巴里岛
+bale
+=>=>n. 包;捆;货物;灾难@vt. 打包;捆包;包装
+baldpate
+=>=>n. 秃头的人
+baldness
+=>=>n. 光秃;率直;枯燥
+baldric
+=>=>n. 佩饰;肩带
+balefire
+=>=>n. 大野火;烽火;焚化尸体的火
+baleen
+=>=>n. 鲸须
+baleful
+=>=>a. 有害的;恶意的
+balkanize
+=>=>vt. 分割成小国;使割据
+balk
+=>=>n. 障碍;错误;失败@vt. 阻止;突然停止;退缩@vi. 逡巡不前
+balinese
+=>=>a. 巴里岛的;巴里语的@n. 巴里语
+balkan
+=>=>a. 巴尔干半岛的
+ball
+=>=>n. 球;舞会;球状物@vt.vi. 捏成球形
+balky
+=>=>a. 停蹄不前的
+ballad
+=>=>n. 歌谣
+ballroom
+=>=>n. 舞厅;跳舞场
+ballistics
+=>=>n. 弹道学;发射学
+ballet
+=>=>n. 芭蕾舞
+ballast
+=>=>n. 压载物;压舱物
+balladry
+=>=>n. 民谣
+ballerina
+=>=>n. 芭蕾舞女
+balletically
+=>=>ad. 芭蕾舞一般地
+balletic
+=>=>a. 象芭蕾舞的
+ballistic
+=>=>a. 弹道的
+ballot
+=>=>n. 投票;投票用纸;抽签@vi. 不记名投票;抽签@vt. 投票选出;拉选票
+balloon
+=>=>n. 气球@vt. 使成气球状@vi. 膨胀如气球;激增
+ballonet
+=>=>n. 小气囊
+ballooning
+=>=>adj. 膨胀的
+ballottement
+=>=>n. 触诊子宫检胎法
+ballotage
+=>=>n. 决选投票
+ballproof
+=>=>a. 子弹打不穿的;防弹的
+bally
+=>=>a. 可厌的;非常;极@ad. 可厌地;非常地;极
+ballute
+=>=>n. 减速气球

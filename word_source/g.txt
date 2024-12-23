@@ -1,0 +1,262 @@
+gaily
+=>=>ad. 华丽地;欢乐地
+gabfest
+=>=>n. 冗长的谈话
+gabber
+=>=>n. 唠叨的人
+gab
+=>=>n. 饶舌;爱说话;多嘴@vi. 空谈;瞎扯;唠叨
+g
+=>=>n. 字母g
+gabardine
+=>=>n. 一种斜纹防水布料;华达呢;一种宽松的长袍
+gabby
+=>=>a. 饶舌的
+gabble
+=>=>vi. 七嘴八嘴地说;喋喋不休地说@vt. 急促地说@n. 急促讲出而叫人听不清说的话@NUM
+gaberdine
+=>=>n. 工作服;华达呢
+gadolinium
+=>=>n. 金属名
+gadarene
+=>=>a. 朝下的;猛冲的
+gad
+=>=>vi. 闲逛;游荡;蔓延@vt. 用铁棒刺@n. 游荡;錾;尖头棒@int. 表示轻微的咒骂或惊讶;God 的变形
+gabled
+=>=>a. 有山形墙的;人字板制作的
+gable
+=>=>n. 山形墙;人字板
+gabriel
+=>=>n. 七大天使之一
+gadabout
+=>=>n. 游荡者@a. 游荡的
+gadgetry
+=>=>n. 小配件;小玩意
+gadget
+=>=>n. 小配件;小玩意;诡计
+gadfly
+=>=>n. 形似苍蝇;牛蝇;讨厌的人
+gadgeteer
+=>=>n. 摆弄小玩意的人
+gadgety
+=>=>a. 小配件的;小玩意的;爱搞小发明的
+gag
+=>=>n. 箝口物;箝制言论;讨论终结@vt. 使窒息;使呕吐;压制言论自由;插科打浑;欺骗@vi. 窒息;作呕;欺骗;插科打浑
+gaffe
+=>=>n. 过失;失态;出丑
+gaelic
+=>=>n. 盖尔语@a. 爱尔人的
+gael
+=>=>n. 盖尔人
+gaff
+=>=>n. 鱼叉;斜桁;鸡脚上的铁爪@vt. 用鱼叉捉;用鱼钩拖上来;欺骗
+gaffer
+=>=>n. 乡下老头;老人;领班;照明工
+gaggle
+=>=>n. 鹅群;一群@vi. 嘎嘎地叫
+gage
+=>=>n. 抵押品;挑战@vt. 以...为担保;以...为赌注;@n. 标准度量;计量器@vt. 精确计量;估计
+gaga
+=>=>a. 老朽的;狂热的
+gagger
+=>=>n. 塞住别人的口;笑料的作者;善于插科打浑的喜剧演员
+gagster
+=>=>n. 笑料的作者;善于插科打浑的喜剧演员
+gagman
+=>=>n. 笑料的作者;善于插科打浑的喜剧演员
+gaiety
+=>=>n. 愉快;快活;高兴
+galvanometric
+=>=>a. 检流计的
+gallic
+=>=>a. 五倍子的
+galaxy
+=>=>n. 银河;星系;一群显赫的人物
+gait
+=>=>n. 步法;步态@vt. 训练...的步法
+gainer
+=>=>n. 获得者;得利者;胜利者
+gainable
+=>=>a. 可得到的
+gain
+=>=>n. 增益;获得;利润;收获;增加;腰槽@vt. 得到;增进;赚到;开腰槽于@vi. 获利;增加
+gained
+=>=>v. 得到;增进;获得;vbl. 得到;增进;获利
+gainly
+=>=>a. 姿态优美的
+gainful
+=>=>a. 有利益的;唯利是图的
+gainsay
+=>=>vt. 否定;反驳
+galactic
+=>=>a. 银河的;乳汁的;极大的
+gal
+=>=>n. 可编程逻辑阵列@n. 女孩
+gaiter
+=>=>n. 绑腿;长统橡胶靴
+gala
+=>=>n. 祭日;节日;祝贺
+galatea
+=>=>n. 白底蓝直条的上等棉布
+galahad
+=>=>n. 亚瑟王的圆桌武士之一人;高洁之士
+galatia
+=>=>n. 古代亚细亚的王国;后为罗马属地
+gallant
+=>=>a. 英勇的;壮丽的;华丽的
+galilean
+=>=>a. 伽利略的;
+galen
+=>=>n. 医师
+gale
+=>=>n. 狂风;大风;定期租金
+galenic
+=>=>a. 医师的
+galipot
+=>=>n. 松脂之一种
+galileo
+=>=>n. 伽利略
+gall
+=>=>n. 胆囊;胆汁;五倍子;苦味;肿痛;恼怒;磨损处@vt. 烦恼;屈辱;磨伤@vi. 被磨伤
+galleries
+=>=>n. 图表种类
+gallantry
+=>=>n. 勇气;豪勇;勇敢的行为
+gallantly
+=>=>ad. 漂亮地;勇敢地;献殷勤地
+gallbladder
+=>=>n. 胆囊
+galley
+=>=>n. 军舰
+gallery
+=>=>n. 走廊;最高楼座;画廊@n. 图库
+gallfly
+=>=>n. 五倍子虫
+galluses
+=>=>n.pl. 吊裤带
+gallnut
+=>=>n. 没食子;五倍子
+gallinipper
+=>=>n. 咬人的虫;大蚊子
+gallimaufry
+=>=>n. 杂凑;搀杂
+gallicism
+=>=>n. 法国语风;法语里的习惯片语
+galling
+=>=>a. 使烦恼的;使焦躁的;难堪的
+gallium
+=>=>n. 镓
+gallinule
+=>=>n. 番鸟
+gallivant
+=>=>vi. 与异性闲荡;闲逛
+gallopade
+=>=>n. 舞蹈之一种;其舞曲
+galloon
+=>=>n. 细绳;纱带
+gallon
+=>=>n. 加仑
+gallop
+=>=>n. 疾驰;飞奔@vi. 飞驰;急速进行;急急忙忙的说@vt. 使飞跑;迅速运输
+gallstone
+=>=>n. 胆石
+gallows
+=>=>n. 绞架;绞刑
+gallus
+=>=>n. 吊裤带
+galvanic
+=>=>a. 流电的;以流电所产的;抽搐的
+galore
+=>=>ad. 丰富地@n. 丰富
+galoot
+=>=>n. 笨人;呆子
+gally
+=>=>vt. 吓唬
+galop
+=>=>n. 快步舞之一种;该舞曲@vi. 跳该舞
+galoshes
+=>=>n. 胶鞋
+galosh
+=>=>n. 橡胶套鞋
+galumph
+=>=>vi. 意气扬扬地走
+galvanize
+=>=>vt. 通电;镀锌;刺激
+galvanist
+=>=>n. 流电学者
+galvanism
+=>=>n. 流电;流电学;电疗法
+galvanization
+=>=>n. 通流电;电镀;镀锌
+galvanizing
+=>=>n. 镀锌
+galvanized
+=>=>n. 镀锌电镀
+galvanometer
+=>=>n. 检流计
+gangling
+=>=>a. 瘦长的
+games
+=>=>n. 竞技
+gambling
+=>=>n. 赌博
+gambian
+=>=>a. 冈比亚的@n. 冈比亚
+gambade
+=>=>n. 马的跳跃;乱跳;恶作剧
+gam
+=>=>n. 鲸鱼群;社交;腿@vi.vt. 社交;联欢
+gambia
+=>=>n. 冈比亚
+gamble
+=>=>n. 冒险@vi.vt. 赌博;孤注一掷
+gambit
+=>=>n. 以取得优势的开局棋法;开始;话题
+gambler
+=>=>n. 赌博的人;赌徒
+gamecock
+=>=>n. 斗鸡
+gambrel
+=>=>n. 踝关节;马脚状的铁钩;复拆屋顶
+gambol
+=>=>n. 跳跃;雀跃;嬉戏@vi. 跳跃;雀跃;耍闹
+game
+=>=>n. 比赛;玩耍;比分;得胜;比赛规则;策略;游戏;野味@vi. 赌博@a. 勇敢的;有胆量的;关于野味的;跛的
+gamely
+=>=>ad. 不屈地;勇敢地
+gamekeeper
+=>=>n. 猎场看守人
+gameness
+=>=>n. 不认输;勇敢
+gammon
+=>=>n. 腌猪后腿;胡说@vt. 腌;欺骗@vi. 胡说;作假@int. 胡说八道!
+gametic
+=>=>adj. 配偶的
+gamester
+=>=>n. 赌博者;赌徒
+gamesmanship
+=>=>n. 搅乱战术
+gamete
+=>=>n. 配偶子
+gaming
+=>=>n. 赌博;赌胜负
+gametophyte
+=>=>n. 配偶体
+gammer
+=>=>n. 老妪;乡下老太婆
+gandhi
+=>=>n. 甘地
+gamy
+=>=>a. 猎物多的;猎鸟的;味道强的;勇敢的
+gamut
+=>=>n. 全音阶;长音阶;全音域
+gander
+=>=>n. 雄鹅;笨人;呆子
+gang
+=>=>n. 队;群;帮@vi. 成群结队;联合在一起@vt. 使分成班组@NUM
+ganef
+=>=>n. 小偷;宵小
+ganger
+=>=>n. 工头;领班;班主
+ganglion
+=>=>n. 神经节;神经中枢;腱鞘瘤

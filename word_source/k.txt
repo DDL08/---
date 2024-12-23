@@ -1,0 +1,254 @@
+keyboard
+=>=>n. 键盘
+kathion
+=>=>n. 阴向离子@NUM
+kabob
+=>=>n. 烤肉
+kaaba
+=>=>n. 建于 Mecca 之回教寺院内的圣堂
+kansan
+=>=>a. 堪萨斯州的@n. 堪萨斯州
+kale
+=>=>n. 无头甘蓝类;甘蓝类蔬菜;甘蓝汤
+kaiser
+=>=>n. 皇帝
+kabyle
+=>=>n. 卡拜尔人;其语言
+kaddish
+=>=>n. 祈祷
+kakapo
+=>=>n. 鹦鹉的一种
+kaka
+=>=>n. 橄榄色鹦鹉之一种
+kakistocracy
+=>=>n. 恶人政治
+kame
+=>=>n. 堆积物;梳篦;刷马的梳子
+kaleyard
+=>=>n. 菜园
+kaleidoscope
+=>=>n. 万花筒
+kalong
+=>=>n. 大蝙蝠
+kanaka
+=>=>n. 夏威夷及南洋群岛的土人
+kamptulicon
+=>=>n. 橡皮地毯
+kangaroo
+=>=>n. 袋鼠
+karate
+=>=>n. 空手道@NUM
+kapok
+=>=>n. 木棉花;木丝棉
+kantian
+=>=>a. 康德的;康德哲学的@n. 康德学派的人
+kansas
+=>=>n. 堪萨斯州
+kaon
+=>=>n. K 中间子@NUM
+karakorum
+=>=>n. 古代蒙古帝国旧都遗迹@NUM
+kappa
+=>=>n. 希腊文字母第 10字@NUM
+karat
+=>=>n. 克拉@NUM
+katabatic
+=>=>a. 下降的@NUM
+kart
+=>=>n. 小型赛车@NUM
+karst
+=>=>n. 石灰岩地区常见的地形
+kasbah
+=>=>n. 城;土民区@NUM
+kate
+=>=>n. Catherine 的昵称@NUM
+kennedy
+=>=>n. 肯尼迪
+keelless
+=>=>a. 无龙骨的;无龙骨瓣的;无龙骨突起的
+kb
+=>=>n. 千字节(1024字节)
+kay
+=>=>n. K 字
+katydid
+=>=>n. 纺织娘
+kayo
+=>=>n. 击倒@vt. 击倒
+kayak
+=>=>n. 爱斯基摩人用的皮船;皮船
+kazoo
+=>=>n. 一种木制或金属制玩具笛子
+keel
+=>=>n. 龙骨;平底船@vt. 装以龙骨;使倾覆@vi. 倾覆
+keck
+=>=>v. 想吐;作呕;极为讨厌
+kea
+=>=>n. 食肉鹦鹉
+kedge
+=>=>vt.vi. 抛小锚移船@n. 小锚
+keelboat
+=>=>n. 一种河船
+keelage
+=>=>n. 停泊税;入港税
+keelhaul
+=>=>vt. 使爬进船底;严责
+kef
+=>=>n. 吸毒后的陶醉状态;采自印度大麻的麻药
+keep
+=>=>n. 生计;维持;保持@vt. 保持;保存;遵守;看守;整理;维持;履行;瞻养;经营;拘留;记帐@vi. 保持;继续不断
+keenly
+=>=>ad. 锐利地;敏捷地;激烈地
+keen
+=>=>a. 锋利的;敏锐的;强烈的;敏捷的;热心的;渴望的@n. 唱挽歌;痛哭@vt.vi. 唱挽歌;痛哭
+keenness
+=>=>n. 锐利;尖锐;敏感
+keeping
+=>=>n. 保管;供养;一致
+keeper
+=>=>n. 监护人;管理人;看守人
+keepsake
+=>=>n. 纪念品
+kelson
+=>=>n. 内龙骨
+kegler
+=>=>n. 保龄球比赛者
+keg
+=>=>n. 小桶
+kelp
+=>=>n. 一种大海草;巨藻;海草灰
+kemp
+=>=>n. 冠军
+kelvin
+=>=>n. 绝对温标;开氏温标
+ken
+=>=>n. 视野范围;知识范围;见地
+kerf
+=>=>n. 劈痕;截口;切口
+kenya
+=>=>n. 肯亚
+kenosis
+=>=>n. 神性放弃
+kenning
+=>=>n. 比喻的复合辞
+kennel
+=>=>n. 狗舍;狗屋;阴沟@vt. 置于狗舍;宿于狗舍@vi. 进狗窝
+keno
+=>=>n. 一种赌博
+kentuckian
+=>=>a. Kentucky 的@n. Kentucky 人
+kent
+=>=>n. 英国东南部州名
+kentucky
+=>=>n. 肯塔基州
+keratitis
+=>=>n. 角膜炎
+kept
+=>=>vbl. keep的过去式和过去分词
+kepi
+=>=>n. 法国军用平顶帽
+keratin
+=>=>n. 角质素
+kerb
+=>=>n. 街头的边石
+keratose
+=>=>a. 角质的@n. 角质物质
+kerchief
+=>=>n. 头巾;围巾;手帕
+ketchup
+=>=>n. 蕃茄酱等
+kerosene
+=>=>n. 煤油;火油;灯油
+kernel
+=>=>n. 核心;中心;精髓@n. 内核
+kern
+=>=>计算机] 紧排
+kerning
+=>=>n. 字距调整
+kestrel
+=>=>n. 一种鹰
+kerry
+=>=>n. 黑色的小乳牛
+ketch
+=>=>n. 一种双桅船
+kettledrum
+=>=>n. 半球形铜鼓;午后茶会
+ketosis
+=>=>n. 酮症
+ketone
+=>=>n. 酮类
+kettle
+=>=>n. 茶壶;罐
+key
+=>=>n. 钥匙;键;解答;关键;要害;基调;线索;答案;暗礁@vt. 调音;锁上;提供线索@vi. 使用钥匙@n. 键
+kevel
+=>=>n. 盘绳栓
+keyage
+=>=>n. 码头使用费
+kickoff
+=>=>n. 开球;开始;肇始
+keyword
+=>=>n. 关键字
+keynoter
+=>=>n. 政党方针的演说人
+keying
+=>=>n. 按键
+keyer
+=>=>n. 电键器
+keyed
+=>=>v. 键入;vbl. 键入
+keyhole
+=>=>n. 键孔;栓孔;锁眼@a. 显示内情的
+keymaker
+=>=>n. 一种加密软件
+keyless
+=>=>a. 无键的;转柄上发条的
+keynote
+=>=>n. 主调音;基音;基调@vt. 说明基本政策;定基调
+keystoke
+=>=>n. 按键
+keypunch
+=>=>vi. 用打孔机打孔
+keypad
+=>=>n. 键区
+keyset
+=>=>n. 键盘
+keystroke
+=>=>n. 键击
+keystone
+=>=>n. 拱心石;楔石;重点
+keyway
+=>=>n. 扁形钥孔;键沟
+kibble
+=>=>vt. 粗磨
+khanate
+=>=>n. 可汗的领土;可汗的地位
+khaki
+=>=>a. 卡其色的;土黄色的@n. 卡其色;卡其色军服
+keywords
+=>=>n. 关键字
+khan
+=>=>n. 可汗;商队的宿店
+khrushchev
+=>=>n. 赫鲁晓夫
+khedive
+=>=>n. 埃及总督
+kiangsu
+=>=>pla. 江苏
+kibosh
+=>=>n. 胡说
+kibe
+=>=>n. 冻疮;蹦裂
+kibbutz
+=>=>n. 以色列的集体农场
+kibitz
+=>=>vi. 管闲事;乱插嘴@vt. 乱提意见
+kickback
+=>=>n. 回答;反扑;退还
+kick
+=>=>n. 踢;反冲;后座力;凹底@vi. 踢;反抗;反冲@vt. 踢;朝...反冲
+kicker
+=>=>n. 踢者;善踢的人;爱踢的马
+kid
+=>=>n. 小山羊;小山羊肉;小孩;欺骗@a. 小山羊皮制的@vt.vi. 哄骗;嘲弄
+kickup
+=>=>n. 骚动

@@ -1,0 +1,274 @@
+illness
+=>=>n. 疾病;生病
+ibg
+=>=>n. 数据块间隔
+iambus
+=>=>n. 抑扬格;短长格
+iaia
+=>=>n. 亚亚线
+iberian
+=>=>a. 伊比利亚的@n. 伊比利亚人;古代伊比利亚人
+iber
+=>=>n. 纤维
+ibex
+=>=>n. 野生山羊
+ideology
+=>=>n. 观念学;空论;意识形态;思想
+iconic
+=>=>计算机] 图标的
+iceland
+=>=>n. 冰岛
+iceberg
+=>=>n. 冰山;冷冰冰的人
+ibm
+=>=>n. IBM;国际事务机器股份有限公司@n. 美国国际商用机器公司
+ibid.
+=>=>n. 的简写
+ibid
+=>=>ad. 同前;如上
+ibis
+=>=>n. 朱鹭
+icc
+=>=>n. 国际计算中心
+ic
+=>=>n. 指令计数器;集成电路
+ice
+=>=>n. 冰;冰淇淋;糖衣;冷若冰霜;矜持;贿赂@vt. 冰冻;覆以糖衣@vi. 结冰
+icebreaker
+=>=>n. 碎冰船;破冰设备
+icebound
+=>=>a. 冰封的;被冰封冻着的
+iceboat
+=>=>n. 冰上滑行船;碎冰船
+icebox
+=>=>n. 冷藏库;冰箱
+icefall
+=>=>n. 冰布;冰崩
+icecream
+=>=>n. 冰淇淋
+icehouse
+=>=>n. 冰库;冰室
+ichthyophagous
+=>=>a. 常吃鱼的
+ichor
+=>=>n. 灵液;恶臭脓;脓水
+icelandic
+=>=>a. 冰岛的;冰岛人的@n. 冰岛语
+icelander
+=>=>n. 冰岛人
+icerink
+=>=>n. 室内滑冰场
+ichthyoid
+=>=>a. 成鱼形的@n. 鱼状的动物
+ichorous
+=>=>a. 脓水的
+ichthyologist
+=>=>n. 鱼类学者;鱼类研究者
+iciness
+=>=>n. 冰冷;寒冷;如冰
+icicle
+=>=>n. 垂冰;冰柱;冷冰冰的人
+ichthyosaur
+=>=>n. 鱼龙
+icily
+=>=>ad. 冷冰冰地
+icky
+=>=>a. 过粘的;过甜的;讨厌的@n. 令人讨厌的人
+icing
+=>=>n. 糖衣;结冰
+icon
+=>=>n. 圣像;画像;肖像;偶像;图标@n. 像标
+idealization
+=>=>n. 理想化;理想化的事物
+idahoan
+=>=>a. 爱达荷州的@n. 爱达荷州人
+ictus
+=>=>n. 强音;扬音;急发症状
+iconoclast
+=>=>n. 偶像破坏者;提倡打破旧习的人
+iconoclasm
+=>=>n. 破坏偶像;破坏偶像主义;打破旧习
+iconoclastic
+=>=>a. 偶像破坏的;打破旧习的
+id
+=>=>n. 遗传素质;本能冲动@n. 身分证
+icy
+=>=>a. 冰的;冰冷的;冷淡的;滑溜的
+idaho
+=>=>n. 爱达荷
+idealistic
+=>=>a. 唯心论的;唯心主义的唯心主义者的
+ideal
+=>=>n. 理想;观念;思想;最后目标@a. 理想的;完美的;空想的;观念的;唯心论的
+idea
+=>=>n. 主意;办法;理想;思想;概念;意见
+idealist
+=>=>n. 理想主义者;唯心主义者@a. 唯心论的;理想主义的
+ideality
+=>=>n. 理想;虚构的事物;想象力
+identifiable
+=>=>a. 可以确认的
+idealway
+=>=>n. 郎道公司;郎道词典
+idealize
+=>=>vt. 使理想化@vi. 理想化;形成思想;描述理想
+idemnify
+=>=>v. 赔长
+ideate
+=>=>vi. 形成概念;想象@vt. 对...形成概念
+identical
+=>=>a. 同一的;恒等的;完全相同的@NUM
+identify
+=>=>vt. 识别;认明;鉴定;使等同于@vi. 一致;变成一致
+identified
+=>=>pp. 识别
+identification
+=>=>n. 视为同一;证明同一;确认
+identifier
+=>=>n. 检验人@n. 标识符
+ideological
+=>=>a. 观念学的;空论的;意识形态的
+identity
+=>=>n. 相同;身分;一致;特性;恒等式
+ideologist
+=>=>n. 思想家
+ignoble
+=>=>a. 卑贱的;卑鄙的;不名誉的
+idolater
+=>=>n. 偶像崇拜者;崇拜者;皈依者
+idiot
+=>=>n. 白痴;极蠢之人
+idiomatically
+=>=>ad. 使用惯用语句;惯用地
+idiom
+=>=>n. 成语;惯用语法;方言
+idiocy
+=>=>n. 白痴;白痴的行为
+idiomatic
+=>=>a. 惯用的;通顺的
+idiosyncrasy
+=>=>n. 特质;特性
+idiopathy
+=>=>n. 原发症
+idiosyncratic
+=>=>a. 特质的;异质的;特殊的
+idler
+=>=>n. 懒惰者;游手好闲的人;惰轮
+idle
+=>=>a. 懒惰的;闲散的;停顿的;空闲的;无用的@vi. 不作事;闲散;浪费;空转@vt. 虚度;使空闲;使空转@n. 空闲时间
+idiotic
+=>=>a. 白痴的;愚蠢的;呆头呆脑的
+idleness
+=>=>n. 懒惰;闲散;失业
+idly
+=>=>ad. 懒惰地;空闲地
+idlesse
+=>=>n. 空闲;懒散
+idol
+=>=>n. 偶像;崇拜物;幻象;谬论
+if
+=>=>conj. 如果;是否;假设;即使@n. 条件@n. DOS命令:测试并确定某特定条件真伪;若真则执行;否则忽略
+idolize
+=>=>vt. 偶像化;极端崇拜;醉心于@vi. 崇拜偶像
+idolatry
+=>=>n. 偶像崇拜;邪神崇拜;盲目的崇拜
+idolatrous
+=>=>a. 崇拜偶像的;盲目崇拜的
+idolization
+=>=>n. 偶像化;盲目的崇拜;醉心
+idyllic
+=>=>a. 田园诗的;牧歌的;悠闲的
+idolum
+=>=>n. 幻象;谬论
+ieee
+=>=>n. 美国电气及电子工程师学会
+ignite
+=>=>vt. 点燃;使灼热;使兴奋
+igloo
+=>=>n. 圆顶建筑
+ifcs
+=>=>n. 国际计算机科学联合会
+igneous
+=>=>a. 火的;似火的;火成的
+ignitor
+=>=>n. 一发火器
+ignition
+=>=>n. 点火;点燃;点火
+ignitron
+=>=>n. 水银半波整流管
+ilium
+=>=>n. 肠骨
+ignored
+=>=>v. 忽略;忽视;不重视;vbl. 忽略;忽视
+ignoramus
+=>=>n. 不学无术的人;无知识的人
+ignominious
+=>=>a. 可耻的;不名誉的;下流的
+ignobly
+=>=>ad. 卑贱地;下流地
+ignominy
+=>=>n. 耻辱;不名誉;不体面
+ignorant
+=>=>a. 无知识的;不知道的;幼稚的
+ignorance
+=>=>n. 无知;不知
+ignore
+=>=>vt.不理睬;忽视;驳回@v. 忽略
+ike
+=>=>n. 艾克
+ii
+=>=>no. 第二
+iguana
+=>=>n. 鬣蜥
+iii
+=>=>no. 第三
+ilex
+=>=>n. 冬青属;冬青斛
+ileum
+=>=>n. 回肠
+iliac
+=>=>a. 肠骨的
+illegitimate
+=>=>a. 不法的;非嫡出的;庶生的;不合理的;不符合习惯的@n. 非嫡出子;庶子@vt. 认为违法;认做私生子
+illegality
+=>=>n. 非法行为;犯规
+ill
+=>=>n. 疾病;坏事;罪恶;灾难@a. 生病的;邪恶的;要吐的;不良的;不顺利的;麻烦的@ad. 有害地;不幸地;不充分
+ilk
+=>=>a. 相同的@n. 家族;亲属;种类
+illegal
+=>=>a. 违法的;不合规定的
+illegibly
+=>=>ad. 难读地;暧昧地
+illegible
+=>=>a. 难辨认的;字迹模糊的
+illegitimacy
+=>=>n. 不法;私生;不合逻辑
+illimitable
+=>=>a. 无限的;无边际的
+illiberal
+=>=>a. 无教养的;吝啬的
+illegitimation
+=>=>n. 认为不法;认为非嫡出子
+illicit
+=>=>a. 不法的;不正的;禁止的
+illiteracy
+=>=>n. 文盲
+illinois
+=>=>n. 伊利诺州
+illiterate
+=>=>n. 文盲@a. 目不识丁的;没受教育的
+illumination
+=>=>n. 照明;阐明;启发
+illuminance
+=>=>n. 照明度
+illogicality
+=>=>n. 不合理;不和逻辑;矛盾
+illogical
+=>=>a. 不合逻辑的;不合理的
+illume
+=>=>vt. 照明;点亮;启发
+illuminate
+=>=>vt. 照明;阐明;说明;使灿烂;用灯装饰@vi. 照亮
+illuminant
+=>=>a. 发光的@n. 光源;发光体

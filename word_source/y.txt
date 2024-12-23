@@ -1,0 +1,200 @@
+yeastiness
+=>=>n. 发酵;起泡;不安
+yam
+=>=>n. 山药;洋芋
+yager
+=>=>n. 狙击兵
+yacht
+=>=>n. 游艇@vi. 驾游艇;乘游艇
+yabber
+=>=>n. 饶舌
+yachtsman
+=>=>n. 游艇驾驶者;游艇所有者
+yak
+=>=>n. 牦牛;饶舌;废话;能帮忙的朋友@vi. 饶舌;流畅的说
+yah
+=>=>int. 表示不愉快;嘲笑之声音
+yale
+=>=>n. 耶鲁
+yarrow
+=>=>n. 西洋蓍草
+yapped
+=>=>a. 卷边装钉的
+yank
+=>=>vt.vi.n. 猛拉
+yammer
+=>=>vi. 叹息;哭泣@vt. 抱怨@n. 哭诉;无聊话
+yamaha
+=>=>n. 雅马哈(山叶)商标
+yang
+=>=>n. 杨
+yannigan
+=>=>n. 一个队的第二班球手
+yankee
+=>=>n. 美国人
+yap
+=>=>vi. 狂吠;唠叨;吵嚷@n. 狂吠;狂吠声;废话;无赖
+yards
+=>=>n. 码
+yardarm
+=>=>n. 桁端
+yard
+=>=>n. 码;庭院;工作场
+yardmaster
+=>=>n. 调车长;场内管理主管
+yare
+=>=>a. 敏捷的;灵敏的
+yardstick
+=>=>n. 码尺;准绳
+yarn
+=>=>n. 纱;纱线;故事
+year
+=>=>n. 年;年度;年龄
+yawn
+=>=>n. 哈欠@vi. 打哈欠;张口@vt. 打着哈欠说
+yaw
+=>=>vi. 偏航@n. 偏航;侧滑
+yashmak
+=>=>n. 双重面纱;面纱
+yawl
+=>=>n. 船载小艇;舰载杂用船;一种小帆船
+yclept
+=>=>a. 名叫...的
+yawp
+=>=>vi. 大声叫嚷;大声喊叫;说反对的话@n. 叫声;喊声;喧闹;不满意
+yea
+=>=>n. 肯定;赞成;赞成票
+yearn
+=>=>vi. 渴望;想念;怀念
+yearling
+=>=>n. 一岁崽
+yearbook
+=>=>n. 年鉴
+yearly
+=>=>a. 每年的@ad. 每年
+years
+=>=>n. 年
+yearning
+=>=>n. 渴念;热念@a. 热望的;渴望的;怀念的;向往的
+yeast
+=>=>n. 酵母;发酵粉
+yonder
+=>=>a. 那边的@ad. 在那边@pron. 那边
+yeti
+=>=>n. 雪人
+yeltsin
+=>=>pn. 叶尔钦
+yellow
+=>=>n. 黄色@a. 黄色的
+yegg
+=>=>n. 抢劫金库者;强盗
+yeasty
+=>=>a. 酵母的;会发酵的;起泡沫的
+yell
+=>=>vi. 大叫;忍不住笑@vt. 叫着说@n. 叫声;喊声
+yellowlegs
+=>=>n. 黄足鹞
+yellowish
+=>=>a. 微黄色的
+yelp
+=>=>n. 叫吠;叫喊声@vi. 叫吠;叫喊@vt. 叫喊着说
+yerba
+=>=>n. 巴拉圭茶
+yeoman
+=>=>n.pl. 自耕农;仆人
+yen
+=>=>n. 日圆;瘾@vi. 渴望
+yeomen
+=>=>n. 自耕农
+yesterday
+=>=>n. 昨天@ad. 昨天
+yes
+=>=>ad. 是的;是@n. 是;同意@vt.vi. 同意
+yet
+=>=>ad. 仍然;已经;然而@conj. 然而
+yodel
+=>=>n. 岳得尔歌@vt. 用岳得尔歌调唱@vi. 唱岳得尔歌
+yielding
+=>=>a. 屈从的;柔顺的;生产的
+yid
+=>=>n. 犹太人
+yew
+=>=>n. 紫杉;水松
+yield
+=>=>n. 生产量;投资收益@vt. 生产;给予;同意;被迫放弃;放纵@vi. 出产;屈服;投降;同意
+yippee
+=>=>int. 开心;快乐等时叫起来的感叹词
+yip
+=>=>n. 犬吠;叫喊@vi. 犬吠;叫喊
+yock
+=>=>n. 大笑
+yokefellow
+=>=>n. 同事;配偶;伙伴
+yoghurt
+=>=>n. 酸乳酪
+yoga
+=>=>n. 瑜珈
+yoke
+=>=>n. 轭;牛轭;束缚@vt. 给...上轭;连接;结合;使成配偶@vi. 结合;配合
+yokohama
+=>=>pla. 横滨
+yokemate
+=>=>n. 同事;配偶;伙伴
+yolk
+=>=>n. 蛋黄
+ytterbia
+=>=>n. 氧化镱
+yours
+=>=>pron. 你的;你们的
+younger
+=>=>n. 年纪较小者@a. 较年轻的
+you
+=>=>pron. 你;你们
+yorker
+=>=>n. 投出恰好落于球拍下面之球
+young
+=>=>a. 年轻的;无经验的;朝气蓬勃的@n. 青年们;崽;仔
+youngster
+=>=>n. 年青人;少年
+youngling
+=>=>n. 年轻人;新手@a. 年轻的
+your
+=>=>pron. 你的;你们的
+youthful
+=>=>a. 年轻的;青年的
+yourselves
+=>=>pron.pl. 你们自己
+yourself
+=>=>pron. 你自己
+youth
+=>=>n. 年轻人;年轻;青年;青春
+yow
+=>=>int. 痛苦;惊讶时所发出的叫声
+youths
+=>=>n. 青少年
+yowl
+=>=>n. 号叫;吼声@vi. 号叫;吼
+yufa
+=>=>n. 河南省豫发电脑公司
+yttric
+=>=>a. 钇的;含钇的
+ytterbium
+=>=>n. 镱
+ytterbic
+=>=>a. 含有镱的
+yttria
+=>=>n. 氧化钇
+yuan
+=>=>n. 元
+yttrium
+=>=>n. 钇;稀有金属元素;符号Y
+yucca
+=>=>n. 丝兰
+yurt
+=>=>n. 圆顶帐篷
+yuletide
+=>=>n. 圣诞季节
+yule
+=>=>n. 耶稣圣诞节;圣诞季节
+yummy
+=>=>a. 舒适的;愉快的;美味的

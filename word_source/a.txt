@@ -1,0 +1,406 @@
+abraham
+=>=>n. 亚伯拉罕
+abhenry
+=>=>n. 绝对亨利
+abb
+=>=>n. 横丝;纬;羊毛
+abandonee
+=>=>n. 被遗弃者;被委付者
+aback
+=>=>ad. 向后地;朝后地
+aasvogel
+=>=>n. 秃鹰之一种
+aardvark
+=>=>n. 土猪
+a
+=>=>n. 字母a
+aardwolf
+=>=>n. 土狼
+abaci
+=>=>n. 算盘
+abaft
+=>=>ad. 向船尾@prep. 在...后
+abacus
+=>=>n. 算盘
+abandon
+=>=>vt. 放弃;沉溺@n. 放任
+abalone
+=>=>n. 鲍鱼
+abandoned
+=>=>a. 被抛弃的;自弃的;自甘堕落的
+abash
+=>=>vt. 使...羞愧;使困窘
+abandonment
+=>=>n. 放弃;自暴自弃;放纵
+abandoner
+=>=>n. 遗弃者;委付者
+abase
+=>=>vt. 降低...的地位;降低...的品格;贬抑
+abas
+=>=>vt. 打倒
+abasement
+=>=>n. 贬抑;屈辱;谦卑
+abate
+=>=>vt. 缓和;减弱;减少;废除@vi. 缓和;减弱;减少
+abashment
+=>=>n. 羞愧;
+abatis
+=>=>n. 鹿柴;拒木;铁丝网
+abatement
+=>=>n. 减少;减轻;缓和
+abatment
+=>=>n. 消除，减除
+abdominal
+=>=>a. 腹部的;腹式呼吸;开腹手术
+abbreviation
+=>=>n. 缩写
+abbess
+=>=>n. 女修道院院长;女庵主持
+abbatial
+=>=>a. 大修道院的;大修道院长的;女大修道院长的
+abbacy
+=>=>n. 大修道院院长之职位;管区;任期
+abbe
+=>=>n. 大修道院院长;僧侣;神父
+abbot
+=>=>n. 修道院院长;方丈;住持
+abbey
+=>=>n. 修道院
+abbreviate
+=>=>vt. 缩写;使...简略;缩短
+abdicate
+=>=>vt. 放弃@vi. 逊位
+abc
+=>=>n. 基础知识;美国广播公司;澳大利亚广播公司
+abbreviator
+=>=>n. 缩写者
+abcoulomb
+=>=>n. 绝对库伦
+abdicator
+=>=>n. 放弃者;让位者
+abdication
+=>=>n. 逊位;弃权;辞职
+abdomen
+=>=>n. 腹部
+abelmosk
+=>=>n. 秋葵
+abe
+=>=>n. 亚伯;Abraham 的昵称
+abduction
+=>=>n. 诱拐
+abduct
+=>=>vt. 诱拐;绑走
+abductor
+=>=>n. 诱拐者
+abecedarian
+=>=>n. 初学者@a. 字母的;初步的
+abeam
+=>=>ad. 与船的龙骨成直角
+abed
+=>=>ad. 在床上
+abestrine
+=>=>adj. 石棉的
+aberrant
+=>=>a. 脱离正道的;脱离常轨的;变体的
+aberrance
+=>=>n. 脱离正道;越轨;脱离常轨
+aberration
+=>=>n. 越轨;光行差;心理失常;色差
+abeyance
+=>=>n. 中止;暂搁;停止
+abet
+=>=>vt. 教唆;帮助
+abfarad
+=>=>n. 绝对法拉
+abode
+=>=>n. 住所;住处
+ablating
+=>=>adj. 烧蚀的
+abigail
+=>=>n. 使女
+abidance
+=>=>n. 遵守;持续;居住
+abhorrence
+=>=>n. 痛恨
+abhor
+=>=>vt. 憎恶;痛恨
+abhorrent
+=>=>a. 令人憎恨的;可恶的;厌恶的;相反的;不一致的
+abiding
+=>=>a. 永久的;持久的;不变的
+abide
+=>=>vi. 遵守;忍受;居留;坚持@vt. 忍受
+abient
+=>=>adj. 回避的
+abjuration
+=>=>n. 放弃;誓绝
+abject
+=>=>a. 不幸的;可怜的;悲惨的
+ability
+=>=>n. 能力;才干
+abjection
+=>=>n. 卑鄙;落魄
+ablactation
+=>=>n. 断奶
+abjure
+=>=>vt. 发誓放弃
+ablate
+=>=>vt.vi. 切除;腐蚀;蒸发
+ablution
+=>=>n. 洗身;洗礼;斋戒沐浴
+able
+=>=>a. 能干的 ;能够的
+ablaut
+=>=>n. 元音变换
+ablation
+=>=>n. 烧蚀
+ablaze
+=>=>a. 着火的;闪亮的;激昂的@ad. 着火;闪耀
+abloom
+=>=>ad. 开花@a. 开花的
+ablebodied
+=>=>a. 强壮的;强健的
+ablush
+=>=>a. 脸红@ad. 脸红
+abnormal
+=>=>a. 不正常
+abnegate
+=>=>vt. 放弃;舍弃;戒禁
+ably
+=>=>ad. 能干地;巧妙地
+abnegation
+=>=>n. 拒绝;放弃
+abnormity
+=>=>n. 异常;不规则;异形
+abnormality
+=>=>n. 不正常;反 常
+aboard
+=>=>ad. 在船上;在火车上;在飞机上@prep. 在...之上
+aborigines
+=>=>n. 土人;原住民;土生生物
+abolitionist
+=>=>n. 废除主义者;废奴主义者
+abolisher
+=>=>n. 废除者
+abolish
+=>=>vt. 废止;革除;取消
+aboil
+=>=>a. 沸腾的@ad. 沸腾着
+abolishable
+=>=>a. 可废止的;可取消的
+abolition
+=>=>n. 废除;废除奴隶制度
+abolishment
+=>=>n. 废止;革除;取消
+abolitionism
+=>=>n. 废除主义;废奴主义
+abomination
+=>=>n. 憎恨;痛恶;可憎的事物
+abominably
+=>=>ad. 可恶地;可恨地;极端地
+abominable
+=>=>a. 讨厌的;令人憎恶的
+abominate
+=>=>vt. 痛恨;憎恶
+aboriginal
+=>=>a. 原始的;土著的@n. 土著居民;土生生物
+aboral
+=>=>adj. 反口的
+aborigine
+=>=>n. 山地人
+abound
+=>=>vi. 丰富;富于;充满
+aborticide
+=>=>n. 堕胎;堕胎药
+abort
+=>=>vi. 流产;堕胎;失败@vt. 使流产;使失败
+aborning
+=>=>ad. 在生产中;刚要出生@a. 在生产中的
+aborted
+=>=>a. 流产的;失败的
+abortionist
+=>=>n. 为人堕胎者
+abortion
+=>=>n. 流产;堕胎;失败;夭折
+abortive
+=>=>a. 流产的;堕胎的;失败的
+aboveground
+=>=>ad. 在地上;未被埋葬地;活着
+above
+=>=>a. 上述的;上面的@ad. 在上面@prep. 在上方;超出
+about
+=>=>ad. 大约;四处;在附近;周围@prep. 有关;大约;关于
+aboveboard
+=>=>ad. 光明正大地;率直地@a. 光明正大的;率直的
+abradant
+=>=>a. 摩擦着的@n. 磨蚀剂
+abracadabra
+=>=>n. 咒语;胡言乱语
+abrade
+=>=>vt. 擦伤;磨损;磨
+absurdly
+=>=>ad. 荒谬地;悖理地;愚蠢地
+absolutely
+=>=>ad. 完全地;绝对地;正是如此
+abs
+=>=>n. abs@n. 绝对值
+abridgement
+=>=>n. 删节;缩短;删节本
+abreaction
+=>=>n. 消散;发泄
+abrasive
+=>=>n. 研磨剂@a. 研磨的
+abrasion
+=>=>n. 磨去;磨损;磨损处
+abreact
+=>=>vt. 使消散;发泄
+abridge
+=>=>vt. 删节;缩短;剥夺
+abreast
+=>=>ad. 并肩地;相并地
+abridged
+=>=>adj. 省略的
+abrogation
+=>=>n. 废除;取消
+abroad
+=>=>ad. 往国外;到处
+abridgment
+=>=>n. 删节;缩短;删节本;剥夺
+abrogate
+=>=>vt. 废除;取消
+abruptly
+=>=>ad. 突然地;唐突地
+abrupt
+=>=>a. 突然的;唐突的;陡峭的;不连贯的;无礼的
+abruptness
+=>=>n. 突然;唐突
+absence
+=>=>n. 缺乏;没有;缺席
+abscissa
+=>=>n. 横坐标
+abscessed
+=>=>a. 长脓疮的
+abscess
+=>=>n. 脓疮;溃疡
+abscind
+=>=>vt. 切断
+abscond
+=>=>vt. 潜逃;逃匿
+abscission
+=>=>n. 切断;除去;顿断法
+abscondence
+=>=>n. 逃亡;失踪
+absentminded
+=>=>a. 心不在焉的;茫然的;恍惚的
+absentee
+=>=>n. 缺席者;未上班者;不在者
+absent
+=>=>a. 缺席的;不在的;缺乏的;漫不经心的@vt. 缺席
+absently
+=>=>ad. 心不在焉地;茫然地
+absinthism
+=>=>n. 苦艾酒中毒
+absinth
+=>=>n. 苦艾酒
+absolute
+=>=>a. 绝对的;专制的;完全的;独立的@n. 绝对
+absorptive
+=>=>a. 吸收性的;有吸收力的
+absorbable
+=>=>a. 可吸收的;容易被吸收的
+absolutist
+=>=>n. 专制主义者;专制政治论者;绝对论者
+absolution
+=>=>n. 免罪;赦免;忏悔式
+absoluteness
+=>=>n. 绝对;完全;无限制
+absolutism
+=>=>n. 专制主义;专制政治论;绝对论
+absorb
+=>=>vt. 吸收;并吞;全神贯注;同化
+absolve
+=>=>vt. 宣告...无罪;赦免;免除
+absorbability
+=>=>n. 吸收;可吸收性
+absorber
+=>=>n. 吸收体
+absorbency
+=>=>n. 吸收性
+absorbed
+=>=>a. 全神贯注的;一心一意的
+absorbent
+=>=>a. 能吸收的@n. 吸收剂
+absorptance
+=>=>n. 吸收比
+absorbing
+=>=>a. 吸引人的;非常有趣的
+absorption
+=>=>n. 吸收;专心;热中
+abstract
+=>=>n. 摘要;抽象@a. 抽象的;深奥的@vt. 摘要;提炼;使抽象化
+abstention
+=>=>n. 节制;戒绝;避免;弃权
+abstainer
+=>=>n. 节制者;戒酒者;弃权者
+abstain
+=>=>vi. 自制;戒绝;弃权;避免
+abstemious
+=>=>a. 节制的;节约的
+abstinence
+=>=>n. 节制;禁欲;戒酒
+abstergent
+=>=>a. 去垢的@n. 洗洁剂
+abstinent
+=>=>a. 饮食有度的;有节制的;禁欲的
+abstractionist
+=>=>n. 抽象派艺术家
+abstraction
+=>=>n. 抽象化;心不在焉;提炼;抽象派作品
+abstracted
+=>=>a. 心不在焉的;出神的;分心的
+abstractionism
+=>=>n. 抽象派艺术
+absurd
+=>=>a. 荒谬的;不合理的;可笑的
+abstruse
+=>=>a. 难解的;深奥的
+absurdity
+=>=>n. 荒谬;悖理;荒谬的事
+abyss
+=>=>n. 深渊;无底洞;地狱
+abusive
+=>=>a. 辱骂的;滥用的;陋习的
+abundant
+=>=>a. 丰富的;充分的
+abulia
+=>=>n. 意志力丧失
+absurdness
+=>=>n. 荒谬;愚蠢
+abundance
+=>=>n. 丰富;充足
+abusage
+=>=>n. 文字的滥用
+abundantly
+=>=>ad. 大量地;丰富地
+abuse
+=>=>n. 滥用;恶习;辱骂@vt. 滥用;辱骂;虐待
+abutter
+=>=>n. 相邻房地产的业主
+abutment
+=>=>n. 邻接;接界;桥礅
+abut
+=>=>vt.vi. 邻接;毗邻
+abuttals
+=>=>n. 地界
+abuzz
+=>=>a. 嗡嗡的;嘁嘁喳喳的;活泼的
+abutting
+=>=>a. 邻接的
+abysmal
+=>=>a. 深不可测的;无底的
+abyssinian
+=>=>a. 阿比西尼亚的@n. 阿比西尼亚人;依索比亚人
+abyssinia
+=>=>n. 阿比西尼亚
+abyssal
+=>=>a. 深渊的;深海的
